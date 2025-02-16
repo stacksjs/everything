@@ -11,7 +11,7 @@
 
 - 📊 **Inspect**: Analyze & visualize the dependencies of all Stacks packages
 
-_Powered by [`node-modules-inspector`](https://github.com/stacksjs/node-modules-inspector)._
+_Powered by [`node-modules-inspector`](https://github.com/antfu/node-modules-inspector)._
 
 ## Usage
 
