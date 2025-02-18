@@ -1,9 +1,23 @@
 import { defineConfig } from 'node-modules-inspector'
 
 export default defineConfig({
+  name: '@stacksjs/everything',
+  defaultFilters: {
+    'source-type': 'prod',
+    'exclude-workspace': true,
+  },
+  defaultSettings: {
+    showPublishTimeBadge: true,
+    showInstallSizeBadge: true,
+    showFileComposition: true,
+  },
   excludeDependenciesOf: [
     'eslint',
     'webpack',
-    'node-modules-inspector',
+    '@typescript-eslint/eslint-plugin',
+    '@typescript-eslint/utils',
+  ],
+  excludePackages: [
+    'typescript',
   ],
 })
