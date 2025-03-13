@@ -1,0 +1,116 @@
+packages: []
+
+catalogs:
+  bun:
+    bun-git-hooks: ^0.1.0
+    bun-plugin-auto-imports: ^0.3.1
+    bun-plugin-dotenvx: ^0.6.3
+    bun-plugin-dtsx: ^0.21.9
+    bun-plugin-unocss: ^0.1.2
+
+  core:
+    '@stacksjs/actions': ^0.69.3
+    '@stacksjs/ai': ^0.69.3
+    '@stacksjs/alias': ^0.69.3
+    '@stacksjs/analytics': ^0.69.3
+    '@stacksjs/api': ^0.69.3
+    '@stacksjs/arrays': ^0.69.3
+    '@stacksjs/audiox': ^0.1.1
+    '@stacksjs/auth': ^0.69.3
+    '@stacksjs/browser': ^0.69.3
+    '@stacksjs/buddy': ^0.69.3
+    '@stacksjs/build': ^0.69.3
+    '@stacksjs/cache': ^0.69.3
+    '@stacksjs/calendar-api': ^0.69.3
+    '@stacksjs/chat': ^0.69.3
+    '@stacksjs/clarity': ^0.2.0
+    '@stacksjs/cli': ^0.69.3
+    '@stacksjs/cloud': ^0.69.3
+    '@stacksjs/collections': ^0.69.3
+    '@stacksjs/config': ^0.69.3
+    '@stacksjs/database': ^0.69.3
+    '@stacksjs/datetime': ^0.69.3
+    '@stacksjs/desktop': ^0.69.3
+    '@stacksjs/development': ^0.69.3
+    '@stacksjs/dns': ^0.69.3
+    '@stacksjs/dnsx': ^0.2.2
+    '@stacksjs/docs': ^0.69.3
+    '@stacksjs/dtsx': ^0.8.0
+    '@stacksjs/email': ^0.69.3
+    '@stacksjs/enums': ^0.69.3
+    '@stacksjs/env': ^0.69.3
+    '@stacksjs/error-handling': ^0.69.3
+    '@stacksjs/events': ^0.69.3
+    '@stacksjs/faker': ^0.69.3
+    '@stacksjs/git': ^0.69.3
+    '@stacksjs/health': ^0.69.3
+    '@stacksjs/http': ^0.69.3
+    '@stacksjs/httx': ^0.1.5
+    '@stacksjs/lint': ^0.69.3
+    '@stacksjs/logging': ^0.69.3
+    '@stacksjs/notifications': ^0.69.3
+    '@stacksjs/objects': ^0.69.3
+    '@stacksjs/orm': ^0.69.3
+    '@stacksjs/path': ^0.69.3
+    '@stacksjs/payments': ^0.69.3
+    '@stacksjs/push': ^0.69.3
+    '@stacksjs/qrx': ^0.1.0
+    '@stacksjs/query-builder': ^0.69.3
+    '@stacksjs/queue': ^0.69.3
+    '@stacksjs/realtime': ^0.69.3
+    '@stacksjs/registry': ^0.69.3
+    '@stacksjs/repl': ^0.69.3
+    '@stacksjs/router': ^0.69.3
+    '@stacksjs/rpx': ^0.10.0
+    '@stacksjs/scheduler': ^0.69.3
+    '@stacksjs/search-engine': ^0.69.3
+    '@stacksjs/security': ^0.69.3
+    '@stacksjs/server': ^0.69.3
+    '@stacksjs/shell': ^0.69.3
+    '@stacksjs/slug': ^0.69.3
+    '@stacksjs/sms': ^0.69.3
+    '@stacksjs/storage': ^0.69.3
+    '@stacksjs/strings': ^0.69.3
+    '@stacksjs/testing': ^0.69.3
+    '@stacksjs/tinker': ^0.69.3
+    '@stacksjs/tlsx': ^0.10.0
+    '@stacksjs/tunnel': ^0.69.3
+    '@stacksjs/types': ^0.69.3
+    '@stacksjs/ui': ^0.69.3
+    '@stacksjs/utils': ^0.69.3
+    '@stacksjs/validation': ^0.69.3
+    '@stacksjs/whois': ^0.69.3
+    '@stacksjs/x-ray': ^0.69.3
+
+  eslint:
+    '@stacksjs/eslint-config': ^4.8.2-beta.1
+
+  libs:
+    jpgx: ^0.2.0
+    localtunnels: ^0.1.1
+    pngx: ^0.1.1
+    ts-collect: ^0.4.0
+    ts-gif: ^0.1.2
+    ts-ndarray: ^0.1.0
+    ts-spreadsheets: ^0.2.0
+
+  unrelated:
+    '@types/node': ^22.13.10
+    eslint: ^9.22.0
+    lint-staged: ^15.5.0
+    netlify-plugin-cache: ^1.0.3
+    pnpm: ^10.6.2
+    simple-git-hooks: ^2.11.1
+    typescript: ^5.8.2
+
+  vite:
+    '@stacksjs/vite-config': ^0.69.3
+    '@stacksjs/vite-plugin': ^0.69.3
+    vite-plugin-dotenvx: ^0.1.0
+    vite-plugin-local: ^0.5.0
+
+onlyBuiltDependencies:
+  - '@parcel/watcher'
+  - esbuild
+  - sharp
+  - simple-git-hooks
