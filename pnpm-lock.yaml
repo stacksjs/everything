@@ -53,7 +53,7 @@ catalogs:
       specifier: ^0.69.3
       version: 0.69.3
     '@stacksjs/build':
-      specifier: ^0.69.3
+      specifier: ^0.69.5
       version: 0.69.5
     '@stacksjs/cache':
       specifier: ^0.69.3
@@ -62,7 +62,7 @@ catalogs:
       specifier: ^0.69.3
       version: 0.69.3
     '@stacksjs/chat':
-      specifier: ^0.69.3
+      specifier: ^0.69.5
       version: 0.69.5
     '@stacksjs/clarity':
       specifier: ^0.2.0
@@ -140,7 +140,7 @@ catalogs:
       specifier: ^0.69.3
       version: 0.69.3
     '@stacksjs/notifications':
-      specifier: ^0.69.3
+      specifier: ^0.69.5
       version: 0.69.5
     '@stacksjs/objects':
       specifier: ^0.69.3
@@ -149,7 +149,7 @@ catalogs:
       specifier: ^0.69.3
       version: 0.69.3
     '@stacksjs/path':
-      specifier: ^0.69.3
+      specifier: ^0.69.5
       version: 0.69.5
     '@stacksjs/payments':
       specifier: ^0.69.3
@@ -161,7 +161,7 @@ catalogs:
       specifier: ^0.1.0
       version: 0.1.0
     '@stacksjs/query-builder':
-      specifier: ^0.69.3
+      specifier: ^0.69.5
       version: 0.69.5
     '@stacksjs/queue':
       specifier: ^0.69.3
@@ -191,7 +191,7 @@ catalogs:
       specifier: ^0.69.3
       version: 0.69.3
     '@stacksjs/server':
-      specifier: ^0.69.3
+      specifier: ^0.69.5
       version: 0.69.5
     '@stacksjs/shell':
       specifier: ^0.69.3
@@ -278,11 +278,11 @@ catalogs:
       specifier: ^1.0.3
       version: 1.0.3
     node-modules-inspector:
-      specifier: ^0.5.3
-      version: 0.5.3
+      specifier: ^0.5.5
+      version: 0.5.5
     pnpm:
-      specifier: ^10.6.2
-      version: 10.6.2
+      specifier: ^10.6.3
+      version: 10.6.3
     simple-git-hooks:
       specifier: ^2.11.1
       version: 2.11.1
@@ -297,7 +297,7 @@ catalogs:
       specifier: ^0.69.3
       version: 0.69.3
     vite-plugin-dotenvx:
-      specifier: ^0.1.0
+      specifier: ^0.1.1
       version: 0.1.1
     vite-plugin-local:
       specifier: ^0.5.0
@@ -589,10 +589,10 @@ importers:
         version: 1.0.3
       node-modules-inspector:
         specifier: catalog:unrelated
-        version: 0.5.3
+        version: 0.5.5
       pnpm:
         specifier: catalog:unrelated
-        version: 10.6.2
+        version: 10.6.3
       simple-git-hooks:
         specifier: catalog:unrelated
         version: 2.11.1
@@ -4437,12 +4437,12 @@ packages:
   node-mock-http@1.0.0:
     resolution: {integrity: sha512-0uGYQ1WQL1M5kKvGRXWQ3uZCHtLTO8hln3oBjIusM75WoesZ909uQJs/Hb946i2SS+Gsrhkaa6iAO17jRIv6DQ==}
 
-  node-modules-inspector@0.5.3:
-    resolution: {integrity: sha512-dzT6JKdnf9DzKUvirTa/ViqVwNiJ7HMidoEpuPTeyQzOU40oFLfPbz9omgj1CE9j4/va10c6R846009wef9HhA==}
+  node-modules-inspector@0.5.5:
+    resolution: {integrity: sha512-tdNug19argu/zSJ/TXOrTQBpcA++hjA1PqqGzwA1P5NfnyNJzp9hPDwJtlF2nJ/QmF68tCkHwYBzQ9Vqv5MqlQ==}
     hasBin: true
 
-  node-modules-tools@0.5.3:
-    resolution: {integrity: sha512-0Kq3dJaLXrpKFpL6PzERy2wLvB+U4AAiO2FUOhbHBGpm/bKrdGXviYvvTnFJ55nKhR4Fzml9rXOKbAjtCMpvSA==}
+  node-modules-tools@0.5.5:
+    resolution: {integrity: sha512-DshwYzb8CWql/wtEJ433Trli6RrOfM/DBt/wL9IZ0bVYayBkp+VoXXogRDD5EPdXEykiHfZiS7Fk8V9XViQ1eg==}
 
   node-releases@2.0.19:
     resolution: {integrity: sha512-xxOWJsBKtzAq7DY0J+DTzuz58K8e7sJbdgwkbMWQe8UYB6ekmsQ45q0M/tJDsGaZmbC+l7n57UV8Hl5tHxO9uw==}
@@ -4631,8 +4631,8 @@ packages:
   pnpm-workspace-yaml@0.1.2:
     resolution: {integrity: sha512-FaSo51Psz+jHV8YtnuIVemTheOIO5EnMtw0HSPTUsASEdOf3ppM5OBxKO5Dpvx4fWKNZF44vEEMFKc5YZG4qjA==}
 
-  pnpm@10.6.2:
-    resolution: {integrity: sha512-R4cHFr6hVytT3zSthke0KWK8eQziv0Viug9kMjfXMCo9ao7O+eS9/AHSOvGWmqkEhdTOuwuWOPpe8drvZW9sGw==}
+  pnpm@10.6.3:
+    resolution: {integrity: sha512-u0XjTVCpp26FipWDcwG/tr1tNa6ixdUglPpJekZ8Q/XEQBA84lEengovicPWBxuqwzWPxorG+3XizrPSc2Bl5g==}
     engines: {node: '>=18.12'}
     hasBin: true
 
@@ -10269,7 +10269,7 @@ snapshots:
 
   node-mock-http@1.0.0: {}
 
-  node-modules-inspector@0.5.3:
+  node-modules-inspector@0.5.5:
     dependencies:
       ansis: 3.17.0
       birpc: 2.2.0
@@ -10280,7 +10280,7 @@ snapshots:
       launch-editor: 2.10.0
       mlly: 1.7.4
       mrmime: 2.0.1
-      node-modules-tools: 0.5.3
+      node-modules-tools: 0.5.5
       ohash: 2.0.11
       open: 10.1.0
       p-limit: 6.2.0
@@ -10313,7 +10313,7 @@ snapshots:
       - uploadthing
       - utf-8-validate
 
-  node-modules-tools@0.5.3:
+  node-modules-tools@0.5.5:
     dependencies:
       js-yaml: 4.1.0
       p-limit: 6.2.0
@@ -10516,7 +10516,7 @@ snapshots:
     dependencies:
       yaml: 2.7.0
 
-  pnpm@10.6.2: {}
+  pnpm@10.6.3: {}
 
   possible-typed-array-names@1.1.0: {}
 
