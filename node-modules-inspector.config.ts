@@ -1,7 +1,7 @@
 import { defineConfig } from 'node-modules-inspector'
 
 export default defineConfig({
-  name: '@antfu/everything',
+  name: '@stacksjs/everything',
   defaultFilters: {
     sourceType: 'prod',
     excludeWorkspace: true,
