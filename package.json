@@ -2,7 +2,7 @@
   "name": "@stacksjs/everything",
   "type": "module",
   "version": "0.0.0",
-  "packageManager": "pnpm@10.6.2",
+  "packageManager": "pnpm@10.6.3",
   "description": "Every package created & maintained by the Stacks Team.",
   "author": "Chris Breuer <chris@stacksjs.org>",
   "license": "MIT",

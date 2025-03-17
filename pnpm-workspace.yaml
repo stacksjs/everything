@@ -19,10 +19,10 @@ catalogs:
     '@stacksjs/auth': ^0.69.3
     '@stacksjs/browser': ^0.69.3
     '@stacksjs/buddy': ^0.69.3
-    '@stacksjs/build': ^0.69.3
+    '@stacksjs/build': ^0.69.5
     '@stacksjs/cache': ^0.69.3
     '@stacksjs/calendar-api': ^0.69.3
-    '@stacksjs/chat': ^0.69.3
+    '@stacksjs/chat': ^0.69.5
     '@stacksjs/clarity': ^0.2.0
     '@stacksjs/cli': ^0.69.3
     '@stacksjs/cloud': ^0.69.3
@@ -48,14 +48,14 @@ catalogs:
     '@stacksjs/httx': ^0.1.5
     '@stacksjs/lint': ^0.69.3
     '@stacksjs/logging': ^0.69.3
-    '@stacksjs/notifications': ^0.69.3
+    '@stacksjs/notifications': ^0.69.5
     '@stacksjs/objects': ^0.69.3
     '@stacksjs/orm': ^0.69.3
-    '@stacksjs/path': ^0.69.3
+    '@stacksjs/path': ^0.69.5
     '@stacksjs/payments': ^0.69.3
     '@stacksjs/push': ^0.69.3
     '@stacksjs/qrx': ^0.1.0
-    '@stacksjs/query-builder': ^0.69.3
+    '@stacksjs/query-builder': ^0.69.5
     '@stacksjs/queue': ^0.69.3
     '@stacksjs/realtime': ^0.69.3
     '@stacksjs/registry': ^0.69.3
@@ -65,7 +65,7 @@ catalogs:
     '@stacksjs/scheduler': ^0.69.3
     '@stacksjs/search-engine': ^0.69.3
     '@stacksjs/security': ^0.69.3
-    '@stacksjs/server': ^0.69.3
+    '@stacksjs/server': ^0.69.5
     '@stacksjs/shell': ^0.69.3
     '@stacksjs/slug': ^0.69.3
     '@stacksjs/sms': ^0.69.3
@@ -99,15 +99,15 @@ catalogs:
     eslint: ^9.22.0
     lint-staged: ^15.5.0
     netlify-plugin-cache: ^1.0.3
-    node-modules-inspector: ^0.5.3
-    pnpm: ^10.6.2
+    node-modules-inspector: ^0.5.5
+    pnpm: ^10.6.3
     simple-git-hooks: ^2.11.1
     typescript: ^5.8.2
 
   vite:
     '@stacksjs/vite-config': ^0.69.3
     '@stacksjs/vite-plugin': ^0.69.3
-    vite-plugin-dotenvx: ^0.1.0
+    vite-plugin-dotenvx: ^0.1.1
     vite-plugin-local: ^0.5.0
 
 onlyBuiltDependencies:
