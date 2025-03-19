@@ -99,8 +99,8 @@ catalogs:
     eslint: ^9.22.0
     lint-staged: ^15.5.0
     netlify-plugin-cache: ^1.0.3
-    node-modules-inspector: ^0.5.5
-    pnpm: ^10.6.3
+    node-modules-inspector: ^0.5.6
+    pnpm: ^10.6.4
     simple-git-hooks: ^2.11.1
     typescript: ^5.8.2
 
