@@ -83,7 +83,7 @@ catalogs:
     '@stacksjs/x-ray': ^0.70.4
 
   eslint:
-    '@stacksjs/eslint-config': ^4.10.2-beta.1
+    '@stacksjs/eslint-config': ^4.10.2-beta.2
 
   libs:
     jpgx: ^0.2.0
