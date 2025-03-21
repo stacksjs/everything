@@ -60,7 +60,7 @@ catalogs:
     '@stacksjs/realtime': ^0.70.1
     '@stacksjs/registry': ^0.70.1
     '@stacksjs/repl': ^0.70.1
-    '@stacksjs/router': ^0.70.0
+    '@stacksjs/router': ^0.70.1
     '@stacksjs/rpx': ^0.10.0
     '@stacksjs/scheduler': ^0.70.1
     '@stacksjs/search-engine': ^0.70.1
