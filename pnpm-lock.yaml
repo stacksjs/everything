@@ -23,220 +23,220 @@ catalogs:
       version: 0.1.2
   core:
     '@stacksjs/actions':
-      specifier: ^0.70.5
+      specifier: ^0.70.6
       version: 0.70.6
     '@stacksjs/ai':
-      specifier: ^0.70.5
+      specifier: ^0.70.6
       version: 0.70.6
     '@stacksjs/alias':
-      specifier: ^0.70.5
+      specifier: ^0.70.6
       version: 0.70.6
     '@stacksjs/analytics':
-      specifier: ^0.70.5
+      specifier: ^0.70.6
       version: 0.70.6
     '@stacksjs/api':
-      specifier: ^0.70.5
+      specifier: ^0.70.6
       version: 0.70.6
     '@stacksjs/arrays':
-      specifier: ^0.70.5
+      specifier: ^0.70.6
       version: 0.70.6
     '@stacksjs/audiox':
       specifier: ^0.1.1
       version: 0.1.1
     '@stacksjs/auth':
-      specifier: ^0.70.5
+      specifier: ^0.70.6
       version: 0.70.6
     '@stacksjs/browser':
-      specifier: ^0.70.5
+      specifier: ^0.70.6
       version: 0.70.6
     '@stacksjs/buddy':
-      specifier: ^0.70.5
+      specifier: ^0.70.6
       version: 0.70.6
     '@stacksjs/build':
-      specifier: ^0.70.5
+      specifier: ^0.70.6
       version: 0.70.6
     '@stacksjs/cache':
-      specifier: ^0.70.5
+      specifier: ^0.70.6
       version: 0.70.6
     '@stacksjs/calendar-api':
-      specifier: ^0.70.5
+      specifier: ^0.70.6
       version: 0.70.6
     '@stacksjs/chat':
-      specifier: ^0.70.5
+      specifier: ^0.70.6
       version: 0.70.6
     '@stacksjs/clarity':
       specifier: ^0.2.0
       version: 0.2.0
     '@stacksjs/cli':
-      specifier: ^0.70.5
+      specifier: ^0.70.6
       version: 0.70.6
     '@stacksjs/cloud':
-      specifier: ^0.70.5
+      specifier: ^0.70.6
       version: 0.70.6
     '@stacksjs/collections':
-      specifier: ^0.70.5
+      specifier: ^0.70.6
       version: 0.70.6
     '@stacksjs/config':
-      specifier: ^0.70.5
+      specifier: ^0.70.6
       version: 0.70.6
     '@stacksjs/database':
-      specifier: ^0.70.5
+      specifier: ^0.70.6
       version: 0.70.6
     '@stacksjs/datetime':
-      specifier: ^0.70.5
+      specifier: ^0.70.6
       version: 0.70.6
     '@stacksjs/desktop':
-      specifier: ^0.70.5
+      specifier: ^0.70.6
       version: 0.70.6
     '@stacksjs/development':
-      specifier: ^0.70.5
+      specifier: ^0.70.6
       version: 0.70.6
     '@stacksjs/dns':
-      specifier: ^0.70.5
+      specifier: ^0.70.6
       version: 0.70.6
     '@stacksjs/dnsx':
       specifier: ^0.2.2
       version: 0.2.2
     '@stacksjs/docs':
-      specifier: ^0.70.5
+      specifier: ^0.70.6
       version: 0.70.6
     '@stacksjs/dtsx':
       specifier: ^0.8.0
       version: 0.8.0
     '@stacksjs/email':
-      specifier: ^0.70.5
+      specifier: ^0.70.6
       version: 0.70.6
     '@stacksjs/enums':
-      specifier: ^0.70.5
+      specifier: ^0.70.6
       version: 0.70.6
     '@stacksjs/env':
-      specifier: ^0.70.5
+      specifier: ^0.70.6
       version: 0.70.6
     '@stacksjs/error-handling':
-      specifier: ^0.70.5
+      specifier: ^0.70.6
       version: 0.70.6
     '@stacksjs/events':
-      specifier: ^0.70.5
+      specifier: ^0.70.6
       version: 0.70.6
     '@stacksjs/faker':
-      specifier: ^0.70.5
+      specifier: ^0.70.6
       version: 0.70.6
     '@stacksjs/git':
-      specifier: ^0.70.5
+      specifier: ^0.70.6
       version: 0.70.6
     '@stacksjs/health':
-      specifier: ^0.70.5
+      specifier: ^0.70.6
       version: 0.70.6
     '@stacksjs/http':
-      specifier: ^0.70.5
+      specifier: ^0.70.6
       version: 0.70.6
     '@stacksjs/httx':
       specifier: ^0.1.5
       version: 0.1.5
     '@stacksjs/lint':
-      specifier: ^0.70.5
+      specifier: ^0.70.6
       version: 0.70.6
     '@stacksjs/logging':
-      specifier: ^0.70.5
+      specifier: ^0.70.6
       version: 0.70.6
     '@stacksjs/notifications':
-      specifier: ^0.70.5
+      specifier: ^0.70.6
       version: 0.70.6
     '@stacksjs/objects':
-      specifier: ^0.70.5
+      specifier: ^0.70.6
       version: 0.70.6
     '@stacksjs/orm':
-      specifier: ^0.70.5
+      specifier: ^0.70.6
       version: 0.70.6
     '@stacksjs/path':
-      specifier: ^0.70.5
+      specifier: ^0.70.6
       version: 0.70.6
     '@stacksjs/payments':
-      specifier: ^0.70.5
+      specifier: ^0.70.6
       version: 0.70.6
     '@stacksjs/push':
-      specifier: ^0.70.5
+      specifier: ^0.70.6
       version: 0.70.6
     '@stacksjs/qrx':
       specifier: ^0.1.0
       version: 0.1.0
     '@stacksjs/query-builder':
-      specifier: ^0.70.5
+      specifier: ^0.70.6
       version: 0.70.6
     '@stacksjs/queue':
-      specifier: ^0.70.5
+      specifier: ^0.70.6
       version: 0.70.6
     '@stacksjs/realtime':
-      specifier: ^0.70.5
+      specifier: ^0.70.6
       version: 0.70.6
     '@stacksjs/registry':
-      specifier: ^0.70.5
+      specifier: ^0.70.6
       version: 0.70.6
     '@stacksjs/repl':
-      specifier: ^0.70.5
+      specifier: ^0.70.6
       version: 0.70.6
     '@stacksjs/router':
-      specifier: ^0.70.5
+      specifier: ^0.70.6
       version: 0.70.6
     '@stacksjs/rpx':
       specifier: ^0.10.0
       version: 0.10.0
     '@stacksjs/scheduler':
-      specifier: ^0.70.5
+      specifier: ^0.70.6
       version: 0.70.6
     '@stacksjs/search-engine':
-      specifier: ^0.70.5
+      specifier: ^0.70.6
       version: 0.70.6
     '@stacksjs/security':
-      specifier: ^0.70.5
+      specifier: ^0.70.6
       version: 0.70.6
     '@stacksjs/server':
-      specifier: ^0.70.5
+      specifier: ^0.70.6
       version: 0.70.6
     '@stacksjs/shell':
-      specifier: ^0.70.5
+      specifier: ^0.70.6
       version: 0.70.6
     '@stacksjs/slug':
-      specifier: ^0.70.5
+      specifier: ^0.70.6
       version: 0.70.6
     '@stacksjs/sms':
-      specifier: ^0.70.5
+      specifier: ^0.70.6
       version: 0.70.6
     '@stacksjs/storage':
-      specifier: ^0.70.5
+      specifier: ^0.70.6
       version: 0.70.6
     '@stacksjs/strings':
-      specifier: ^0.70.5
+      specifier: ^0.70.6
       version: 0.70.6
     '@stacksjs/testing':
-      specifier: ^0.70.5
+      specifier: ^0.70.6
       version: 0.70.6
     '@stacksjs/tinker':
-      specifier: ^0.70.5
+      specifier: ^0.70.6
       version: 0.70.6
     '@stacksjs/tlsx':
       specifier: ^0.10.0
       version: 0.10.0
     '@stacksjs/tunnel':
-      specifier: ^0.70.5
+      specifier: ^0.70.6
       version: 0.70.6
     '@stacksjs/types':
-      specifier: ^0.70.5
+      specifier: ^0.70.6
       version: 0.70.6
     '@stacksjs/ui':
-      specifier: ^0.70.5
+      specifier: ^0.70.6
       version: 0.70.6
     '@stacksjs/utils':
-      specifier: ^0.70.5
+      specifier: ^0.70.6
       version: 0.70.6
     '@stacksjs/validation':
-      specifier: ^0.70.5
+      specifier: ^0.70.6
       version: 0.70.6
     '@stacksjs/whois':
-      specifier: ^0.70.5
+      specifier: ^0.70.6
       version: 0.70.6
     '@stacksjs/x-ray':
-      specifier: ^0.70.5
+      specifier: ^0.70.6
       version: 0.70.6
   eslint:
     '@stacksjs/eslint-config':
@@ -291,10 +291,10 @@ catalogs:
       version: 5.8.2
   vite:
     '@stacksjs/vite-config':
-      specifier: ^0.70.5
+      specifier: ^0.70.6
       version: 0.70.6
     '@stacksjs/vite-plugin':
-      specifier: ^0.70.5
+      specifier: ^0.70.6
       version: 0.70.6
     vite-plugin-dotenvx:
       specifier: ^0.1.1
