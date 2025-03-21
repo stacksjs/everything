@@ -176,7 +176,7 @@ catalogs:
       specifier: ^0.70.1
       version: 0.70.1
     '@stacksjs/router':
-      specifier: ^0.70.0
+      specifier: ^0.70.1
       version: 0.70.1
     '@stacksjs/rpx':
       specifier: ^0.10.0
