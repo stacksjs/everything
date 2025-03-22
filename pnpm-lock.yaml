@@ -23,221 +23,221 @@ catalogs:
       version: 0.1.2
   core:
     '@stacksjs/actions':
-      specifier: ^0.70.9
-      version: 0.70.9
+      specifier: ^0.70.10
+      version: 0.70.10
     '@stacksjs/ai':
-      specifier: ^0.70.9
-      version: 0.70.9
+      specifier: ^0.70.10
+      version: 0.70.10
     '@stacksjs/alias':
-      specifier: ^0.70.9
-      version: 0.70.9
+      specifier: ^0.70.10
+      version: 0.70.10
     '@stacksjs/analytics':
-      specifier: ^0.70.9
-      version: 0.70.9
+      specifier: ^0.70.10
+      version: 0.70.10
     '@stacksjs/api':
-      specifier: ^0.70.9
-      version: 0.70.9
+      specifier: ^0.70.10
+      version: 0.70.10
     '@stacksjs/arrays':
-      specifier: ^0.70.9
-      version: 0.70.9
+      specifier: ^0.70.10
+      version: 0.70.10
     '@stacksjs/audiox':
       specifier: ^0.1.1
       version: 0.1.1
     '@stacksjs/auth':
-      specifier: ^0.70.9
-      version: 0.70.9
+      specifier: ^0.70.10
+      version: 0.70.10
     '@stacksjs/browser':
-      specifier: ^0.70.9
-      version: 0.70.9
+      specifier: ^0.70.10
+      version: 0.70.10
     '@stacksjs/buddy':
-      specifier: ^0.70.9
-      version: 0.70.9
+      specifier: ^0.70.10
+      version: 0.70.10
     '@stacksjs/build':
-      specifier: ^0.70.9
-      version: 0.70.9
+      specifier: ^0.70.10
+      version: 0.70.10
     '@stacksjs/cache':
-      specifier: ^0.70.9
-      version: 0.70.9
+      specifier: ^0.70.10
+      version: 0.70.10
     '@stacksjs/calendar-api':
-      specifier: ^0.70.9
-      version: 0.70.9
+      specifier: ^0.70.10
+      version: 0.70.10
     '@stacksjs/chat':
-      specifier: ^0.70.9
-      version: 0.70.9
+      specifier: ^0.70.10
+      version: 0.70.10
     '@stacksjs/clarity':
       specifier: ^0.2.0
       version: 0.2.0
     '@stacksjs/cli':
-      specifier: ^0.70.9
-      version: 0.70.9
+      specifier: ^0.70.10
+      version: 0.70.10
     '@stacksjs/cloud':
-      specifier: ^0.70.9
-      version: 0.70.9
+      specifier: ^0.70.10
+      version: 0.70.10
     '@stacksjs/collections':
-      specifier: ^0.70.9
-      version: 0.70.9
+      specifier: ^0.70.10
+      version: 0.70.10
     '@stacksjs/config':
-      specifier: ^0.70.9
-      version: 0.70.9
+      specifier: ^0.70.10
+      version: 0.70.10
     '@stacksjs/database':
-      specifier: ^0.70.9
-      version: 0.70.9
+      specifier: ^0.70.10
+      version: 0.70.10
     '@stacksjs/datetime':
-      specifier: ^0.70.9
-      version: 0.70.9
+      specifier: ^0.70.10
+      version: 0.70.10
     '@stacksjs/desktop':
-      specifier: ^0.70.9
-      version: 0.70.9
+      specifier: ^0.70.10
+      version: 0.70.10
     '@stacksjs/development':
-      specifier: ^0.70.9
-      version: 0.70.9
+      specifier: ^0.70.10
+      version: 0.70.10
     '@stacksjs/dns':
-      specifier: ^0.70.9
-      version: 0.70.9
+      specifier: ^0.70.10
+      version: 0.70.10
     '@stacksjs/dnsx':
       specifier: ^0.2.2
       version: 0.2.2
     '@stacksjs/docs':
-      specifier: ^0.70.9
-      version: 0.70.9
+      specifier: ^0.70.10
+      version: 0.70.10
     '@stacksjs/dtsx':
       specifier: ^0.8.0
       version: 0.8.0
     '@stacksjs/email':
-      specifier: ^0.70.9
-      version: 0.70.9
+      specifier: ^0.70.10
+      version: 0.70.10
     '@stacksjs/enums':
-      specifier: ^0.70.9
-      version: 0.70.9
+      specifier: ^0.70.10
+      version: 0.70.10
     '@stacksjs/env':
-      specifier: ^0.70.9
-      version: 0.70.9
+      specifier: ^0.70.10
+      version: 0.70.10
     '@stacksjs/error-handling':
-      specifier: ^0.70.9
-      version: 0.70.9
+      specifier: ^0.70.10
+      version: 0.70.10
     '@stacksjs/events':
-      specifier: ^0.70.9
-      version: 0.70.9
+      specifier: ^0.70.10
+      version: 0.70.10
     '@stacksjs/faker':
-      specifier: ^0.70.9
-      version: 0.70.9
+      specifier: ^0.70.10
+      version: 0.70.10
     '@stacksjs/git':
-      specifier: ^0.70.9
-      version: 0.70.9
+      specifier: ^0.70.10
+      version: 0.70.10
     '@stacksjs/health':
-      specifier: ^0.70.9
-      version: 0.70.9
+      specifier: ^0.70.10
+      version: 0.70.10
     '@stacksjs/http':
-      specifier: ^0.70.9
-      version: 0.70.9
+      specifier: ^0.70.10
+      version: 0.70.10
     '@stacksjs/httx':
       specifier: ^0.1.5
       version: 0.1.5
     '@stacksjs/lint':
-      specifier: ^0.70.9
-      version: 0.70.9
+      specifier: ^0.70.10
+      version: 0.70.10
     '@stacksjs/logging':
-      specifier: ^0.70.9
-      version: 0.70.9
+      specifier: ^0.70.10
+      version: 0.70.10
     '@stacksjs/notifications':
-      specifier: ^0.70.9
-      version: 0.70.9
+      specifier: ^0.70.10
+      version: 0.70.10
     '@stacksjs/objects':
-      specifier: ^0.70.9
-      version: 0.70.9
+      specifier: ^0.70.10
+      version: 0.70.10
     '@stacksjs/orm':
-      specifier: ^0.70.9
-      version: 0.70.9
+      specifier: ^0.70.10
+      version: 0.70.10
     '@stacksjs/path':
-      specifier: ^0.70.9
-      version: 0.70.9
+      specifier: ^0.70.10
+      version: 0.70.10
     '@stacksjs/payments':
-      specifier: ^0.70.9
-      version: 0.70.9
+      specifier: ^0.70.10
+      version: 0.70.10
     '@stacksjs/push':
-      specifier: ^0.70.9
-      version: 0.70.9
+      specifier: ^0.70.10
+      version: 0.70.10
     '@stacksjs/qrx':
       specifier: ^0.1.0
       version: 0.1.0
     '@stacksjs/query-builder':
-      specifier: ^0.70.9
-      version: 0.70.9
+      specifier: ^0.70.10
+      version: 0.70.10
     '@stacksjs/queue':
-      specifier: ^0.70.9
-      version: 0.70.9
+      specifier: ^0.70.10
+      version: 0.70.10
     '@stacksjs/realtime':
-      specifier: ^0.70.9
-      version: 0.70.9
+      specifier: ^0.70.10
+      version: 0.70.10
     '@stacksjs/registry':
-      specifier: ^0.70.9
-      version: 0.70.9
+      specifier: ^0.70.10
+      version: 0.70.10
     '@stacksjs/repl':
-      specifier: ^0.70.9
-      version: 0.70.9
+      specifier: ^0.70.10
+      version: 0.70.10
     '@stacksjs/router':
-      specifier: ^0.70.9
-      version: 0.70.9
+      specifier: ^0.70.10
+      version: 0.70.10
     '@stacksjs/rpx':
       specifier: ^0.10.0
       version: 0.10.0
     '@stacksjs/scheduler':
-      specifier: ^0.70.9
-      version: 0.70.9
+      specifier: ^0.70.10
+      version: 0.70.10
     '@stacksjs/search-engine':
-      specifier: ^0.70.9
-      version: 0.70.9
+      specifier: ^0.70.10
+      version: 0.70.10
     '@stacksjs/security':
-      specifier: ^0.70.9
-      version: 0.70.9
+      specifier: ^0.70.10
+      version: 0.70.10
     '@stacksjs/server':
-      specifier: ^0.70.9
-      version: 0.70.9
+      specifier: ^0.70.10
+      version: 0.70.10
     '@stacksjs/shell':
-      specifier: ^0.70.9
-      version: 0.70.9
+      specifier: ^0.70.10
+      version: 0.70.10
     '@stacksjs/slug':
-      specifier: ^0.70.9
-      version: 0.70.9
+      specifier: ^0.70.10
+      version: 0.70.10
     '@stacksjs/sms':
-      specifier: ^0.70.9
-      version: 0.70.9
+      specifier: ^0.70.10
+      version: 0.70.10
     '@stacksjs/storage':
-      specifier: ^0.70.9
-      version: 0.70.9
+      specifier: ^0.70.10
+      version: 0.70.10
     '@stacksjs/strings':
-      specifier: ^0.70.9
-      version: 0.70.9
+      specifier: ^0.70.10
+      version: 0.70.10
     '@stacksjs/testing':
-      specifier: ^0.70.9
-      version: 0.70.9
+      specifier: ^0.70.10
+      version: 0.70.10
     '@stacksjs/tinker':
-      specifier: ^0.70.9
-      version: 0.70.9
+      specifier: ^0.70.10
+      version: 0.70.10
     '@stacksjs/tlsx':
       specifier: ^0.10.0
       version: 0.10.0
     '@stacksjs/tunnel':
-      specifier: ^0.70.9
-      version: 0.70.9
+      specifier: ^0.70.10
+      version: 0.70.10
     '@stacksjs/types':
-      specifier: ^0.70.9
-      version: 0.70.9
+      specifier: ^0.70.10
+      version: 0.70.10
     '@stacksjs/ui':
-      specifier: ^0.70.9
-      version: 0.70.9
+      specifier: ^0.70.10
+      version: 0.70.10
     '@stacksjs/utils':
-      specifier: ^0.70.9
-      version: 0.70.9
+      specifier: ^0.70.10
+      version: 0.70.10
     '@stacksjs/validation':
-      specifier: ^0.70.9
-      version: 0.70.9
+      specifier: ^0.70.10
+      version: 0.70.10
     '@stacksjs/whois':
-      specifier: ^0.70.9
-      version: 0.70.9
+      specifier: ^0.70.10
+      version: 0.70.10
     '@stacksjs/x-ray':
-      specifier: ^0.70.9
-      version: 0.70.9
+      specifier: ^0.70.10
+      version: 0.70.10
   eslint:
     '@stacksjs/eslint-config':
       specifier: ^4.10.2-beta.3
@@ -291,11 +291,11 @@ catalogs:
       version: 5.8.2
   vite:
     '@stacksjs/vite-config':
-      specifier: ^0.70.9
-      version: 0.70.9
+      specifier: ^0.70.10
+      version: 0.70.10
     '@stacksjs/vite-plugin':
-      specifier: ^0.70.9
-      version: 0.70.9
+      specifier: ^0.70.10
+      version: 0.70.10
     vite-plugin-dotenvx:
       specifier: ^0.1.1
       version: 0.1.1
@@ -309,229 +309,229 @@ importers:
     dependencies:
       '@stacksjs/actions':
         specifier: catalog:core
-        version: 0.70.9
+        version: 0.70.10
       '@stacksjs/ai':
         specifier: catalog:core
-        version: 0.70.9
+        version: 0.70.10
       '@stacksjs/alias':
         specifier: catalog:core
-        version: 0.70.9
+        version: 0.70.10
       '@stacksjs/analytics':
         specifier: catalog:core
-        version: 0.70.9
+        version: 0.70.10
       '@stacksjs/api':
         specifier: catalog:core
-        version: 0.70.9
+        version: 0.70.10
       '@stacksjs/arrays':
         specifier: catalog:core
-        version: 0.70.9
+        version: 0.70.10
       '@stacksjs/audiox':
         specifier: catalog:core
         version: 0.1.1
       '@stacksjs/auth':
         specifier: catalog:core
-        version: 0.70.9
+        version: 0.70.10
       '@stacksjs/browser':
         specifier: catalog:core
-        version: 0.70.9
+        version: 0.70.10
       '@stacksjs/buddy':
         specifier: catalog:core
-        version: 0.70.9(@algolia/client-search@5.21.0)(@babel/parser@7.26.9)(@types/node@22.13.11)(@vue/compiler-sfc@3.5.13)(postcss@8.5.3)(terser@5.39.0)(typescript@5.8.2)(vite@5.4.14(@types/node@22.13.11)(terser@5.39.0))(vue@3.5.13(typescript@5.8.2))
+        version: 0.70.10(@algolia/client-search@5.21.0)(@babel/parser@7.26.9)(@types/node@22.13.11)(@vue/compiler-sfc@3.5.13)(postcss@8.5.3)(terser@5.39.0)(typescript@5.8.2)(vite@5.4.14(@types/node@22.13.11)(terser@5.39.0))(vue@3.5.13(typescript@5.8.2))
       '@stacksjs/build':
         specifier: catalog:core
-        version: 0.70.9
+        version: 0.70.10
       '@stacksjs/cache':
         specifier: catalog:core
-        version: 0.70.9
+        version: 0.70.10
       '@stacksjs/calendar-api':
         specifier: catalog:core
-        version: 0.70.9
+        version: 0.70.10
       '@stacksjs/chat':
         specifier: catalog:core
-        version: 0.70.9
+        version: 0.70.10
       '@stacksjs/clarity':
         specifier: catalog:core
         version: 0.2.0
       '@stacksjs/cli':
         specifier: catalog:core
-        version: 0.70.9
+        version: 0.70.10
       '@stacksjs/cloud':
         specifier: catalog:core
-        version: 0.70.9
+        version: 0.70.10
       '@stacksjs/collections':
         specifier: catalog:core
-        version: 0.70.9
+        version: 0.70.10
       '@stacksjs/config':
         specifier: catalog:core
-        version: 0.70.9
+        version: 0.70.10
       '@stacksjs/database':
         specifier: catalog:core
-        version: 0.70.9
+        version: 0.70.10
       '@stacksjs/datetime':
         specifier: catalog:core
-        version: 0.70.9
+        version: 0.70.10
       '@stacksjs/desktop':
         specifier: catalog:core
-        version: 0.70.9
+        version: 0.70.10
       '@stacksjs/development':
         specifier: catalog:core
-        version: 0.70.9
+        version: 0.70.10
       '@stacksjs/dns':
         specifier: catalog:core
-        version: 0.70.9
+        version: 0.70.10
       '@stacksjs/dnsx':
         specifier: catalog:core
         version: 0.2.2
       '@stacksjs/docs':
         specifier: catalog:core
-        version: 0.70.9(@algolia/client-search@5.21.0)(@babel/parser@7.26.9)(@types/node@22.13.11)(@vue/compiler-sfc@3.5.13)(postcss@8.5.3)(terser@5.39.0)(typescript@5.8.2)(vite@5.4.14(@types/node@22.13.11)(terser@5.39.0))(vue@3.5.13(typescript@5.8.2))
+        version: 0.70.10(@algolia/client-search@5.21.0)(@babel/parser@7.26.9)(@types/node@22.13.11)(@vue/compiler-sfc@3.5.13)(postcss@8.5.3)(terser@5.39.0)(typescript@5.8.2)(vite@5.4.14(@types/node@22.13.11)(terser@5.39.0))(vue@3.5.13(typescript@5.8.2))
       '@stacksjs/dtsx':
         specifier: catalog:core
         version: 0.8.0
       '@stacksjs/email':
         specifier: catalog:core
-        version: 0.70.9
+        version: 0.70.10
       '@stacksjs/enums':
         specifier: catalog:core
-        version: 0.70.9
+        version: 0.70.10
       '@stacksjs/env':
         specifier: catalog:core
-        version: 0.70.9
+        version: 0.70.10
       '@stacksjs/error-handling':
         specifier: catalog:core
-        version: 0.70.9
+        version: 0.70.10
       '@stacksjs/eslint-config':
         specifier: catalog:eslint
         version: 4.10.2-beta.3(@typescript-eslint/utils@8.27.0(eslint@9.22.0(jiti@2.4.2))(typescript@5.8.2))(@vue/compiler-sfc@3.5.13)(eslint@9.22.0(jiti@2.4.2))(typescript@5.8.2)(vite@5.4.14(@types/node@22.13.11)(terser@5.39.0))(vue@3.5.13(typescript@5.8.2))
       '@stacksjs/events':
         specifier: catalog:core
-        version: 0.70.9
+        version: 0.70.10
       '@stacksjs/faker':
         specifier: catalog:core
-        version: 0.70.9
+        version: 0.70.10
       '@stacksjs/git':
         specifier: catalog:core
-        version: 0.70.9
+        version: 0.70.10
       '@stacksjs/health':
         specifier: catalog:core
-        version: 0.70.9
+        version: 0.70.10
       '@stacksjs/http':
         specifier: catalog:core
-        version: 0.70.9
+        version: 0.70.10
       '@stacksjs/httx':
         specifier: catalog:core
         version: 0.1.5
       '@stacksjs/lint':
         specifier: catalog:core
-        version: 0.70.9
+        version: 0.70.10
       '@stacksjs/logging':
         specifier: catalog:core
-        version: 0.70.9
+        version: 0.70.10
       '@stacksjs/notifications':
         specifier: catalog:core
-        version: 0.70.9
+        version: 0.70.10
       '@stacksjs/objects':
         specifier: catalog:core
-        version: 0.70.9
+        version: 0.70.10
       '@stacksjs/orm':
         specifier: catalog:core
-        version: 0.70.9
+        version: 0.70.10
       '@stacksjs/path':
         specifier: catalog:core
-        version: 0.70.9
+        version: 0.70.10
       '@stacksjs/payments':
         specifier: catalog:core
-        version: 0.70.9
+        version: 0.70.10
       '@stacksjs/push':
         specifier: catalog:core
-        version: 0.70.9
+        version: 0.70.10
       '@stacksjs/qrx':
         specifier: catalog:core
         version: 0.1.0
       '@stacksjs/query-builder':
         specifier: catalog:core
-        version: 0.70.9
+        version: 0.70.10
       '@stacksjs/queue':
         specifier: catalog:core
-        version: 0.70.9
+        version: 0.70.10
       '@stacksjs/realtime':
         specifier: catalog:core
-        version: 0.70.9
+        version: 0.70.10
       '@stacksjs/registry':
         specifier: catalog:core
-        version: 0.70.9
+        version: 0.70.10
       '@stacksjs/repl':
         specifier: catalog:core
-        version: 0.70.9
+        version: 0.70.10
       '@stacksjs/router':
         specifier: catalog:core
-        version: 0.70.9
+        version: 0.70.10
       '@stacksjs/rpx':
         specifier: catalog:core
         version: 0.10.0
       '@stacksjs/scheduler':
         specifier: catalog:core
-        version: 0.70.9
+        version: 0.70.10
       '@stacksjs/search-engine':
         specifier: catalog:core
-        version: 0.70.9
+        version: 0.70.10
       '@stacksjs/security':
         specifier: catalog:core
-        version: 0.70.9
+        version: 0.70.10
       '@stacksjs/server':
         specifier: catalog:core
-        version: 0.70.9
+        version: 0.70.10
       '@stacksjs/shell':
         specifier: catalog:core
-        version: 0.70.9
+        version: 0.70.10
       '@stacksjs/slug':
         specifier: catalog:core
-        version: 0.70.9
+        version: 0.70.10
       '@stacksjs/sms':
         specifier: catalog:core
-        version: 0.70.9
+        version: 0.70.10
       '@stacksjs/storage':
         specifier: catalog:core
-        version: 0.70.9
+        version: 0.70.10
       '@stacksjs/strings':
         specifier: catalog:core
-        version: 0.70.9
+        version: 0.70.10
       '@stacksjs/testing':
         specifier: catalog:core
-        version: 0.70.9
+        version: 0.70.10
       '@stacksjs/tinker':
         specifier: catalog:core
-        version: 0.70.9
+        version: 0.70.10
       '@stacksjs/tlsx':
         specifier: catalog:core
         version: 0.10.0
       '@stacksjs/tunnel':
         specifier: catalog:core
-        version: 0.70.9
+        version: 0.70.10
       '@stacksjs/types':
         specifier: catalog:core
-        version: 0.70.9
+        version: 0.70.10
       '@stacksjs/ui':
         specifier: catalog:core
-        version: 0.70.9
+        version: 0.70.10
       '@stacksjs/utils':
         specifier: catalog:core
-        version: 0.70.9
+        version: 0.70.10
       '@stacksjs/validation':
         specifier: catalog:core
-        version: 0.70.9
+        version: 0.70.10
       '@stacksjs/vite-config':
         specifier: catalog:vite
-        version: 0.70.9
+        version: 0.70.10
       '@stacksjs/vite-plugin':
         specifier: catalog:vite
-        version: 0.70.9
+        version: 0.70.10
       '@stacksjs/whois':
         specifier: catalog:core
-        version: 0.70.9
+        version: 0.70.10
       '@stacksjs/x-ray':
         specifier: catalog:core
-        version: 0.70.9
+        version: 0.70.10
       bun-git-hooks:
         specifier: catalog:bun
         version: 0.1.0
@@ -1843,17 +1843,20 @@ packages:
   '@shikijs/vscode-textmate@10.0.2':
     resolution: {integrity: sha512-83yeghZ2xxin3Nj8z1NMd/NCuca+gsYXswywDy5bHvwlWL8tpTQmzGeUuHd9FC3E/SBEMvzJRwWEOz5gGes9Qg==}
 
+  '@stacksjs/actions@0.70.10':
+    resolution: {integrity: sha512-XqHl29QnwuLQud84rVzrapOLQmDCCxXH43lBuBS84/CSRECS3GvMWbEk5Zpx1WbX+HxS1PqVGTPLdyg7jmDuRQ==}
+
   '@stacksjs/actions@0.70.8':
     resolution: {integrity: sha512-1PCw2sw8KqVXmY7XJdSiToXQ3nFSY3cfVwVk8/s2Gict1SAjnq+O7NH2+s3ARjuMscOHqC/Txo0L72pMXwJlLw==}
 
-  '@stacksjs/actions@0.70.9':
-    resolution: {integrity: sha512-xkrXmfIxjMQ0LkGCGoDueGK2/PQk2v9AHuyOoKe/Yjm34OOJZN0+UvjI4sHD2yb5v1ryffODnXjRHvGCFAStWQ==}
+  '@stacksjs/ai@0.70.10':
+    resolution: {integrity: sha512-kWV7tRgaShjz4de3o7Jrhem5TW6c/kcP8JpMlkUe90fLydyX4Ubjn6EAhyCZ9smu7HJyQq6n17FYoVF2gUJWyg==}
 
   '@stacksjs/ai@0.70.8':
     resolution: {integrity: sha512-24DaBKuSzqVwMokYpMAzl0/UjgRLZXDB5kGmXdozvl4EaC9sHAATB3JEENSSV0QC2ShfN+R4TucZ66MGDLRLoQ==}
 
-  '@stacksjs/ai@0.70.9':
-    resolution: {integrity: sha512-twkjE0GtJaUAv99xoRTYEGCOqxfPXO9p9Mxv8BHJZEypbmc2TwiYrXB/L6yqg0Pw+ujWlZmaQWx6MPEiMEQA8Q==}
+  '@stacksjs/alias@0.70.10':
+    resolution: {integrity: sha512-Uz8KzMWk4sncCC4YKKeidxcPWiUFMAjD4Ueu47qwF6/kpfsz9xdNttLEm3oeAzMNHUOZg4B2PdZIUBIH7KmRrQ==}
 
   '@stacksjs/alias@0.70.3':
     resolution: {integrity: sha512-HXyKA3CxRCxtI+XKdiARvM9Uo51UQbWY+Skru/xG/7DRF4l6mwbelebkoxgBf2kbazN7VXArD1AiT21banl47A==}
@@ -1861,37 +1864,37 @@ packages:
   '@stacksjs/alias@0.70.8':
     resolution: {integrity: sha512-ofxfIcelPj4lLzOQmAXLyKImG0mHNh1tLzoBVmdpFMXCqat46qtnkFm/aza19cFcHecPoJaZWvZun2c4N50fUw==}
 
-  '@stacksjs/alias@0.70.9':
-    resolution: {integrity: sha512-vzZm3XC0LDIGpFHQCcwTsZZeKb1yazBAt4pG+CAupMrOjItsmUD0ZiULsOk4gaGtn9I2N8zbLSJmapxuGtSwfg==}
+  '@stacksjs/analytics@0.70.10':
+    resolution: {integrity: sha512-9o6i74W4ZJUnuhgs5ExUli6cuAF4IrnxkSNzTr8mAfPlLHNU5kSfvmfLOZav7uBOtIGgjiC2EAkoAd5UCuLZzQ==}
 
-  '@stacksjs/analytics@0.70.9':
-    resolution: {integrity: sha512-WXD5Og8zxHxANqhuTiEs56VLgLsR6Dkoi/bL9hZo6fLXZ5iH7e0M6ov4X5yITarfbWWEEBpPRV0vQvTJ+dx/hQ==}
+  '@stacksjs/api@0.70.10':
+    resolution: {integrity: sha512-6L0EIUWDPaVF2gI3OWgrF/qzybbUBd5lIVs+1xCyAQ+L5d6gvviMcUmJCHbN1W5C1D2RiWQjfhdiVD62pCxi+g==}
 
-  '@stacksjs/api@0.70.9':
-    resolution: {integrity: sha512-zCqrbSN3zT22ak+hOmNOm8nXDIUoN8A1I7vRvEN9mezUmoAOxjlvahH1cgCNYj0oc4MZsKYwCuD7SS9LvA721Q==}
+  '@stacksjs/arrays@0.70.10':
+    resolution: {integrity: sha512-m3F4fi5I6/DS5haIS3wxuDE4HPV/7L60Y6UwXCLV1jIx5iV4xpMqc41pCnuC2/f/Dzvha+deeh6KfOt2MoQ1WA==}
 
   '@stacksjs/arrays@0.70.8':
     resolution: {integrity: sha512-AtNt2RinmD+QEdPhssGeE6YMDKzLtqZz0HpNTBcuPP9t3Tm3WLQg520l0XpB/l5MFWp4NCK6K9XfsMT0GOpfOg==}
-
-  '@stacksjs/arrays@0.70.9':
-    resolution: {integrity: sha512-7LxeoMLKexcGI92XrA4+/uYiPifxk79N7/iqs8Ry3lO3Hfbg4KE07UOSXXmTTqvYW6SVOZlEj+h+2RuskyZS2Q==}
 
   '@stacksjs/audiox@0.1.1':
     resolution: {integrity: sha512-a22ghUeBk99s9vx3fsVLNmQHmd6W3LV3ZXBFRUDchbRa+uA0MMBDjdvXw05Tb/zKaxWKn6bho8tarVvA+0pdug==}
     hasBin: true
 
+  '@stacksjs/auth@0.70.10':
+    resolution: {integrity: sha512-dM3ZNKumjDp5wRu4xwbO33hxib0gax1opxYJNHu5KQ2LCFwtbc5Udi8gS4NAU2hTAtkVwKA6Y64rdL+w2/eMMA==}
+
   '@stacksjs/auth@0.70.8':
     resolution: {integrity: sha512-bAXOb2ntitFHOJYaDm3W6kec2UaT/wHMbRVF3kdMkrQlZj/+0xu18BxA8gSKYSq3Tebteqgonyp3XR8o1TcSAA==}
 
-  '@stacksjs/auth@0.70.9':
-    resolution: {integrity: sha512-QGh++j9e0AXRroKTON27ugEcgMnTQdmk+8hVm820UMn4g7J5EIb1DGsu9SN3iLwHmjrXj1/Pg/fuenVJGkvU+Q==}
+  '@stacksjs/browser@0.70.10':
+    resolution: {integrity: sha512-T3gZ7M20uCCd0YlFMdbb0pfDA+CdmFeu4cm/CrsbQpE6aGV/pavzGfnkubNit6SNCOhPMNNiLkWvNFVK0+1ImA==}
 
-  '@stacksjs/browser@0.70.9':
-    resolution: {integrity: sha512-VM5NlBJclLnKBfsXcYlJAkrrFmjDIT13+p906VnneimC3Dt2bR8Z9tq9Xn6I5qUP9JhNObuHH3CMoBuGL2A1Rw==}
-
-  '@stacksjs/buddy@0.70.9':
-    resolution: {integrity: sha512-5jFS4z47NaNQ/f/SeQxXxMoQPq8RWNtDJwwjmBac/B0Z/mtxcKSV/Kyu6Kn1rKjsWv8s7/wm2jRKmNT3IEE/Ew==}
+  '@stacksjs/buddy@0.70.10':
+    resolution: {integrity: sha512-6I5zjmhtXQzqtT/9e7+1ZHXiWUS5dDuvuKSgOengPTerNIT3bS3EbIZsP8Ti037pEmpZe5uCPRLpXYvzeb+cRw==}
     hasBin: true
+
+  '@stacksjs/build@0.70.10':
+    resolution: {integrity: sha512-JoUr+4YZzqzlzSjz04TdheMD48fwFGF/zJd53Z5Fz61U+Tp41uGNU9Xqec/KAZ/owACdWyfWiYLlPPG7p+iOiw==}
 
   '@stacksjs/build@0.70.3':
     resolution: {integrity: sha512-0ppR4AGvt98iPPrOyIqaa/G1KeHAVWMxSKShD9986TcJb7Iw/6Xg8GAQTR9nGCdGg6IXX8Kqe9vrQhvj60TZOQ==}
@@ -1899,110 +1902,107 @@ packages:
   '@stacksjs/build@0.70.8':
     resolution: {integrity: sha512-H3M0fAg9J1OCQCjENdY+YNyAx2BgxFGrdAxeeBi36h0gsJyuF5yeljpdEZw/5Qanmg1awMQGiQx5q3rxl3qOog==}
 
-  '@stacksjs/build@0.70.9':
-    resolution: {integrity: sha512-zJZktkf69Lg5KAe9yfXxK6UhKmd17L9K4rLqZCV5O9+i0xiB7TyNhfWLBw+9s8qRoqt2yEkUCObxYviMjlFGMg==}
+  '@stacksjs/cache@0.70.10':
+    resolution: {integrity: sha512-+5rSYT2rOLZLeNsgY08fFbByXCYZe3BydfO6+S/AobRFTBYV/56z/jeUVvuu7KGQFeYiK6M8eoOZ+Hf7oG9ofQ==}
 
   '@stacksjs/cache@0.70.8':
     resolution: {integrity: sha512-riuHzE/L2rwx9jah2H9TibkzB28Ca+DlfBa0Yf4WNcWTGDqYUeX0tJB0VN/f5SJTSxMHfSRimhrViJAzH48Kvg==}
 
-  '@stacksjs/cache@0.70.9':
-    resolution: {integrity: sha512-piKXwzuv2M/Ydzt5CTJRqqAPJNQ4GnaQ5LvzavTfTt+QrV8yYyyK6S8Vn2ynkKqCZKsq+wkuwiXgVlYUQWAYkw==}
+  '@stacksjs/calendar-api@0.70.10':
+    resolution: {integrity: sha512-ro1ltDNE5CWnD0maGkWMhuBlc+PGH+eALVtqVlJC53ppndZFpbQO/E9+b5U4Zyj1IrqKJ3uE5ZANqRxjMThL2A==}
 
-  '@stacksjs/calendar-api@0.70.9':
-    resolution: {integrity: sha512-njOLH+OyE6AIB8C5xilWXKwOJbD1cgZJ956/re5jLUCHGDOydQEeN1o54pXLCP3nHoSwKjn7OCU/PM1OfvMS0Q==}
-
-  '@stacksjs/chat@0.70.9':
-    resolution: {integrity: sha512-PYYMl8jx38O2NBzGGEMNh5W/rn2dbduvI0ouslVIs4eq4mqUKiSn5JtIGsfNBhrSGEYezinD2xNjYZdJpsAm3Q==}
+  '@stacksjs/chat@0.70.10':
+    resolution: {integrity: sha512-gsAhdNCQCG1w4eo/Cse1ZsJ6jkDjAylyfwLNr1shv8RryaknaG2CeYd25cdQzGj6LRs/gqp7uGCmE98u/XiF+w==}
 
   '@stacksjs/clarity@0.2.0':
     resolution: {integrity: sha512-Rhj+EOSeCSoXKlikMXNO0NDmjDcwa7iso4/N0GsPcsO4EuSaUfKeuWLikxaXJg+W4rO+Z3EgFqHzNzBFwRODhA==}
     hasBin: true
 
+  '@stacksjs/cli@0.70.10':
+    resolution: {integrity: sha512-t7dbr1WR0SMmz6tg3shxSruiUAiZ7wrFpjb+nNxDqviwLBnOIx6pV15tAAtbMWFc+fk3Ihy/WvUUbDkoyUFGRA==}
+
   '@stacksjs/cli@0.70.8':
     resolution: {integrity: sha512-kWIY6sVZXRUUhZJP//qTqJlPwqaDyONw2LkYMrzs0RnnNBG87ew5ZaRrLRpJY10k4ByVNvskH9EtRLC4K2L23g==}
 
-  '@stacksjs/cli@0.70.9':
-    resolution: {integrity: sha512-7AZXxEn0jx5VCtOFFQJJZRTDnXFNKpRk+ZfYVJs/x/8VJETJY/16763BuZN4GvAG6/Ad/hOmF50hwhrfe7k36A==}
+  '@stacksjs/cloud@0.70.10':
+    resolution: {integrity: sha512-3mectVRezFFfu82Hgmp2SRmNW4C5sTqEAxqTFcPY7ZdVaxaO+aWL/AM/Akx+Xxa76brpV83yka9WZYhDClH63g==}
 
   '@stacksjs/cloud@0.70.8':
     resolution: {integrity: sha512-gilQBpiiHNkfhK+qau23Tx3BVdMcOzkkuXphz8G8FD7TkA23ONcSSvclF4Xtq5XypgyLDU4wt4qwBphAE2VoIA==}
 
-  '@stacksjs/cloud@0.70.9':
-    resolution: {integrity: sha512-vJlPfO5yDRvcD6qy0c4QeCo6VkxzqRFxBBqt7yv9rCFEbQyjzyjUY34y3e5lU0tetKv19G+4hbGTNRgFfpKZ6w==}
+  '@stacksjs/collections@0.70.10':
+    resolution: {integrity: sha512-bIOsLJ0fhtu1tAl2ND7aY8IGp3lEwX/j81jftC3Vd/t994hWl+5gC4UmzML3c/nEnlFvufLGoOYJMmdckZGjUA==}
 
   '@stacksjs/collections@0.70.8':
     resolution: {integrity: sha512-urWc47AjSKkaW34YQS0+VPEhl9rKx8cbfGYQwD7J/ZA7apO+sjK47gsqUxsv+GoZxvc1Ywc1NVIYGWEtZWGnFw==}
 
-  '@stacksjs/collections@0.70.9':
-    resolution: {integrity: sha512-ZOr2+2urUr7cJXYqSoBP894x/89PODmXoeSeY9REnZ7PJAQECgROTtn/Cy92Oa3i4plaqHeHlqlOVTeg9tgGgg==}
+  '@stacksjs/config@0.70.10':
+    resolution: {integrity: sha512-oqek7WGAOfLaZXBWeAcqmjAMRgkitbTgzwTBtvxHzqtOjWAY5XLTg6u6OefQIE94aWcH5/MAAzfTmtqFOygPrg==}
 
   '@stacksjs/config@0.70.8':
     resolution: {integrity: sha512-rfzc5PaG2KItI0baDaCq0cgqAMC3YK0Y7vMNFNI/iJHBRkmBpzJUpIlva6jXrpSFrEVRtb83/CK2VunKvGlCAg==}
 
-  '@stacksjs/config@0.70.9':
-    resolution: {integrity: sha512-/HAu6ghAtRRVDCEG1B4CuxlgaOXgUl9jxqQcUQpbsiXgjE6DoRB96axH2cDHTpmPDWWVoajXLqN6Z1X70jIqug==}
+  '@stacksjs/database@0.70.10':
+    resolution: {integrity: sha512-RekIMm4EBkfqs16j/3daAAvymO42ZeY7ArW4KIon978ZyA5Tl1nKQWN6SEOhJp5h2GspifHSY0sfP/5zsFdPqA==}
 
   '@stacksjs/database@0.70.8':
     resolution: {integrity: sha512-/NSJJuPzUgl3nh7yOJSnD1LI373f2TNqVOj76E2dWQVqg2XdCHuxSRCYs9NM4yGEvFZLz46mZbfRimCxiK283Q==}
 
-  '@stacksjs/database@0.70.9':
-    resolution: {integrity: sha512-64qD1Ify3CQn6n8nzwVWYY886K42LNkhOVYVDTgeNNcC2Azk+eFJaNRYjQm4Uh5qiCXpZYjb8EEa9/zw/+Fr7A==}
+  '@stacksjs/datetime@0.70.10':
+    resolution: {integrity: sha512-3HwXtHVe/3WZe6q5y/mMGpmhd446T3qaC38/eix/6kl2pKGI4hDVbSM3C1sBS7//LSSuHtyAovYtLmNDnBciYA==}
 
-  '@stacksjs/datetime@0.70.9':
-    resolution: {integrity: sha512-uiqQw89rsEuhW38nCyeqjRmiEiIayipV9Xpqfn7R7nI5OBeygZLmD4AgTNgEjNdeFHstEZblMpIt9MSSoU5F/g==}
+  '@stacksjs/desktop@0.70.10':
+    resolution: {integrity: sha512-uctOYCblS8Cp5Avi2HH9rHxg5MRUNUrh6xNQDhEhUI8qwJ0gvUfy3umarLCYy7dsOTSqfS8yh3hJBY0NMxLC6Q==}
 
   '@stacksjs/desktop@0.70.8':
     resolution: {integrity: sha512-Wpjqemh/SlxhUZu8xHui8ZY108MYvDNrMHRw13QzXzUqefqNGSoBiZxrPxIG4w4dHZIVoPLNJJ/qLSJBN8PQUw==}
 
-  '@stacksjs/desktop@0.70.9':
-    resolution: {integrity: sha512-0Sn8cp5bRNowiw4Z9xh+UnllW6CNPRh8kiEgHnpG2qViB62Mw4h1KevlFfBEftGZWPMzZeKk9An+KKjSbIE8yQ==}
+  '@stacksjs/development@0.70.10':
+    resolution: {integrity: sha512-dOZWJ8b/Ytp1dKzwHciazN0vzt7teJTGcepojDdSx4VLpbl25wn1ibWJHyOLoBKS8cPWr7A2335djySaWgxWLA==}
 
   '@stacksjs/development@0.70.8':
     resolution: {integrity: sha512-XZWhmsXkRe7MRukHWLVpZiD6Ta78qYpPTpSZ+SjDVC/SzqILurQyF40G3PAAZcpyEB+9XDuA5AqinozUhEtBsA==}
 
-  '@stacksjs/development@0.70.9':
-    resolution: {integrity: sha512-OMk4WsD0aBqw2o5UOhpB5YCTy+VzUYW7K3PykqFS+M9gYATCB/C5AI4KoyrcMrr+smLyaesWgB/+omlGrbsF7A==}
+  '@stacksjs/dns@0.70.10':
+    resolution: {integrity: sha512-sn+tGGZaKc0gU+lpaMKS0vdhBtfCqb7/JvPxRW92D3rPR8TwHodQ1v5s7zHW1WpsAdWfwArEgub06KDOxPmMpg==}
 
   '@stacksjs/dns@0.70.8':
     resolution: {integrity: sha512-dTwFilQxej9wBDS5v9Ly9hxGEjKesyLUO/NnVOLPW8O4cTDodkUGv5ZLcBL527EJeVtO+qbwjPdSXLU2Y1F/Aw==}
-
-  '@stacksjs/dns@0.70.9':
-    resolution: {integrity: sha512-1GA04vtr7gmK8asXlkMnGy5KWRgeyDN5JDa4laht/uEo57S5EsVcBP4yWnCQqDD5mFLNaoaZlrKs7IyFgWtmRg==}
 
   '@stacksjs/dnsx@0.2.2':
     resolution: {integrity: sha512-Y5j3TaO597Y+8CEJue8l+ZB8v+6MVG9J28fK6IJzUMQg9QYs1xFvor9ekjE/DAJ+A42JWfvSDD4fUKokv7fI4Q==}
     hasBin: true
 
+  '@stacksjs/docs@0.70.10':
+    resolution: {integrity: sha512-FnoSZsX80nxPv3B70nMOMSjBtWOXMwV/GDk1BvXNvhPPFSf/JcSDKTIjtbH0NolUlbQxZh+LemLsoN02t1AxuQ==}
+
   '@stacksjs/docs@0.70.8':
     resolution: {integrity: sha512-6EWGaWabAIWr3oHGFlwtfV6gNM39P8NhDRFipBK6TFKDql/BKLEaCycI2yycUwTUyXGfOGB/zJrl3rtcr1mPXA==}
-
-  '@stacksjs/docs@0.70.9':
-    resolution: {integrity: sha512-/4ts1MJndxO7XrZsfVpeG5xcIcu/F+HonbpMz54hhppFsMSlVOExLHeHnh8aAyEBOashZQ/IedXeH7Urd3zUhw==}
 
   '@stacksjs/dtsx@0.8.0':
     resolution: {integrity: sha512-x7HxXTRZTrwvpSTZlxL5lu4F1sFHnDynAQBNr3UIkrctCKQbe7dYM21SfEozBx5+qBk+Mv1yZUvrUL/aA1bQwg==}
     hasBin: true
 
+  '@stacksjs/email@0.70.10':
+    resolution: {integrity: sha512-KfscrmPfO/BoZGQUzCWXxbe4Ukxvl4x8dcroaryUyhmmlgQOfgUf1q57qKUhyrsM5oHYk9nkomEFe1OTkelMgA==}
+
   '@stacksjs/email@0.70.8':
     resolution: {integrity: sha512-snV4YmkLIX55zzpYy09lDvmd6J99pYDPhv5itKrCntvo7WghdoKSO5K9+m9fLJotEOnamK1b/L4BzU0aehgmlw==}
 
-  '@stacksjs/email@0.70.9':
-    resolution: {integrity: sha512-H1XzUESZuv8ueIM6eAiXNF/V/n4T9eJVwJFDihF/oQAkRDVx0ua1Dxf/5wy1zfzQQhktI9S6bqvY0nNFWtcVpQ==}
+  '@stacksjs/enums@0.70.10':
+    resolution: {integrity: sha512-pZuo+snVAWUi2mgFTUtKCKSo/yvIRex+DksHxsv4jPARLR+rygq8xMZIAUCNVFLHLR8JzdZPU5RP2UI21Gh+ig==}
 
   '@stacksjs/enums@0.70.8':
     resolution: {integrity: sha512-S5xDTihNMIMzCzDEsy1k4C/YnBdCI01DMBuLUVwVKnVSMOsuzXNQQd4goMGOC6I/cOHaELE92eM1pHeSkzbWFA==}
 
-  '@stacksjs/enums@0.70.9':
-    resolution: {integrity: sha512-JrRirbY2BWv1Na67fH6frNR0e22UPoCop4useAPLqf/TWnLT0spPdpAzqlsCa8H2xThn8rKiKmTxVBoWuIXjvA==}
+  '@stacksjs/env@0.70.10':
+    resolution: {integrity: sha512-lR5r7IVa3UGLLOacJZrmRH03DesyNpVHABveDp/5Z2rUZm9yasrnJj9dtmlDpKwm3N8vMh5kYVhmGnzxb03C7w==}
 
-  '@stacksjs/env@0.70.9':
-    resolution: {integrity: sha512-YZFFKlk5VvQKsVWgPs4GPHOOCSFFMFcHTOV0ITMBnHuiRTHTIFdZa2tsDiCHBiZiL1jcQON3EKNh2uanOzbTCw==}
+  '@stacksjs/error-handling@0.70.10':
+    resolution: {integrity: sha512-RN/2Hld+ip/Q2RE/bBIVzPoMdrFyqCq80q0bQUrFQ+Og6G9w6rIxS+NX4f1mCxN8cvr6j8/9iwIdlIDrsj3SDw==}
 
   '@stacksjs/error-handling@0.70.8':
     resolution: {integrity: sha512-vFxL5p+lsQjAtucJOv4T9nju0t9W8xWmNWVlN2+raAFxqaM6fsAnerRB9rz70ryVMCHFEnUMmsojQ6xmVD9ivA==}
-
-  '@stacksjs/error-handling@0.70.9':
-    resolution: {integrity: sha512-BViI+AhfsMZGz9u+8OKgMXoZv0/4WcwUjurYQIdqLYfi78hJJSQU1FWNsIQJ0yNk5YdKxegONqDDF4tetJyGrA==}
 
   '@stacksjs/eslint-config@4.10.2-beta.3':
     resolution: {integrity: sha512-Jnz6z/tGjfKUToZXgCF8XRBqZlEXlkLTymJgD2O2CzYfG58uUV/7cqtn2ABPs+SJ5t8O4qYwbC6WDOMQjP+M2Q==}
@@ -2011,36 +2011,39 @@ packages:
     resolution: {integrity: sha512-cPCi9eTeXIXI6RTNvK1QmUFNpT3aTnhLsBXpuD8hs8d+2CSn7mNZBZDn61+Se6nzy3Ot/grKc4uua3uD/+m1cQ==}
     engines: {node: '>=22.14.0'}
 
+  '@stacksjs/events@0.70.10':
+    resolution: {integrity: sha512-VHGCh/X/t7GiQ/YgxgSRYUL1eWxo00hZ7N4VvwvktIDfvtzyEDqK9pSMQFhM49W1DFw09+KeFqWplAuLZhJ9Fw==}
+
   '@stacksjs/events@0.70.8':
     resolution: {integrity: sha512-RL9rXPKYQYikLzX7SH25LCvvgmID3snBEtUamZgbpg3rf8dA59+LSJ3HWxHPKT5yYdLjTobiRQJTpEVIrLRcow==}
 
-  '@stacksjs/events@0.70.9':
-    resolution: {integrity: sha512-nun4T0N/rJPrLmmlJQo91N9NJ9f5ADkaUjD5WrSzVclirO0gFwvP6H/JeuaZQrYLKkV1SPhWMBnle8lKLg0z8A==}
+  '@stacksjs/faker@0.70.10':
+    resolution: {integrity: sha512-Ik/492q0N6kMra4EHcwOkpPEpfUGTg+zRGqnWF6koc3o3gfZdpSFNWXm4AKdZlDLWfd5bKjPjN7wAPKgfk2S6Q==}
 
   '@stacksjs/faker@0.70.8':
     resolution: {integrity: sha512-j6RSPadwKjzudD81Ym8uNWJpg7ccZTbi9T0sSKAOlkxhP0TLDjA2B/gYmG5PtO9Q2VPM0SGo2sO397Ppk3FuZw==}
 
-  '@stacksjs/faker@0.70.9':
-    resolution: {integrity: sha512-MkiIYO2QX8wc0BLHf3IsQt3JLaQp8aA1ScCY6WOgwTvGhXGutM/iZ3f6Siz3kl6qQQYqTTnTmVkX4dKn9QfSAA==}
+  '@stacksjs/git@0.70.10':
+    resolution: {integrity: sha512-ck7Skz3BrEVA/G7Xmy3cI/3WSEBWcijHUwirO+miIFhjETm2WelkcPuIuG19haC+5rBWFWSvm0hQSQPX/tTHZg==}
 
   '@stacksjs/git@0.70.8':
     resolution: {integrity: sha512-LiGxFmEwnSUtvx9Hi+otJcU777COCS0QCervGIfvJUIEMza/34MoitugXOwr2QZQld45PLm0MMYKmAELgDLDAw==}
 
-  '@stacksjs/git@0.70.9':
-    resolution: {integrity: sha512-G57EA9zi1jCAmdeCiqoQkeN6GRkCp7A4rhoZhChGiZKq1Qcq3WYp5Yv55gpv15lcmT3f1RGLtEKMQrsYpFNe7Q==}
+  '@stacksjs/health@0.70.10':
+    resolution: {integrity: sha512-4BFkOq10OsRV0f0+WGd3oB9ybAFLN2q60b0DGSTAJTF7hD4sYar04qf3S2P3yf78SCuOhS3kCahjzIOX3Lq60w==}
 
   '@stacksjs/health@0.70.8':
     resolution: {integrity: sha512-4IRkpM35ugDphQlc0PVL3BRMnG0KRj2wNDNKjwrWmP8v4Eoogt1NWhzfH97Y3dTMKcvSXK9Vj8lpAJ6orgWB8g==}
 
-  '@stacksjs/health@0.70.9':
-    resolution: {integrity: sha512-GzOVyFa8neXOyYe0zU22Un+U9DrWXdBrfBUMSGtRgyKQPL3m4bWxBzZGWpv1VgLt+2dKKKzjyC19sF6rYzPHog==}
-
-  '@stacksjs/http@0.70.9':
-    resolution: {integrity: sha512-17zbzLHmO3W/bcGk/yF0ETsVHYacKDrXdEZiktYhNbePh+QNim2VuWzrcsNvKF19NHA+oYOz3yNzxFjlMYBuIg==}
+  '@stacksjs/http@0.70.10':
+    resolution: {integrity: sha512-vAeQ1/XC++LhFRWNr1YdR8QSgHRrPMVoPLxQ9NBO4xbJOOH9u2Nhms71LTRjYVFo4MsoPVXKzcCe3xVJoAKzPQ==}
 
   '@stacksjs/httx@0.1.5':
     resolution: {integrity: sha512-H9bUDDFQ6Wajy7l9oiiDG6kpwu7o8sylIqZduJj8iCpYL2NK4Ri/ovdxzB8NuvyD3K56m12pgjfYcJUbOQfRYw==}
     hasBin: true
+
+  '@stacksjs/lint@0.70.10':
+    resolution: {integrity: sha512-CXBOr49WbicXAEJLMWNt+MmXNiGylL8DHQ9DaI466H71rnAniuPv7m1tXIltdfo2vCqtHtwmuJhIkb2T4FJHDw==}
 
   '@stacksjs/lint@0.70.3':
     resolution: {integrity: sha512-gl7g0jiLL0QNn0sLWILWzJ7evMwaBACB394PfnBAzfV0wlv4pLSZ5bEEnuldigxWDeTVpcToa+ULZawV7vZj0w==}
@@ -2048,8 +2051,8 @@ packages:
   '@stacksjs/lint@0.70.8':
     resolution: {integrity: sha512-M67+kHfbSaokbeRnihqStlS2kgb2nVn1dGCd+GvRi6WJ3k0nub6fE98XntwrJmEBG6mGSedt1JFYjk91yf2vNQ==}
 
-  '@stacksjs/lint@0.70.9':
-    resolution: {integrity: sha512-BAkNGxF5i1lwbVKNE8zbqeSOHPrMYUyB4GRnVLJbYtBU01zGK8s21XnWlZfdRKqGs6eofwbbYODbm+hUuwfhNg==}
+  '@stacksjs/logging@0.70.10':
+    resolution: {integrity: sha512-hkAFUYy0ZMhcLkkahPasbQf74c8dkjc2EgbBxngz2O23RBLZFwK+UCZtLTfap7b3OLd8OL5NCcKndFVOnXOvyQ==}
 
   '@stacksjs/logging@0.70.3':
     resolution: {integrity: sha512-iDM+gvfJTHhyQdpcjhT3EhTu6QZpg6vYghzTHwfWVQhMpSZY32cNxOi9CLuMZoDuDu/mrGJOYMymrx0NR4rOqw==}
@@ -2057,115 +2060,115 @@ packages:
   '@stacksjs/logging@0.70.8':
     resolution: {integrity: sha512-4LUFUyWtExheCliz/+SsrcUIPUAEKUFJcT9fbeTki/edpHaUafjvtR7GBjLTqZJH24ERgs6Z/N00Cmuj6/Lceg==}
 
-  '@stacksjs/logging@0.70.9':
-    resolution: {integrity: sha512-4bg7W3yWZ7kiZU8wtC2jsW2E2YaV8076i7BbsCxTdO9P7OvAXR+7JkGVKL1A5WDHC+IOITP803uLJcQZkJ7AgA==}
+  '@stacksjs/notifications@0.70.10':
+    resolution: {integrity: sha512-3YdRBU20/qGvnspT1WnhCyARypHCjsnCfkkaqfgVVf/FzeD2dNhC19cUnMTYKZskZfa4/GYsvsk5sG/v121SUw==}
 
   '@stacksjs/notifications@0.70.8':
     resolution: {integrity: sha512-nnqF0M2almB3tV5n2cx7+LV1U9NI00w2TJz1NNMabJ9jNfmRUkryOxH35+okwffRBbrrdzbR5fjdSaSn9ZA4bw==}
 
-  '@stacksjs/notifications@0.70.9':
-    resolution: {integrity: sha512-2S1IsT0fDMbYlqtPjFkdFZg7beUpWMoa9EOqceguzOMEcSx5lMMIDqdgYw8NzYtiCcL4dfm9fRn7luI2k1aItw==}
+  '@stacksjs/objects@0.70.10':
+    resolution: {integrity: sha512-7ATO5kIHW2cojpAcER4Icv+kMIhnbGH7QvJjgvU9vRKsMDVz4pd6sVkVHj4nr2C/V7eP0JfpyrL251Cd2YOWdA==}
 
   '@stacksjs/objects@0.70.8':
     resolution: {integrity: sha512-HCJzB64MvszWbvf2jukmX5wPC65+RWQeLmoGk7ziZD0bIU9lArAr+yvToPZOdHwDzTc712vvaLAC3+ZupmJ3Qg==}
 
-  '@stacksjs/objects@0.70.9':
-    resolution: {integrity: sha512-2LrSUQgoL2e1BrDKHBV86t1/DLN24qOl313N4ZbB3Z7CPA8UYD9Skzz+a44iEvnBI/bV1LYXKAskG7nCKHEoew==}
+  '@stacksjs/orm@0.70.10':
+    resolution: {integrity: sha512-ep6jHY4oMOSpp6glLWHIne239qFDXvFaDU01cihWMcGpMGWpvThSSjqeKMT/3H94IaSzvucvRpUH5tajeJwFCg==}
 
   '@stacksjs/orm@0.70.8':
     resolution: {integrity: sha512-YRTjWOAvHfTA2SlHxeU65UtD8z2lK0dqDlaDseBR0q21h7T7WL3x0kxRjwi6SbA1Ee+FS2nL84NwoPS1x+/udA==}
 
-  '@stacksjs/orm@0.70.9':
-    resolution: {integrity: sha512-tANBTXvsy45KwapKTeKkDsikHwLsnlwOfsRERJ5deVWPM4x9xtG4EOVm2CnLVDV5cHd8qRBCkKa6nHcuOHNz+Q==}
+  '@stacksjs/path@0.70.10':
+    resolution: {integrity: sha512-BsdbbvvG1qSN5QE1C8hudPz1x/acwtMgJIYPRzNzMB4XheDuqd7SsVH3dH4kfMhrOJ7KmJNkYEPHY7uP+ckctA==}
 
   '@stacksjs/path@0.70.8':
     resolution: {integrity: sha512-yEILiGRdcjcJGoGtEdgdEM/YSMHnL31UWWbc4RFq3mgHl4qfSqzYohBi4Nfg9TIxGS92LYms+5l2kX9CfuXdqQ==}
 
-  '@stacksjs/path@0.70.9':
-    resolution: {integrity: sha512-Nq/aHn2JtRUfAzx+oJzadzhzaVmPk2AtiU6lCDKazZvhNb/5vyvEZKBMH3Nm+fLWVo2G/cYOBywfw2IiwLOAlg==}
+  '@stacksjs/payments@0.70.10':
+    resolution: {integrity: sha512-6qITFgx/LDPTkv8elHgGiMJ1/3ubCS9E9Hu+HHr9/e23C7BJFQyAjOUO8GR6LcDin9VCnd6MTBeucdadiCO0Ig==}
 
   '@stacksjs/payments@0.70.8':
     resolution: {integrity: sha512-cVP9zU4adF2evwbBalMXIAuP306U3UWJf38UvjcSYzBkZDpUsR1CrKlnL1XOV8ktiBrI25tj4twuzfK4JWV1wA==}
 
-  '@stacksjs/payments@0.70.9':
-    resolution: {integrity: sha512-186D+n+qt1aiVFhlIb55f/y/wrnL/8bFZAJ5wa8MtVQm+Yq/IzwrAJYCMxMnZIfPOGKTPYFRaxoYbAhiBF2OeQ==}
-
-  '@stacksjs/push@0.70.9':
-    resolution: {integrity: sha512-Xw0mdxcPpC6Ujz9b819s6oMXGucQCzkh/0fzxc+j3fkZwyXsRwKt8KIXQK/w3m9lniNRycN3WyZhP9Hr0Crk5A==}
+  '@stacksjs/push@0.70.10':
+    resolution: {integrity: sha512-0tOmS/92nipJtaCLjVma9ahu6eZfvjCRWGaViKfXjMevFJ1u9tstVf0oetf+cG64t4npLRC6wVSKKHlFbqwKtg==}
 
   '@stacksjs/qrx@0.1.0':
     resolution: {integrity: sha512-Uab80ilz5Rq42b+068Mi1F/x8LcG8RNfWVhBjtNjXcBwNrqV9/aNFPXJzqTqWx1/OMFWnjKPsCfBf+DbWAX4sQ==}
     hasBin: true
 
-  '@stacksjs/query-builder@0.70.9':
-    resolution: {integrity: sha512-VV9GYtF1YxBKPsUwUd/taTnrxaZzbXEiEXVrYfgl2x71P5ibzoXkwM6JbT93zlYacsirMubMkwqBwJZ23FGWww==}
+  '@stacksjs/query-builder@0.70.10':
+    resolution: {integrity: sha512-zKdVexiHBb73WlJTNzpQ4aVA2ZycNKBRrMa1WLQ+RVRo5CqhCZGDlGK+0KyCFibe+CKbSZEZUPTlHtsm1tCk2w==}
 
-  '@stacksjs/queue@0.70.9':
-    resolution: {integrity: sha512-IqU1pQSZf4YYlNCyhyTQjZdszk419puOsyw9EJ3QW586ja6YY0WP/AAALE0HGpx8PnT8w47UkovE2EB+Oo5Nzw==}
+  '@stacksjs/queue@0.70.10':
+    resolution: {integrity: sha512-PGqe/c/utj03KDyKQCy7IQA//9bdw308atALIpVrOpnA9NRwogvZXMhoNEfwPmO/Bu+XTvdIFJrBIZPvPM7CiA==}
+
+  '@stacksjs/realtime@0.70.10':
+    resolution: {integrity: sha512-w39aIq+SYJaN9mp5nsHUk52q2zOpIuy1VlRQwAhL2T8XDqIxbl1RvcSZSmJXEtDQ6TejiL4RmxLQenZV87/T8g==}
 
   '@stacksjs/realtime@0.70.8':
     resolution: {integrity: sha512-N1CXE/vIWai9a6wggCaAsiWtTCmIoBvtAuXEm/+U6OuvuuE3XNssPTmmBxRdeQ1KNpIZfyR7c/mWMVZt/K/HAw==}
 
-  '@stacksjs/realtime@0.70.9':
-    resolution: {integrity: sha512-4vQ6xQjq+mNcKK7XUvwyqZvbEn4zLxy5SZZ0Iuf0vKAHcl8QcJG98AGjhzUHt51XIjMR5zlb+e97ED+jlZxJcQ==}
+  '@stacksjs/registry@0.70.10':
+    resolution: {integrity: sha512-oalUWqmhgQ0xmmkV9Y4HTJ4qfSRhbieaCFGkwcBTEpseVeNI+EdzUtG85pOLI48OBOPJhiqgtRMOSEQlktfWcQ==}
 
-  '@stacksjs/registry@0.70.9':
-    resolution: {integrity: sha512-rsXKcP7ICox4+ToELBZsPE2o/hbXHR72Wd954hL3TBx7riJPnkmtN/G2K8dF1oMpKY8h/3LZ4jn9/4cHQ7PhZA==}
+  '@stacksjs/repl@0.70.10':
+    resolution: {integrity: sha512-AnPZan94JumKEwjSkrZcsMj4f/cZ/qv65+E+9VkAsn1xUedrqvfd557PuW6OGSm5z1e11rQ9zEWzkj1IhdmpKA==}
 
-  '@stacksjs/repl@0.70.9':
-    resolution: {integrity: sha512-9MVAzFedPkDTSth5kwnXiLf5rN820wOxD4QOTh+nAl2bH8XfbG/Zh+Wf+lVB062a8wmXm0s8smJ+EPsF8nplWA==}
+  '@stacksjs/router@0.70.10':
+    resolution: {integrity: sha512-4CUcc76PQqd6ZpmXbU5vUWd6LCFINbptieLh+mCXfm8Y9kku/dGqis3aUkffC8UOqXwiqLA6hqyoMMKTINY7Eg==}
 
   '@stacksjs/router@0.70.8':
     resolution: {integrity: sha512-kTb74/JHbD6tPVfnqjfUqGdo6XRmmjkHze/6lPbXoUB/fKhGrFo8F5fRQKDDIsXNPisUhVk30NVudxtpPawfQw==}
-
-  '@stacksjs/router@0.70.9':
-    resolution: {integrity: sha512-Tx8M92xbGUUOr2XU3l3J6+O0kBDCKncaYJQhdIVpbEFrcdCtu04XsYHDvqXmjQfDAHvYUiyb7+QOiJuY/DYp5Q==}
 
   '@stacksjs/rpx@0.10.0':
     resolution: {integrity: sha512-UKaNvSUxe6SzQqxKPtUV2xXwszLtSnZ2EVP8R1v16ou6Yl/eGT9xzuCSsVa38urIWo69B5TfZob9UV2B6ThptQ==}
     hasBin: true
 
-  '@stacksjs/scheduler@0.70.9':
-    resolution: {integrity: sha512-ptn+gkg40CF64bzMN2TVB438EkX9hZ4hByz2baHEaQrO4Q+zdUCLuOs5xuskewvoZ4kFubPiWusTfazWcWnT/A==}
+  '@stacksjs/scheduler@0.70.10':
+    resolution: {integrity: sha512-EHfC/FcywZ9YQt59S98DkrL+K5hw04uWerDKqdVXVHtMTsim3ja4qyPMBLXoJTWeT11Lpl4PKc1LL5ZNcca2xw==}
+
+  '@stacksjs/search-engine@0.70.10':
+    resolution: {integrity: sha512-kq+95ScADemJgf3SjsS+KJIer3+oiRqw/JVE/wRgE4K8rYspheFLSMw0lVzrGPfJQhBwqYy0eNO1qLPVgeWmaQ==}
 
   '@stacksjs/search-engine@0.70.8':
     resolution: {integrity: sha512-Z+zq/VT5XIEVqjbMIFbnR7von2L0kAdxgfvujbu5M9EwRtsqN3qjrfBJUrkUwtx4ePkrFo5mMzbnLl3cb60DKA==}
 
-  '@stacksjs/search-engine@0.70.9':
-    resolution: {integrity: sha512-j3BQ5t3IFB2tJZW9QmpWd2IOVfwlyL+17g8m5kQ7gsQa4SckO7GKwxEA3MaiFiyyndE/28x2MIuzrL2bw+AkPA==}
+  '@stacksjs/security@0.70.10':
+    resolution: {integrity: sha512-cH38Siuf2WrcC1ZYxtSahlUgsvCnCcfIcJa1hMkMMi0Ou5gWf9w+22g0w/AjQSbMHW1QZJCil6fv0EzY7YnWmQ==}
 
   '@stacksjs/security@0.70.8':
     resolution: {integrity: sha512-PGsjyzu8UjfgwW47vrhRl2tOl5aLwAY0syxHtRxTOIh7PuevxBelh/B8cs3k/7VEBFJnaWjLg/GFxljOxV5e9g==}
 
-  '@stacksjs/security@0.70.9':
-    resolution: {integrity: sha512-FhQHvXHyYV0/MWcBehwq+njeahHpInHRPV8iV2BLBmw1E1Y1ptRNPrjcqOcwjBiY1pUG+1yxVw3MVen4xHktYw==}
+  '@stacksjs/server@0.70.10':
+    resolution: {integrity: sha512-KM46dS0n3J5cJegy+PMWNU3jaR372zkzSXD/zcUZdcbxmLFWurXOeesWwiF3uDssrTsYJIp3gmAhgjhy2xiFig==}
 
   '@stacksjs/server@0.70.8':
     resolution: {integrity: sha512-NJkwvD8ob1pxYZYl2K3iDTdqXqruX32D3p0dh5UrL09yUWIvRBXag7yzM5Fr+OgJ8/wNmCoTKr9Z5fOZyOsnlQ==}
 
-  '@stacksjs/server@0.70.9':
-    resolution: {integrity: sha512-UXe3NW4GmdLGUNLkkEYYMMeFaENZBcv3kx0rv8NQ7uWjSE5g1LqCpvlOj94aina+Pw8vPpQo7coGurZd/uZZHw==}
+  '@stacksjs/shell@0.70.10':
+    resolution: {integrity: sha512-BY8tclC+G5Ijkao/PGAh8L/g7Ls03S94B5798aKSs2TaAPgAxNDo7YAWbiwnD0kxAMu5lc0Okkc59o5koqxm6A==}
 
-  '@stacksjs/shell@0.70.9':
-    resolution: {integrity: sha512-Ay0JfCwXRNIHV49G5yy3Wm9H574PwZ/vmFGbrOBobclxqwO57RmaGLwicDD/j9+1oPjZiOd8RBRAMONbjWPXmA==}
+  '@stacksjs/slug@0.70.10':
+    resolution: {integrity: sha512-+5gYeFt+fQYOrAQp7ndA34XOLHkD9qaamrN35+O2jRVp2U5HTTv9+IRIMeuqVTxLvi/z1mYHuhVelu6eag3eHA==}
 
-  '@stacksjs/slug@0.70.9':
-    resolution: {integrity: sha512-C1zaS1zJ6PVfsClBMMlE1sKSUjzfiCAP3lyByJ2nIAv+WTzNAAEEJibisYR8L/F0+G7ff2JtP4EhJy7S9irr/w==}
+  '@stacksjs/sms@0.70.10':
+    resolution: {integrity: sha512-HYdB0nw6blJlHh6DfSrN8twWazWD/UhNyljPj4sBJcafLQIx8K62tJ7xYO1tnwx6AAKhP912iElgtVT6AD1N0A==}
 
-  '@stacksjs/sms@0.70.9':
-    resolution: {integrity: sha512-U/D8IaLZvAgMuPZmxqVsUkmApBy3E4hd7ThB6ZavgfWqQ3RoFm3KOMVRKbKONp6BtNy1VunWFJ/FTljZrKWyWA==}
+  '@stacksjs/storage@0.70.10':
+    resolution: {integrity: sha512-azKph6pC42ffDmH1Asn5KW/dDvHDvAw6ycvA0pxJFAneiGqL+oup+sCIMMmCl4jlSyiB5sGOmL0Qv9oCw8uTkw==}
 
   '@stacksjs/storage@0.70.8':
     resolution: {integrity: sha512-gPlyLlt0q5rC7j31J841shsUB+BhHW5U4RhbRggL/fobLuybHmPcNLTOja/yhWPmuw2faliczHHOtAWDgHGAeA==}
 
-  '@stacksjs/storage@0.70.9':
-    resolution: {integrity: sha512-7Z40rmwgzXibpQwnudsddv5DQAkndaUiTawXJtpYOSxpjbLMqYMhCKAYt+dqsXGSw4dyJ777ZCnKtHZdp4o4gQ==}
+  '@stacksjs/strings@0.70.10':
+    resolution: {integrity: sha512-q4X2ny4gcEnLM4aYZDWeW2yfpQMqu+/9fDsmOH+39VhrIl4QOcNl63krpqNDCnEzQhLMhCerLypaQrzjfylfAw==}
 
   '@stacksjs/strings@0.70.8':
     resolution: {integrity: sha512-50yliYhoymYg93+v1Ncsk9CuDza7PYQUDCwV+VnQLPj+cOP9EZsFeUNlSYug7vftdOfRYlHQ/05MJyGLuIUboQ==}
 
-  '@stacksjs/strings@0.70.9':
-    resolution: {integrity: sha512-Ld3y8Et1iZb11c4Vhk6a5ZtDo+4zVd6PoA12Zp2jCYJCSr+tmY/FMpm42F9BkjNnRQpMrirXZtfEN36fxbFN2w==}
+  '@stacksjs/testing@0.70.10':
+    resolution: {integrity: sha512-6oxsLxHzXqhf6PnZ31koKLv8uMXbUPf6LoIFzFAM9EGhhHUV6ZKRdDAfe2fSGJ3PJWduefXOB2S3jrsyCqOWYA==}
 
   '@stacksjs/testing@0.70.3':
     resolution: {integrity: sha512-JU89psBONf23pAcG9oY90/mR20uavPtE8MQ91+HQZKbR5XLQc4ZLTXM5T1qpo+bHMDSZ9NINAaqhNts+pGeXRg==}
@@ -2173,8 +2176,8 @@ packages:
   '@stacksjs/testing@0.70.8':
     resolution: {integrity: sha512-DSXqN2EP0vY8yVU+4h3OZQaSfZp2IYR1COfaurYeOMMVmaACeLNwHGAq7g2eSi058+PlCVXOANmB8LehpwOwbg==}
 
-  '@stacksjs/testing@0.70.9':
-    resolution: {integrity: sha512-U3197yjqigFREj0IYCqUIE/xp+ZhFX7UjT+Wrw2O6SEZR6AllfToPNoWvy2RdYdDk2cfKa9Z3Jq89KYnnurVcg==}
+  '@stacksjs/tinker@0.70.10':
+    resolution: {integrity: sha512-SGSc2sKsdn3sCG7Kpo6l8qEzFQxjdeKfzKckp6pmQDuMWLltOTSjIR36ZOhPEAfR/mxivSgtoqm0aIaIQ4WtCA==}
 
   '@stacksjs/tinker@0.70.3':
     resolution: {integrity: sha512-6l+CzJqeTA+EUuehiQBquLlBCiYMDGIlZX3UGh8BeJkDmltERng1/sAjsNuhOh39MtOmji3zq1DvDpKv9lJtvg==}
@@ -2182,12 +2185,12 @@ packages:
   '@stacksjs/tinker@0.70.8':
     resolution: {integrity: sha512-SXxObU5Pz/mwxAayIwfBT6FPhjIHdB3jUaHeP98p2BHj79f2ZjSQDqxOYJmyWIhgW0RafxIgYx8r5keTf9rKQg==}
 
-  '@stacksjs/tinker@0.70.9':
-    resolution: {integrity: sha512-HNEbfGvKClApIWoZCwZN1eme8go8jzSuzvgwMEBqUcttPhtpZTuWBr6Z1RvJWug2xt+xw0lEFlUOZDOV/3ysXw==}
-
   '@stacksjs/tlsx@0.10.0':
     resolution: {integrity: sha512-3fwv7wTRgRumQhbzsXEnDYTRTeNq/OgNX62HTnJHBJW8m4DTvjrpDY59f38XDixD5jMUTbse3xSjEcUr6lZetQ==}
     hasBin: true
+
+  '@stacksjs/tunnel@0.70.10':
+    resolution: {integrity: sha512-UQzYXginAhFmR/uiHl7eZoufslg40E7jML6VEuwvyAIFZcmamLYYSUSoxj4TrlPoCwiFeCChtGPJjzRc2+v1yw==}
 
   '@stacksjs/tunnel@0.70.3':
     resolution: {integrity: sha512-0MB0zuPrpmRXQ9YyqCoe6H2mooN9+HjNCTukxpYCpucWuy7Xn2jU4hzhBH7Lq0FHbMzMYhrzHlw0UjOnXWDaAg==}
@@ -2195,8 +2198,8 @@ packages:
   '@stacksjs/tunnel@0.70.8':
     resolution: {integrity: sha512-DxbyU4AQDtj2gkYlQ9yv3k0wcDuGfNuwI4c8asnaTy6STPy1igLrL6d8ovwtWyU6bhhWpIL/ZtjvRi3kK25qPg==}
 
-  '@stacksjs/tunnel@0.70.9':
-    resolution: {integrity: sha512-1pSf2/4hBSgud+DHbV2iPMZ0eVS5R2IUYxUl+lIyIV3Dij+y/+7fhKc7jLkuN29Bt8EHxn04ezT/do7J0dgbgA==}
+  '@stacksjs/types@0.70.10':
+    resolution: {integrity: sha512-Boz7iROP1wh8/lLEOM5LaSCjSMqE62bcXJHi+W7ztUZgT4f1tYDwrh5t3KccYUVpLyNk2hHal1Zk7GaLzN05Ug==}
 
   '@stacksjs/types@0.70.3':
     resolution: {integrity: sha512-QCm3blRyKDltKXvsIemg+PVlNfky+uSLIref5ACxr8MqI0UIioStV03uunfmNEA39+B/Ulyijg9CXdavahKO/A==}
@@ -2204,38 +2207,35 @@ packages:
   '@stacksjs/types@0.70.8':
     resolution: {integrity: sha512-xwLJy7OBlsQVklMu5YRnrxJ4mAV5v9LM31YLC3rk62GfkA/2rUFGEb2Bzf0W+ZDEE1MGqIyMaIEP0l+KiD4sTg==}
 
-  '@stacksjs/types@0.70.9':
-    resolution: {integrity: sha512-am7YxWkthJi75YQFdSJnF+RHZCj1syX6c0cIa7YO8DWj1OURojF4IiEdxPzaArVKWjZTCw+nIRRq+N05hsNiZA==}
+  '@stacksjs/ui@0.70.10':
+    resolution: {integrity: sha512-AFPFQWsj90kguWUJwihPL3yzeDvsgoj7jKWNOpqOCxDEMyNJ+j26NyT+cuLYFlwYFbgn4/KzhBbao2VRmaOPrQ==}
 
   '@stacksjs/ui@0.70.8':
     resolution: {integrity: sha512-GAuNaZw25GVKnEC+CfYOnyOgq8aa7+Pc/drVmXZvu9P22Pt9cdPDO0Qq9han5ZevYuWrEBd03n/gOMH/ua/fJg==}
 
-  '@stacksjs/ui@0.70.9':
-    resolution: {integrity: sha512-nMfgROxm8XP8b+smblzrv6vJzg+n/j/Xe+XYGMZ3WLvmIUu2evgNR3tG6pDlYQuJrkc6HfxuZ4T/MXVculnmTQ==}
+  '@stacksjs/utils@0.70.10':
+    resolution: {integrity: sha512-xCQ6LnOSndiKmK+Nc7DajamubKXt/R6sXVvLGIifgWAO92ecEoP+feOZwjCfTH390XMFYJyStlq7aV52gTPkUw==}
 
   '@stacksjs/utils@0.70.8':
     resolution: {integrity: sha512-yXlyx9CM3Talmxc+QZAA1Pqmz4nkcXhdMO27r+DiO+BMH9ILKpfORGy7XKxSlbdAPhDnKdJu6t8JPL6ymlTkuQ==}
 
-  '@stacksjs/utils@0.70.9':
-    resolution: {integrity: sha512-gjhSEoaIKiMxl4p9cRg2sjMqbuH6ZBsLFIDnw0J1jnztTGAx+SnkKe34hVbrjmd4YJT0OSWvhyl9esdAyaUS4Q==}
+  '@stacksjs/validation@0.70.10':
+    resolution: {integrity: sha512-T7X8jouI40Xkt7qp6uGAr/nb8pFCmzXjrTcxCouJ9+6HQe6cMbraxhJ8P8Bvjsv00D9roQBh5zITZN0+oSkYnA==}
 
   '@stacksjs/validation@0.70.8':
     resolution: {integrity: sha512-IUGKcNC//DL/7uCg8t/2HA6D8ai88ijpB2OwFZo7tcOis4278cSd3hjT+4lhIHA1wZKR88lKHT8W1IxQ+1xSfQ==}
 
-  '@stacksjs/validation@0.70.9':
-    resolution: {integrity: sha512-QkHOV9flFZGyRmC5y6aWeXOE4jMnHuRIhcEPnVfytt4wLO1dUaUbs9en3kgKQZIFW2kYuui1Vp2mry0NcesUJw==}
+  '@stacksjs/vite-config@0.70.10':
+    resolution: {integrity: sha512-Mcuyne7CAs1YQ//BGui3mIAQEWCDeoCqLp8ZVYPidFODiADnO4JYn6Wjfez9NqpYxS9mqLUie0dUDnGHF1ZIAg==}
 
-  '@stacksjs/vite-config@0.70.9':
-    resolution: {integrity: sha512-vrRszNBgBu+Am7Hp/9wvvTtnegreVmoSxTA+i1TqZFEk0MXZVcoKEIlk179iUs8uq/isaDWK55m5jfxW0OGEQw==}
+  '@stacksjs/vite-plugin@0.70.10':
+    resolution: {integrity: sha512-l2uLbiZ6acoZSYqSFht7V/ZTl5QZcOfQeIEOnht0Iztn/RjXABFmRHrc2uyfjcZJhKoK/YwR3JXfQDKt6rUb/A==}
 
-  '@stacksjs/vite-plugin@0.70.9':
-    resolution: {integrity: sha512-ajNkZXa65hz+bSjQ2RxK4zpWPUrKYj+c555cbDHFfjD7bhhpO4eDNUmOxatLpdcFwNTi81kETpoctAnRplXhlA==}
+  '@stacksjs/whois@0.70.10':
+    resolution: {integrity: sha512-/s41EywbswpPaMzM3GVt/27AnxtIFPVVIRXrfWE1oGjNRRL3gTbJFe9vEv0HkTC7689grimAIiHD/bWwSFlThQ==}
 
-  '@stacksjs/whois@0.70.9':
-    resolution: {integrity: sha512-jPeGSg5zEpho+BtNT8/0Hl96y3EH5+eZnw1Crhe3hGXAFB/RQY2AS4ZyiYMWwRaoskRUD9CXmB58/mq1nLhVyw==}
-
-  '@stacksjs/x-ray@0.70.9':
-    resolution: {integrity: sha512-CR7sGFRCjOKME8ituPlQTbHlqbuSrHh7JukhpSnKFOLJGQusoqRrFO2VrUqeSHbd2YfAQEmesclF7wEGTrQo2A==}
+  '@stacksjs/x-ray@0.70.10':
+    resolution: {integrity: sha512-BJyV6GK1L5BqhgR65h4Rzubx8waWy/7G5YCn3MY6LEedk6GtOP5MiJHcl1ImwCBPgShj6hR3yMtY7Mntjx4f9g==}
 
   '@stylistic/eslint-plugin@4.2.0':
     resolution: {integrity: sha512-8hXezgz7jexGHdo5WN6JBEIPHCSFyyU4vgbxevu4YLVS5vl+sxqAAGyXSzfNDyR6xMNSH5H1x67nsXcYMOHtZA==}
@@ -6865,37 +6865,37 @@ snapshots:
 
   '@shikijs/vscode-textmate@10.0.2': {}
 
+  '@stacksjs/actions@0.70.10': {}
+
   '@stacksjs/actions@0.70.8': {}
 
-  '@stacksjs/actions@0.70.9': {}
+  '@stacksjs/ai@0.70.10': {}
 
   '@stacksjs/ai@0.70.8': {}
 
-  '@stacksjs/ai@0.70.9': {}
+  '@stacksjs/alias@0.70.10': {}
 
   '@stacksjs/alias@0.70.3': {}
 
   '@stacksjs/alias@0.70.8': {}
 
-  '@stacksjs/alias@0.70.9': {}
+  '@stacksjs/analytics@0.70.10': {}
 
-  '@stacksjs/analytics@0.70.9': {}
+  '@stacksjs/api@0.70.10': {}
 
-  '@stacksjs/api@0.70.9': {}
+  '@stacksjs/arrays@0.70.10': {}
 
   '@stacksjs/arrays@0.70.8': {}
 
-  '@stacksjs/arrays@0.70.9': {}
-
   '@stacksjs/audiox@0.1.1': {}
+
+  '@stacksjs/auth@0.70.10': {}
 
   '@stacksjs/auth@0.70.8': {}
 
-  '@stacksjs/auth@0.70.9': {}
+  '@stacksjs/browser@0.70.10': {}
 
-  '@stacksjs/browser@0.70.9': {}
-
-  '@stacksjs/buddy@0.70.9(@algolia/client-search@5.21.0)(@babel/parser@7.26.9)(@types/node@22.13.11)(@vue/compiler-sfc@3.5.13)(postcss@8.5.3)(terser@5.39.0)(typescript@5.8.2)(vite@5.4.14(@types/node@22.13.11)(terser@5.39.0))(vue@3.5.13(typescript@5.8.2))':
+  '@stacksjs/buddy@0.70.10(@algolia/client-search@5.21.0)(@babel/parser@7.26.9)(@types/node@22.13.11)(@vue/compiler-sfc@3.5.13)(postcss@8.5.3)(terser@5.39.0)(typescript@5.8.2)(vite@5.4.14(@types/node@22.13.11)(terser@5.39.0))(vue@3.5.13(typescript@5.8.2))':
     dependencies:
       '@stacksjs/actions': 0.70.8
       '@stacksjs/ai': 0.70.8
@@ -6983,51 +6983,65 @@ snapshots:
       - vue-template-compiler
       - vue-template-es2015-compiler
 
+  '@stacksjs/build@0.70.10': {}
+
   '@stacksjs/build@0.70.3': {}
 
   '@stacksjs/build@0.70.8': {}
 
-  '@stacksjs/build@0.70.9': {}
+  '@stacksjs/cache@0.70.10': {}
 
   '@stacksjs/cache@0.70.8': {}
 
-  '@stacksjs/cache@0.70.9': {}
+  '@stacksjs/calendar-api@0.70.10': {}
 
-  '@stacksjs/calendar-api@0.70.9': {}
-
-  '@stacksjs/chat@0.70.9': {}
+  '@stacksjs/chat@0.70.10': {}
 
   '@stacksjs/clarity@0.2.0': {}
 
+  '@stacksjs/cli@0.70.10': {}
+
   '@stacksjs/cli@0.70.8': {}
 
-  '@stacksjs/cli@0.70.9': {}
+  '@stacksjs/cloud@0.70.10': {}
 
   '@stacksjs/cloud@0.70.8': {}
 
-  '@stacksjs/cloud@0.70.9': {}
+  '@stacksjs/collections@0.70.10': {}
 
   '@stacksjs/collections@0.70.8': {}
 
-  '@stacksjs/collections@0.70.9': {}
+  '@stacksjs/config@0.70.10': {}
 
   '@stacksjs/config@0.70.8': {}
 
-  '@stacksjs/config@0.70.9': {}
+  '@stacksjs/database@0.70.10':
+    optionalDependencies:
+      mysql2: 3.14.0
 
   '@stacksjs/database@0.70.8':
     optionalDependencies:
       mysql2: 3.14.0
 
-  '@stacksjs/database@0.70.9':
-    optionalDependencies:
-      mysql2: 3.14.0
+  '@stacksjs/datetime@0.70.10': {}
 
-  '@stacksjs/datetime@0.70.9': {}
+  '@stacksjs/desktop@0.70.10': {}
 
   '@stacksjs/desktop@0.70.8': {}
 
-  '@stacksjs/desktop@0.70.9': {}
+  '@stacksjs/development@0.70.10':
+    dependencies:
+      '@stacksjs/alias': 0.70.8
+      '@stacksjs/build': 0.70.8
+      '@stacksjs/lint': 0.70.8
+      '@stacksjs/logging': 0.70.8
+      '@stacksjs/rpx': 0.10.0
+      '@stacksjs/testing': 0.70.8
+      '@stacksjs/tinker': 0.70.8
+      '@stacksjs/tunnel': 0.70.8
+      '@stacksjs/types': 0.70.8
+      bun-plugin-dtsx: 0.21.9
+      typescript: 5.8.2
 
   '@stacksjs/development@0.70.8':
     dependencies:
@@ -7043,25 +7057,65 @@ snapshots:
       bun-plugin-dtsx: 0.21.9
       typescript: 5.8.2
 
-  '@stacksjs/development@0.70.9':
-    dependencies:
-      '@stacksjs/alias': 0.70.8
-      '@stacksjs/build': 0.70.8
-      '@stacksjs/lint': 0.70.8
-      '@stacksjs/logging': 0.70.8
-      '@stacksjs/rpx': 0.10.0
-      '@stacksjs/testing': 0.70.8
-      '@stacksjs/tinker': 0.70.8
-      '@stacksjs/tunnel': 0.70.8
-      '@stacksjs/types': 0.70.8
-      bun-plugin-dtsx: 0.21.9
-      typescript: 5.8.2
+  '@stacksjs/dns@0.70.10': {}
 
   '@stacksjs/dns@0.70.8': {}
 
-  '@stacksjs/dns@0.70.9': {}
-
   '@stacksjs/dnsx@0.2.2': {}
+
+  '@stacksjs/docs@0.70.10(@algolia/client-search@5.21.0)(@babel/parser@7.26.9)(@types/node@22.13.11)(@vue/compiler-sfc@3.5.13)(postcss@8.5.3)(terser@5.39.0)(typescript@5.8.2)(vite@5.4.14(@types/node@22.13.11)(terser@5.39.0))(vue@3.5.13(typescript@5.8.2))':
+    dependencies:
+      '@iconify-json/carbon': 1.2.8
+      '@shikijs/vitepress-twoslash': 3.2.1(typescript@5.8.2)
+      '@vite-pwa/assets-generator': 0.2.6
+      '@vite-pwa/vitepress': 0.5.3(@vite-pwa/assets-generator@0.2.6)(vite-plugin-pwa@0.21.1(@vite-pwa/assets-generator@0.2.6)(vite@5.4.14(@types/node@22.13.11)(terser@5.39.0)))
+      unocss: 66.0.0(vite@5.4.14(@types/node@22.13.11)(terser@5.39.0))(vue@3.5.13(typescript@5.8.2))
+      unplugin-icons: 22.1.0(@vue/compiler-sfc@3.5.13)
+      unplugin-vue-components: 28.4.1(@babel/parser@7.26.9)(vue@3.5.13(typescript@5.8.2))
+      vite-plugin-pwa: 0.21.1(@vite-pwa/assets-generator@0.2.6)(vite@5.4.14(@types/node@22.13.11)(terser@5.39.0))
+      vitepress: 1.6.3(@algolia/client-search@5.21.0)(@types/node@22.13.11)(postcss@8.5.3)(terser@5.39.0)(typescript@5.8.2)
+    transitivePeerDependencies:
+      - '@algolia/client-search'
+      - '@babel/parser'
+      - '@nuxt/kit'
+      - '@svgr/core'
+      - '@svgx/core'
+      - '@types/babel__core'
+      - '@types/node'
+      - '@types/react'
+      - '@unocss/webpack'
+      - '@vue/compiler-sfc'
+      - async-validator
+      - axios
+      - bare-buffer
+      - change-case
+      - drauu
+      - fuse.js
+      - idb-keyval
+      - jwt-decode
+      - less
+      - lightningcss
+      - markdown-it-mathjax3
+      - nprogress
+      - postcss
+      - qrcode
+      - react
+      - react-dom
+      - sass
+      - sass-embedded
+      - search-insights
+      - sortablejs
+      - stylus
+      - sugarss
+      - supports-color
+      - svelte
+      - terser
+      - typescript
+      - universal-cookie
+      - vite
+      - vue
+      - vue-template-compiler
+      - vue-template-es2015-compiler
 
   '@stacksjs/docs@0.70.8(@algolia/client-search@5.21.0)(@babel/parser@7.26.9)(@types/node@22.13.11)(@vue/compiler-sfc@3.5.13)(postcss@8.5.3)(terser@5.39.0)(typescript@5.8.2)(vite@5.4.14(@types/node@22.13.11)(terser@5.39.0))(vue@3.5.13(typescript@5.8.2))':
     dependencies:
@@ -7117,77 +7171,23 @@ snapshots:
       - vue-template-compiler
       - vue-template-es2015-compiler
 
-  '@stacksjs/docs@0.70.9(@algolia/client-search@5.21.0)(@babel/parser@7.26.9)(@types/node@22.13.11)(@vue/compiler-sfc@3.5.13)(postcss@8.5.3)(terser@5.39.0)(typescript@5.8.2)(vite@5.4.14(@types/node@22.13.11)(terser@5.39.0))(vue@3.5.13(typescript@5.8.2))':
-    dependencies:
-      '@iconify-json/carbon': 1.2.8
-      '@shikijs/vitepress-twoslash': 3.2.1(typescript@5.8.2)
-      '@vite-pwa/assets-generator': 0.2.6
-      '@vite-pwa/vitepress': 0.5.3(@vite-pwa/assets-generator@0.2.6)(vite-plugin-pwa@0.21.1(@vite-pwa/assets-generator@0.2.6)(vite@5.4.14(@types/node@22.13.11)(terser@5.39.0)))
-      unocss: 66.0.0(vite@5.4.14(@types/node@22.13.11)(terser@5.39.0))(vue@3.5.13(typescript@5.8.2))
-      unplugin-icons: 22.1.0(@vue/compiler-sfc@3.5.13)
-      unplugin-vue-components: 28.4.1(@babel/parser@7.26.9)(vue@3.5.13(typescript@5.8.2))
-      vite-plugin-pwa: 0.21.1(@vite-pwa/assets-generator@0.2.6)(vite@5.4.14(@types/node@22.13.11)(terser@5.39.0))
-      vitepress: 1.6.3(@algolia/client-search@5.21.0)(@types/node@22.13.11)(postcss@8.5.3)(terser@5.39.0)(typescript@5.8.2)
-    transitivePeerDependencies:
-      - '@algolia/client-search'
-      - '@babel/parser'
-      - '@nuxt/kit'
-      - '@svgr/core'
-      - '@svgx/core'
-      - '@types/babel__core'
-      - '@types/node'
-      - '@types/react'
-      - '@unocss/webpack'
-      - '@vue/compiler-sfc'
-      - async-validator
-      - axios
-      - bare-buffer
-      - change-case
-      - drauu
-      - fuse.js
-      - idb-keyval
-      - jwt-decode
-      - less
-      - lightningcss
-      - markdown-it-mathjax3
-      - nprogress
-      - postcss
-      - qrcode
-      - react
-      - react-dom
-      - sass
-      - sass-embedded
-      - search-insights
-      - sortablejs
-      - stylus
-      - sugarss
-      - supports-color
-      - svelte
-      - terser
-      - typescript
-      - universal-cookie
-      - vite
-      - vue
-      - vue-template-compiler
-      - vue-template-es2015-compiler
-
   '@stacksjs/dtsx@0.8.0': {}
+
+  '@stacksjs/email@0.70.10': {}
 
   '@stacksjs/email@0.70.8': {}
 
-  '@stacksjs/email@0.70.9': {}
+  '@stacksjs/enums@0.70.10': {}
 
   '@stacksjs/enums@0.70.8': {}
 
-  '@stacksjs/enums@0.70.9': {}
-
-  '@stacksjs/env@0.70.9':
+  '@stacksjs/env@0.70.10':
     dependencies:
       '@dotenvx/dotenvx': 1.39.0
 
-  '@stacksjs/error-handling@0.70.8': {}
+  '@stacksjs/error-handling@0.70.10': {}
 
-  '@stacksjs/error-handling@0.70.9': {}
+  '@stacksjs/error-handling@0.70.8': {}
 
   '@stacksjs/eslint-config@4.10.2-beta.3(@typescript-eslint/utils@8.27.0(eslint@9.22.0(jiti@2.4.2))(typescript@5.8.2))(@vue/compiler-sfc@3.5.13)(eslint@9.22.0(jiti@2.4.2))(typescript@5.8.2)(vite@5.4.14(@types/node@22.13.11)(terser@5.39.0))(vue@3.5.13(typescript@5.8.2))':
     dependencies:
@@ -7258,153 +7258,153 @@ snapshots:
       - vitest
       - vue
 
+  '@stacksjs/events@0.70.10': {}
+
   '@stacksjs/events@0.70.8': {}
 
-  '@stacksjs/events@0.70.9': {}
+  '@stacksjs/faker@0.70.10': {}
 
   '@stacksjs/faker@0.70.8': {}
 
-  '@stacksjs/faker@0.70.9': {}
+  '@stacksjs/git@0.70.10': {}
 
   '@stacksjs/git@0.70.8': {}
 
-  '@stacksjs/git@0.70.9': {}
+  '@stacksjs/health@0.70.10': {}
 
   '@stacksjs/health@0.70.8': {}
 
-  '@stacksjs/health@0.70.9': {}
-
-  '@stacksjs/http@0.70.9': {}
+  '@stacksjs/http@0.70.10': {}
 
   '@stacksjs/httx@0.1.5': {}
+
+  '@stacksjs/lint@0.70.10': {}
 
   '@stacksjs/lint@0.70.3': {}
 
   '@stacksjs/lint@0.70.8': {}
 
-  '@stacksjs/lint@0.70.9': {}
+  '@stacksjs/logging@0.70.10': {}
 
   '@stacksjs/logging@0.70.3': {}
 
   '@stacksjs/logging@0.70.8': {}
 
-  '@stacksjs/logging@0.70.9': {}
+  '@stacksjs/notifications@0.70.10': {}
 
   '@stacksjs/notifications@0.70.8': {}
 
-  '@stacksjs/notifications@0.70.9': {}
+  '@stacksjs/objects@0.70.10': {}
 
   '@stacksjs/objects@0.70.8': {}
 
-  '@stacksjs/objects@0.70.9': {}
+  '@stacksjs/orm@0.70.10': {}
 
   '@stacksjs/orm@0.70.8': {}
 
-  '@stacksjs/orm@0.70.9': {}
+  '@stacksjs/path@0.70.10': {}
 
   '@stacksjs/path@0.70.8': {}
 
-  '@stacksjs/path@0.70.9': {}
+  '@stacksjs/payments@0.70.10': {}
 
   '@stacksjs/payments@0.70.8': {}
 
-  '@stacksjs/payments@0.70.9': {}
-
-  '@stacksjs/push@0.70.9': {}
+  '@stacksjs/push@0.70.10': {}
 
   '@stacksjs/qrx@0.1.0': {}
 
-  '@stacksjs/query-builder@0.70.9': {}
+  '@stacksjs/query-builder@0.70.10': {}
 
-  '@stacksjs/queue@0.70.9': {}
+  '@stacksjs/queue@0.70.10': {}
+
+  '@stacksjs/realtime@0.70.10': {}
 
   '@stacksjs/realtime@0.70.8': {}
 
-  '@stacksjs/realtime@0.70.9': {}
+  '@stacksjs/registry@0.70.10': {}
 
-  '@stacksjs/registry@0.70.9': {}
+  '@stacksjs/repl@0.70.10': {}
 
-  '@stacksjs/repl@0.70.9': {}
+  '@stacksjs/router@0.70.10': {}
 
   '@stacksjs/router@0.70.8': {}
 
-  '@stacksjs/router@0.70.9': {}
-
   '@stacksjs/rpx@0.10.0': {}
 
-  '@stacksjs/scheduler@0.70.9': {}
+  '@stacksjs/scheduler@0.70.10': {}
+
+  '@stacksjs/search-engine@0.70.10': {}
 
   '@stacksjs/search-engine@0.70.8': {}
 
-  '@stacksjs/search-engine@0.70.9': {}
+  '@stacksjs/security@0.70.10': {}
 
   '@stacksjs/security@0.70.8': {}
 
-  '@stacksjs/security@0.70.9': {}
+  '@stacksjs/server@0.70.10': {}
 
   '@stacksjs/server@0.70.8': {}
 
-  '@stacksjs/server@0.70.9': {}
+  '@stacksjs/shell@0.70.10': {}
 
-  '@stacksjs/shell@0.70.9': {}
+  '@stacksjs/slug@0.70.10': {}
 
-  '@stacksjs/slug@0.70.9': {}
+  '@stacksjs/sms@0.70.10': {}
 
-  '@stacksjs/sms@0.70.9': {}
+  '@stacksjs/storage@0.70.10': {}
 
   '@stacksjs/storage@0.70.8': {}
 
-  '@stacksjs/storage@0.70.9': {}
+  '@stacksjs/strings@0.70.10': {}
 
   '@stacksjs/strings@0.70.8': {}
 
-  '@stacksjs/strings@0.70.9': {}
+  '@stacksjs/testing@0.70.10': {}
 
   '@stacksjs/testing@0.70.3': {}
 
   '@stacksjs/testing@0.70.8': {}
 
-  '@stacksjs/testing@0.70.9': {}
+  '@stacksjs/tinker@0.70.10': {}
 
   '@stacksjs/tinker@0.70.3': {}
 
   '@stacksjs/tinker@0.70.8': {}
 
-  '@stacksjs/tinker@0.70.9': {}
-
   '@stacksjs/tlsx@0.10.0': {}
+
+  '@stacksjs/tunnel@0.70.10': {}
 
   '@stacksjs/tunnel@0.70.3': {}
 
   '@stacksjs/tunnel@0.70.8': {}
 
-  '@stacksjs/tunnel@0.70.9': {}
+  '@stacksjs/types@0.70.10': {}
 
   '@stacksjs/types@0.70.3': {}
 
   '@stacksjs/types@0.70.8': {}
 
-  '@stacksjs/types@0.70.9': {}
+  '@stacksjs/ui@0.70.10': {}
 
   '@stacksjs/ui@0.70.8': {}
 
-  '@stacksjs/ui@0.70.9': {}
+  '@stacksjs/utils@0.70.10': {}
 
   '@stacksjs/utils@0.70.8': {}
 
-  '@stacksjs/utils@0.70.9': {}
+  '@stacksjs/validation@0.70.10': {}
 
   '@stacksjs/validation@0.70.8': {}
 
-  '@stacksjs/validation@0.70.9': {}
+  '@stacksjs/vite-config@0.70.10': {}
 
-  '@stacksjs/vite-config@0.70.9': {}
+  '@stacksjs/vite-plugin@0.70.10': {}
 
-  '@stacksjs/vite-plugin@0.70.9': {}
+  '@stacksjs/whois@0.70.10': {}
 
-  '@stacksjs/whois@0.70.9': {}
-
-  '@stacksjs/x-ray@0.70.9': {}
+  '@stacksjs/x-ray@0.70.10': {}
 
   '@stylistic/eslint-plugin@4.2.0(eslint@9.22.0(jiti@2.4.2))(typescript@5.8.2)':
     dependencies:
