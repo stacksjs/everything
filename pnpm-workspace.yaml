@@ -9,78 +9,78 @@ catalogs:
     bun-plugin-unocss: ^0.1.2
 
   core:
-    '@stacksjs/actions': ^0.70.22
-    '@stacksjs/ai': ^0.70.22
-    '@stacksjs/alias': ^0.70.22
-    '@stacksjs/analytics': ^0.70.22
-    '@stacksjs/api': ^0.70.22
-    '@stacksjs/arrays': ^0.70.22
+    '@stacksjs/actions': ^0.70.23
+    '@stacksjs/ai': ^0.70.23
+    '@stacksjs/alias': ^0.70.23
+    '@stacksjs/analytics': ^0.70.23
+    '@stacksjs/api': ^0.70.23
+    '@stacksjs/arrays': ^0.70.23
     '@stacksjs/audiox': ^0.1.1
-    '@stacksjs/auth': ^0.70.22
-    '@stacksjs/browser': ^0.70.22
-    '@stacksjs/buddy': ^0.70.22
-    '@stacksjs/build': ^0.70.22
-    '@stacksjs/cache': ^0.70.22
-    '@stacksjs/calendar-api': ^0.70.22
-    '@stacksjs/chat': ^0.70.22
-    '@stacksjs/clarity': ^0.3.3
-    '@stacksjs/cli': ^0.70.22
-    '@stacksjs/cloud': ^0.70.22
-    '@stacksjs/collections': ^0.70.22
-    '@stacksjs/config': ^0.70.22
-    '@stacksjs/database': ^0.70.22
-    '@stacksjs/datetime': ^0.70.22
+    '@stacksjs/auth': ^0.70.23
+    '@stacksjs/browser': ^0.70.23
+    '@stacksjs/buddy': ^0.70.23
+    '@stacksjs/build': ^0.70.23
+    '@stacksjs/cache': ^0.70.23
+    '@stacksjs/calendar-api': ^0.70.23
+    '@stacksjs/chat': ^0.70.23
+    '@stacksjs/clarity': ^0.3.6
+    '@stacksjs/cli': ^0.70.23
+    '@stacksjs/cloud': ^0.70.23
+    '@stacksjs/collections': ^0.70.23
+    '@stacksjs/config': ^0.70.23
+    '@stacksjs/database': ^0.70.23
+    '@stacksjs/datetime': ^0.70.23
     '@stacksjs/desktop': ^0.70.16
-    '@stacksjs/development': ^0.70.22
-    '@stacksjs/dns': ^0.70.22
+    '@stacksjs/development': ^0.70.23
+    '@stacksjs/dns': ^0.70.23
     '@stacksjs/dnsx': ^0.2.2
-    '@stacksjs/docs': ^0.70.22
+    '@stacksjs/docs': ^0.70.23
     '@stacksjs/dtsx': ^0.8.0
-    '@stacksjs/email': ^0.70.22
-    '@stacksjs/enums': ^0.70.22
-    '@stacksjs/env': ^0.70.22
-    '@stacksjs/error-handling': ^0.70.22
-    '@stacksjs/events': ^0.70.22
-    '@stacksjs/faker': ^0.70.22
+    '@stacksjs/email': ^0.70.23
+    '@stacksjs/enums': ^0.70.23
+    '@stacksjs/env': ^0.70.23
+    '@stacksjs/error-handling': ^0.70.23
+    '@stacksjs/events': ^0.70.23
+    '@stacksjs/faker': ^0.70.23
     '@stacksjs/git': ^0.70.16
-    '@stacksjs/health': ^0.70.22
-    '@stacksjs/http': ^0.70.22
+    '@stacksjs/health': ^0.70.23
+    '@stacksjs/http': ^0.70.23
     '@stacksjs/httx': ^0.1.5
-    '@stacksjs/lint': ^0.70.22
-    '@stacksjs/logging': ^0.70.22
-    '@stacksjs/notifications': ^0.70.22
-    '@stacksjs/objects': ^0.70.22
-    '@stacksjs/orm': ^0.70.22
-    '@stacksjs/path': ^0.70.22
-    '@stacksjs/payments': ^0.70.22
-    '@stacksjs/push': ^0.70.22
+    '@stacksjs/lint': ^0.70.23
+    '@stacksjs/logging': ^0.70.23
+    '@stacksjs/notifications': ^0.70.23
+    '@stacksjs/objects': ^0.70.23
+    '@stacksjs/orm': ^0.70.23
+    '@stacksjs/path': ^0.70.23
+    '@stacksjs/payments': ^0.70.23
+    '@stacksjs/push': ^0.70.23
     '@stacksjs/qrx': ^0.1.0
-    '@stacksjs/query-builder': ^0.70.22
-    '@stacksjs/queue': ^0.70.22
-    '@stacksjs/realtime': ^0.70.22
-    '@stacksjs/registry': ^0.70.22
-    '@stacksjs/repl': ^0.70.22
-    '@stacksjs/router': ^0.70.22
+    '@stacksjs/query-builder': ^0.70.23
+    '@stacksjs/queue': ^0.70.23
+    '@stacksjs/realtime': ^0.70.23
+    '@stacksjs/registry': ^0.70.23
+    '@stacksjs/repl': ^0.70.23
+    '@stacksjs/router': ^0.70.23
     '@stacksjs/rpx': ^0.10.0
-    '@stacksjs/scheduler': ^0.70.22
-    '@stacksjs/search-engine': ^0.70.22
-    '@stacksjs/security': ^0.70.22
-    '@stacksjs/server': ^0.70.22
-    '@stacksjs/shell': ^0.70.22
-    '@stacksjs/slug': ^0.70.22
-    '@stacksjs/sms': ^0.70.22
-    '@stacksjs/storage': ^0.70.22
-    '@stacksjs/strings': ^0.70.22
-    '@stacksjs/testing': ^0.70.22
-    '@stacksjs/tinker': ^0.70.22
+    '@stacksjs/scheduler': ^0.70.23
+    '@stacksjs/search-engine': ^0.70.23
+    '@stacksjs/security': ^0.70.23
+    '@stacksjs/server': ^0.70.23
+    '@stacksjs/shell': ^0.70.23
+    '@stacksjs/slug': ^0.70.23
+    '@stacksjs/sms': ^0.70.23
+    '@stacksjs/storage': ^0.70.23
+    '@stacksjs/strings': ^0.70.23
+    '@stacksjs/testing': ^0.70.23
+    '@stacksjs/tinker': ^0.70.23
     '@stacksjs/tlsx': ^0.10.0
-    '@stacksjs/tunnel': ^0.70.22
-    '@stacksjs/types': ^0.70.22
-    '@stacksjs/ui': ^0.70.22
-    '@stacksjs/utils': ^0.70.22
-    '@stacksjs/validation': ^0.70.22
-    '@stacksjs/whois': ^0.70.22
-    '@stacksjs/x-ray': ^0.70.22
+    '@stacksjs/tunnel': ^0.70.23
+    '@stacksjs/types': ^0.70.23
+    '@stacksjs/ui': ^0.70.23
+    '@stacksjs/utils': ^0.70.23
+    '@stacksjs/validation': ^0.70.23
+    '@stacksjs/whois': ^0.70.23
+    '@stacksjs/x-ray': ^0.70.23
 
   eslint:
     '@stacksjs/eslint-config': ^4.10.2-beta.3
@@ -96,17 +96,17 @@ catalogs:
 
   unrelated:
     '@types/node': ^22.14.0
-    eslint: ^9.23.0
+    eslint: ^9.24.0
     lint-staged: ^15.5.0
     netlify-plugin-cache: ^1.0.3
-    node-modules-inspector: ^0.6.0
+    node-modules-inspector: ^0.6.2
     pnpm: ^10.7.1
     simple-git-hooks: ^2.12.1
-    typescript: ^5.8.2
+    typescript: ^5.8.3
 
   vite:
-    '@stacksjs/vite-config': ^0.70.22
-    '@stacksjs/vite-plugin': ^0.70.22
+    '@stacksjs/vite-config': ^0.70.23
+    '@stacksjs/vite-plugin': ^0.70.23
     vite-plugin-dotenvx: ^0.1.1
     vite-plugin-local: ^0.5.0
 
