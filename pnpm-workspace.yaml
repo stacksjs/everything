@@ -2,7 +2,7 @@ packages: []
 
 catalogs:
   bun:
-    bun-git-hooks: ^0.1.0
+    bun-git-hooks: ^0.2.12
     bun-plugin-auto-imports: ^0.3.1
     bun-plugin-dotenvx: ^0.6.3
     bun-plugin-dtsx: ^0.21.9
@@ -23,7 +23,7 @@ catalogs:
     '@stacksjs/cache': ^0.70.23
     '@stacksjs/calendar-api': ^0.70.23
     '@stacksjs/chat': ^0.70.23
-    '@stacksjs/clarity': ^0.3.6
+    '@stacksjs/clarity': ^0.3.9
     '@stacksjs/cli': ^0.70.23
     '@stacksjs/cloud': ^0.70.23
     '@stacksjs/collections': ^0.70.23
@@ -95,12 +95,12 @@ catalogs:
     ts-spreadsheets: ^0.2.0
 
   unrelated:
-    '@types/node': ^22.14.0
-    eslint: ^9.24.0
-    lint-staged: ^15.5.0
+    '@types/node': ^22.14.1
+    eslint: ^9.25.0
+    lint-staged: ^15.5.1
     netlify-plugin-cache: ^1.0.3
-    node-modules-inspector: ^0.6.2
-    pnpm: ^10.7.1
+    node-modules-inspector: ^0.6.6
+    pnpm: ^10.8.1
     simple-git-hooks: ^2.12.1
     typescript: ^5.8.3
 
