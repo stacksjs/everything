@@ -97,7 +97,7 @@ catalogs:
   unrelated:
     '@types/node': ^22.15.21
     eslint: ^9.27.0
-    lint-staged: ^15.5.2
+    lint-staged: ^16.0.0
     netlify-plugin-cache: ^1.0.3
     node-modules-inspector: ^0.6.8
     pnpm: ^10.11.0
