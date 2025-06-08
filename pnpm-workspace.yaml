@@ -95,12 +95,12 @@ catalogs:
     ts-spreadsheets: ^0.2.0
 
   unrelated:
-    '@types/node': ^22.15.21
-    eslint: ^9.27.0
+    '@types/node': ^22.15.30
+    eslint: ^9.28.0
     lint-staged: ^16.0.0
     netlify-plugin-cache: ^1.0.3
-    node-modules-inspector: ^0.6.8
-    pnpm: ^10.11.0
+    node-modules-inspector: ^0.6.9
+    pnpm: ^10.12.1
     simple-git-hooks: ^2.13.0
     typescript: ^5.8.3
 
