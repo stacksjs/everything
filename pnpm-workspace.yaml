@@ -35,7 +35,7 @@ catalogs:
     '@stacksjs/dns': ^0.70.23
     '@stacksjs/dnsx': ^0.2.2
     '@stacksjs/docs': ^0.70.23
-    '@stacksjs/dtsx': ^0.9.4
+    '@stacksjs/dtsx': ^0.9.5
     '@stacksjs/email': ^0.70.23
     '@stacksjs/enums': ^0.70.23
     '@stacksjs/env': ^0.70.23
@@ -95,8 +95,8 @@ catalogs:
     ts-spreadsheets: ^0.2.0
 
   unrelated:
-    '@types/node': ^22.15.30
-    eslint: ^9.28.0
+    '@types/node': ^22.15.31
+    eslint: ^9.29.0
     lint-staged: ^16.0.0
     netlify-plugin-cache: ^1.0.3
     node-modules-inspector: ^0.6.9
