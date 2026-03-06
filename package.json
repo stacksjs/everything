@@ -17,9 +17,12 @@
   "scripts": {
     "dev": "node-modules-inspector",
     "build": "node-modules-inspector build",
-    "lint": "eslint .",
+    "lint": "bunx --bun pickier .",
     "release": "bumpp && pnpm publish",
-    "prepare": "simple-git-hooks"
+    "lint:fix": "bunx --bun pickier . --fix",
+    "format": "bunx --bun pickier . --format",
+    "format:fix": "bunx --bun pickier . --format --write",
+    "postinstall": "bunx git-hooks"
   },
   "dependencies": {
     "@stacksjs/actions": "catalog:core",
@@ -53,7 +56,6 @@
     "@stacksjs/enums": "catalog:core",
     "@stacksjs/env": "catalog:core",
     "@stacksjs/error-handling": "catalog:core",
-    "@stacksjs/eslint-config": "catalog:eslint",
     "@stacksjs/events": "catalog:core",
     "@stacksjs/faker": "catalog:core",
     "@stacksjs/git": "catalog:core",
@@ -114,18 +116,18 @@
   },
   "devDependencies": {
     "@types/node": "catalog:unrelated",
-    "eslint": "catalog:unrelated",
-    "lint-staged": "catalog:unrelated",
     "netlify-plugin-cache": "catalog:unrelated",
     "node-modules-inspector": "catalog:unrelated",
     "pnpm": "catalog:unrelated",
-    "simple-git-hooks": "catalog:unrelated",
-    "typescript": "catalog:unrelated"
+    "typescript": "catalog:unrelated",
+    "bun-git-hooks": "^0.3.1"
   },
-  "simple-git-hooks": {
-    "pre-commit": "pnpm lint-staged"
-  },
-  "lint-staged": {
-    "*": "eslint --fix"
+  "git-hooks": {
+    "pre-commit": {
+      "staged-lint": {
+        "*.{js,ts,json,yaml,yml,md}": "bunx --bun pickier lint --fix"
+      }
+    },
+    "commit-msg": "bunx gitlint --edit .git/COMMIT_EDITMSG"
   }
 }
