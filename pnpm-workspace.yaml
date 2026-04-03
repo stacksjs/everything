@@ -95,7 +95,7 @@ catalogs:
     ts-spreadsheets: ^0.2.0
 
   unrelated:
-    '@types/node': ^22.15.30
+    '@types/node': ^24.12.2
     eslint: ^9.28.0
     lint-staged: ^16.0.0
     netlify-plugin-cache: ^1.0.3
