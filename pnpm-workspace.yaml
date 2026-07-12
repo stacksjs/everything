@@ -100,7 +100,7 @@ catalogs:
     lint-staged: ^16.0.0
     netlify-plugin-cache: ^1.0.3
     node-modules-inspector: ^0.6.9
-    pnpm: ^10.12.1
+    pnpm: ^11.0.0
     simple-git-hooks: ^2.13.0
     typescript: ^5.8.3
 
