@@ -1,117 +1,207 @@
 packages: []
 
+# Every actively-maintained, publicly-published package created by the Stacks
+# team, grouped into catalogs. The catalog names double as the cluster labels in
+# node-modules-inspector (defaultSettings.dependenciesGroupBy: 'catalog').
+#
+# Only packages that resolve to a Stacks-owned name on the public npm registry
+# are listed here — private/unpublished libs (most zig-*, the audio/video/maps
+# sub-scopes, nps-fonts, template repos) and third-party look-alikes squatting a
+# short name are intentionally excluded so the graph stays 100% "ours".
 catalogs:
-  bun:
-    bun-git-hooks: ^0.2.16
-    bun-plugin-auto-imports: ^0.3.1
-    bun-plugin-dotenvx: ^0.6.3
-    bun-plugin-dtsx: ^0.21.12
-    bun-plugin-unocss: ^0.1.3
-
-  core:
-    '@stacksjs/actions': ^0.70.23
-    '@stacksjs/ai': ^0.70.23
-    '@stacksjs/alias': ^0.70.23
-    '@stacksjs/analytics': ^0.70.23
-    '@stacksjs/api': ^0.70.23
-    '@stacksjs/arrays': ^0.70.23
-    '@stacksjs/audiox': ^0.1.1
-    '@stacksjs/auth': ^0.70.23
-    '@stacksjs/browser': ^0.70.23
-    '@stacksjs/buddy': ^0.70.23
-    '@stacksjs/build': ^0.70.23
-    '@stacksjs/cache': ^0.70.23
-    '@stacksjs/calendar-api': ^0.70.23
-    '@stacksjs/chat': ^0.70.23
-    '@stacksjs/clarity': ^0.3.15
-    '@stacksjs/cli': ^0.70.23
-    '@stacksjs/cloud': ^0.70.23
-    '@stacksjs/collections': ^0.70.23
-    '@stacksjs/config': ^0.70.23
-    '@stacksjs/database': ^0.70.23
-    '@stacksjs/datetime': ^0.70.23
-    '@stacksjs/desktop': ^0.70.16
+  # ── Stacks framework — the @stacksjs/* monorepo (storage/framework/core) ──
+  framework:
+    '@stacksjs/actions': ^0.70.78
+    '@stacksjs/ai': ^0.70.78
+    '@stacksjs/alias': ^0.70.78
+    '@stacksjs/analytics': ^0.70.78
+    '@stacksjs/api': ^0.70.78
+    '@stacksjs/arrays': ^0.70.78
+    '@stacksjs/auth': ^0.70.78
+    '@stacksjs/browser': ^0.70.78
+    '@stacksjs/browser-extension': ^0.70.78
+    '@stacksjs/buddy': ^0.70.78
+    '@stacksjs/build': ^0.70.78
+    '@stacksjs/cache': ^0.70.78
+    '@stacksjs/calendar-api': ^0.70.78
+    '@stacksjs/charts': ^0.70.78
+    '@stacksjs/chat': ^0.70.78
+    '@stacksjs/cli': ^0.70.78
+    '@stacksjs/cloud': ^0.70.78
+    '@stacksjs/cms': ^0.70.78
+    '@stacksjs/collections': ^0.70.78
+    '@stacksjs/commerce': ^0.70.78
+    '@stacksjs/composables': ^0.70.78
+    '@stacksjs/config': ^0.70.78
+    '@stacksjs/cron': ^0.70.78
+    '@stacksjs/database': ^0.70.78
+    '@stacksjs/datetime': ^0.70.78
+    '@stacksjs/defaults': ^0.70.78
     '@stacksjs/development': ^0.70.23
-    '@stacksjs/dns': ^0.70.23
-    '@stacksjs/dnsx': ^0.2.2
-    '@stacksjs/docs': ^0.70.23
-    '@stacksjs/dtsx': ^0.9.4
-    '@stacksjs/email': ^0.70.23
-    '@stacksjs/enums': ^0.70.23
-    '@stacksjs/env': ^0.70.23
-    '@stacksjs/error-handling': ^0.70.23
-    '@stacksjs/events': ^0.70.23
-    '@stacksjs/faker': ^0.70.23
-    '@stacksjs/git': ^0.70.16
-    '@stacksjs/health': ^0.70.23
-    '@stacksjs/http': ^0.70.23
-    '@stacksjs/httx': ^0.1.5
-    '@stacksjs/lint': ^0.70.23
-    '@stacksjs/logging': ^0.70.23
-    '@stacksjs/notifications': ^0.70.23
-    '@stacksjs/objects': ^0.70.23
-    '@stacksjs/orm': ^0.70.23
-    '@stacksjs/path': ^0.70.23
-    '@stacksjs/payments': ^0.70.23
-    '@stacksjs/push': ^0.70.23
-    '@stacksjs/qrx': ^0.1.0
-    '@stacksjs/query-builder': ^0.70.23
-    '@stacksjs/queue': ^0.70.23
-    '@stacksjs/realtime': ^0.70.23
-    '@stacksjs/registry': ^0.70.23
-    '@stacksjs/repl': ^0.70.23
-    '@stacksjs/router': ^0.70.23
-    '@stacksjs/rpx': ^0.10.0
-    '@stacksjs/scheduler': ^0.70.23
-    '@stacksjs/search-engine': ^0.70.23
-    '@stacksjs/security': ^0.70.23
-    '@stacksjs/server': ^0.70.23
-    '@stacksjs/shell': ^0.70.23
-    '@stacksjs/slug': ^0.70.23
-    '@stacksjs/sms': ^0.70.23
-    '@stacksjs/storage': ^0.70.23
-    '@stacksjs/strings': ^0.70.23
-    '@stacksjs/testing': ^0.70.23
-    '@stacksjs/tinker': ^0.70.23
-    '@stacksjs/tlsx': ^0.10.0
-    '@stacksjs/tunnel': ^0.70.23
-    '@stacksjs/types': ^0.70.23
-    '@stacksjs/ui': ^0.70.23
-    '@stacksjs/utils': ^0.70.23
-    '@stacksjs/validation': ^0.70.23
-    '@stacksjs/whois': ^0.70.23
+    '@stacksjs/dns': ^0.70.78
+    '@stacksjs/docs': ^0.70.78
+    '@stacksjs/email': ^0.70.78
+    '@stacksjs/enums': ^0.70.78
+    '@stacksjs/env': ^0.70.78
+    '@stacksjs/error-handling': ^0.70.78
+    '@stacksjs/events': ^0.70.78
+    '@stacksjs/faker': ^0.70.78
+    '@stacksjs/git': ^0.70.78
+    '@stacksjs/github': ^0.70.78
+    '@stacksjs/health': ^0.70.78
+    '@stacksjs/http': ^0.70.78
+    '@stacksjs/lint': ^0.70.78
+    '@stacksjs/logging': ^0.70.78
+    '@stacksjs/newsletter': ^0.70.78
+    '@stacksjs/notifications': ^0.70.78
+    '@stacksjs/objects': ^0.70.78
+    '@stacksjs/orm': ^0.70.78
+    '@stacksjs/path': ^0.70.78
+    '@stacksjs/payments': ^0.70.78
+    '@stacksjs/push': ^0.70.78
+    '@stacksjs/query-builder': ^0.70.78
+    '@stacksjs/queue': ^0.70.78
+    '@stacksjs/realtime': ^0.70.78
+    '@stacksjs/registry': ^0.70.78
+    '@stacksjs/repl': ^0.70.78
+    '@stacksjs/router': ^0.70.78
+    '@stacksjs/scheduler': ^0.70.78
+    '@stacksjs/search-engine': ^0.70.78
+    '@stacksjs/security': ^0.70.78
+    '@stacksjs/server': ^0.70.78
+    '@stacksjs/shell': ^0.70.78
+    '@stacksjs/skills': ^0.70.78
+    '@stacksjs/slug': ^0.70.78
+    '@stacksjs/sms': ^0.70.78
+    '@stacksjs/socials': ^0.70.78
+    '@stacksjs/storage': ^0.70.78
+    '@stacksjs/strings': ^0.70.78
+    '@stacksjs/testing': ^0.70.78
+    '@stacksjs/tinker': ^0.70.78
+    '@stacksjs/tunnel': ^0.70.78
+    '@stacksjs/types': ^0.70.78
+    '@stacksjs/ui': ^0.70.78
+    '@stacksjs/utils': ^0.70.78
+    '@stacksjs/validation': ^0.70.78
+    '@stacksjs/whois': ^0.70.78
     '@stacksjs/x-ray': ^0.70.23
 
-  eslint:
-    '@stacksjs/eslint-config': ^4.10.2-beta.3
-
-  libs:
+  # ── Standalone libraries (each its own repo, published to npm) ──
+  libraries:
+    '@stacksjs/aax': ^0.4.1
+    '@stacksjs/audiox': ^0.1.1
+    '@stacksjs/clarity': ^0.3.28
+    '@stacksjs/desktop': ^0.2.89
+    '@stacksjs/dnsx': ^0.2.3
+    '@stacksjs/dtsx': ^0.10.6
+    '@stacksjs/httx': ^0.1.10
+    '@stacksjs/qrx': ^0.1.0
+    '@stacksjs/rpx': ^0.11.27
+    '@stacksjs/tlsx': ^0.13.9
+    '@stacksjs/ts-auth': ^0.4.3
+    '@stacksjs/ts-avif': ^0.1.2
+    '@stacksjs/ts-bmp': ^0.1.0
+    '@stacksjs/ts-cache': ^0.1.4
+    '@stacksjs/ts-cloud': ^0.7.17
+    '@stacksjs/ts-css': ^0.1.0
+    '@stacksjs/ts-datetime': ^0.1.2
+    '@stacksjs/ts-faker': ^0.1.8
+    '@stacksjs/ts-md': ^0.1.1
+    '@stacksjs/ts-png': ^0.1.2
+    '@stacksjs/ts-svg': ^0.1.1
+    '@stacksjs/ts-validation': ^0.5.0
+    '@stacksjs/ts-webp': ^0.1.1
+    '@stacksjs/ts-xml': ^0.1.0
+    '@stacksjs/bun-router': ^0.0.17
+    '@stacksjs/bun-queue': ^0.1.1
+    '@ts-cloud/core': ^0.7.17
+    '@ts-cloud/aws-types': ^0.7.17
+    '@ts-analytics/tracking': ^0.1.7
+    '@cwcss/crosswind': ^0.2.9
     jpgx: ^0.2.0
-    localtunnels: ^0.1.1
     pngx: ^0.1.1
+    localtunnels: ^0.2.7
     ts-collect: ^0.4.0
     ts-gif: ^0.1.2
     ts-ndarray: ^0.1.0
     ts-spreadsheets: ^0.2.0
+    ts-clone: ^0.1.1
+    ts-countries: ^0.1.2
+    ts-error-handling: ^0.1.1
+    ts-images: ^0.1.9
+    ts-inputs: ^0.1.7
+    ts-jpeg: ^0.3.1
+    ts-maps: ^0.2.7
+    ts-maps-nuxt: ^0.2.7
+    ts-medium-editor: ^0.1.0
+    ts-numbers: ^0.1.0
+    ts-printers: ^0.1.0
+    ts-rate-limiter: ^0.4.2
+    ts-security: ^0.0.2
+    ts-slug: ^0.1.0
+    ts-syntax-highlighter: ^0.2.1
+    ts-vat: ^0.1.1
+    ts-web-scraper: ^0.1.1
+    ts-broadcasting: ^0.0.5
 
-  unrelated:
-    '@types/node': ^22.15.30
-    eslint: ^9.28.0
-    lint-staged: ^16.0.0
-    netlify-plugin-cache: ^1.0.3
-    node-modules-inspector: ^0.6.9
-    pnpm: ^10.12.1
-    simple-git-hooks: ^2.13.0
-    typescript: ^5.8.3
+  # ── CLIs & developer tooling ──
+  tools:
+    '@stacksjs/bumpx': ^0.2.6
+    '@stacksjs/bunpress': ^0.1.12
+    '@stacksjs/clapp': ^0.2.10
+    '@stacksjs/gitit': ^0.2.5
+    '@stacksjs/gitlint': ^0.1.6
+    '@stacksjs/logsmith': ^0.2.3
+    '@stacksjs/ts-spell-check': ^0.1.0
+    '@stacksjs/ts-spell-check-cli': ^0.1.0
+    '@stacksjs/ts-spell-check-pickier': ^0.1.0
+    action-releaser: ^1.2.9
+    besting: ^0.0.9
+    better-dx: ^0.2.17
+    buddy-bot: ^0.9.20
+    bun-query-builder: ^0.1.47
+    bunfig: ^0.15.14
+    pickier: ^0.1.38
+    very-happy-dom: ^0.1.4
 
+  # ── Bun plugins & hooks ──
+  bun:
+    bun-git-hooks: ^0.3.2
+    bun-plugin-auto-imports: ^0.4.1
+    bun-plugin-bunpress: ^0.1.12
+    bun-plugin-dotenvx: ^0.6.4
+    bun-plugin-dtsx: ^0.10.6
+    bun-plugin-unocss: ^0.1.3
+
+  # ── stx templating ecosystem ──
+  stx:
+    '@stacksjs/stx': ^0.2.89
+    '@stacksjs/sanitizer': ^0.2.89
+    '@stacksjs/components': ^0.2.89
+    '@stacksjs/iconify-core': ^0.2.89
+    '@stacksjs/iconify-generator': ^0.2.89
+    bun-plugin-stx: ^0.2.89
+    create-stx: ^0.2.89
+    stx-router: ^0.2.89
+
+  # ── Vite integration ──
   vite:
     '@stacksjs/vite-config': ^0.70.23
     '@stacksjs/vite-plugin': ^0.70.23
     vite-plugin-dotenvx: ^0.1.1
     vite-plugin-local: ^0.5.0
 
+  # ── This project's own build / deploy tooling ──
+  dev:
+    '@types/node': ^22.15.30
+    netlify-plugin-cache: ^1.0.3
+    node-modules-inspector: ^2.1.3
+    pnpm: ^10.12.1
+    typescript: ^5.8.3
+
 onlyBuiltDependencies:
   - '@parcel/watcher'
   - esbuild
   - sharp
   - simple-git-hooks
+  - bun-git-hooks
