@@ -1,15 +1,6 @@
 packages: []
 
-# Every actively-maintained, publicly-published package created by the Stacks
-# team, grouped into catalogs. The catalog names double as the cluster labels in
-# node-modules-inspector (defaultSettings.dependenciesGroupBy: 'catalog').
-#
-# Only packages that resolve to a Stacks-owned name on the public npm registry
-# are listed here — private/unpublished libs (most zig-*, the audio/video/maps
-# sub-scopes, nps-fonts, template repos) and third-party look-alikes squatting a
-# short name are intentionally excluded so the graph stays 100% "ours".
 catalogs:
-  # ── Stacks framework — the @stacksjs/* monorepo (storage/framework/core) ──
   framework:
     '@stacksjs/actions': ^0.70.80
     '@stacksjs/ai': ^0.70.80
@@ -85,8 +76,6 @@ catalogs:
     '@stacksjs/validation': ^0.70.80
     '@stacksjs/whois': ^0.70.80
     '@stacksjs/x-ray': ^0.70.23
-
-  # ── Standalone libraries (each its own repo, published to npm) ──
   libraries:
     '@stacksjs/aax': ^0.4.1
     '@stacksjs/audiox': ^0.1.1
@@ -96,26 +85,26 @@ catalogs:
     '@stacksjs/dtsx': ^0.10.6
     '@stacksjs/httx': ^0.1.10
     '@stacksjs/qrx': ^0.1.0
-    '@stacksjs/rpx': ^0.11.27
+    '@stacksjs/rpx': ^0.11.28
     '@stacksjs/tlsx': ^0.13.9
     '@stacksjs/ts-auth': ^0.4.3
     '@stacksjs/ts-avif': ^0.1.2
     '@stacksjs/ts-bmp': ^0.1.0
     '@stacksjs/ts-cache': ^0.1.4
-    '@stacksjs/ts-cloud': ^0.7.17
+    '@stacksjs/ts-cloud': ^0.7.18
     '@stacksjs/ts-css': ^0.1.0
     '@stacksjs/ts-datetime': ^0.1.2
     '@stacksjs/ts-faker': ^0.1.8
     '@stacksjs/ts-md': ^0.1.1
     '@stacksjs/ts-png': ^0.1.2
     '@stacksjs/ts-svg': ^0.1.1
-    '@stacksjs/ts-validation': ^0.5.1
+    '@stacksjs/ts-validation': ^0.5.2
     '@stacksjs/ts-webp': ^0.1.1
     '@stacksjs/ts-xml': ^0.1.0
     '@stacksjs/bun-router': ^0.0.17
     '@stacksjs/bun-queue': ^0.1.1
-    '@ts-cloud/core': ^0.7.17
-    '@ts-cloud/aws-types': ^0.7.17
+    '@ts-cloud/core': ^0.7.18
+    '@ts-cloud/aws-types': ^0.7.18
     '@ts-analytics/tracking': ^0.1.7
     '@cwcss/crosswind': ^0.2.9
     jpgx: ^0.2.0
@@ -143,8 +132,6 @@ catalogs:
     ts-vat: ^0.1.1
     ts-web-scraper: ^0.1.1
     ts-broadcasting: ^0.0.5
-
-  # ── CLIs & developer tooling ──
   tools:
     '@stacksjs/bumpx': ^0.2.6
     '@stacksjs/bunpress': ^0.1.12
@@ -163,8 +150,6 @@ catalogs:
     bunfig: ^0.15.14
     pickier: ^0.1.38
     very-happy-dom: ^0.1.4
-
-  # ── Bun plugins & hooks ──
   bun:
     bun-git-hooks: ^0.3.2
     bun-plugin-auto-imports: ^0.4.1
@@ -172,8 +157,6 @@ catalogs:
     bun-plugin-dotenvx: ^0.6.4
     bun-plugin-dtsx: ^0.10.6
     bun-plugin-unocss: ^0.1.3
-
-  # ── stx templating ecosystem ──
   stx:
     '@stacksjs/stx': ^0.2.90
     '@stacksjs/sanitizer': ^0.2.90
@@ -183,14 +166,12 @@ catalogs:
     bun-plugin-stx: ^0.2.90
     create-stx: ^0.2.90
     stx-router: ^0.2.90
-
-  # ── This project's own build / deploy tooling ──
   dev:
-    '@types/node': ^22.15.30
+    '@types/node': ^22.20.1
     netlify-plugin-cache: ^1.0.3
     node-modules-inspector: ^2.1.3
-    pnpm: ^10.12.1
-    typescript: ^5.8.3
+    pnpm: ^10.34.5
+    typescript: ^5.9.3
 
 onlyBuiltDependencies:
   - '@parcel/watcher'

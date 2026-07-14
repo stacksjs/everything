@@ -26,7 +26,7 @@ catalogs:
       version: 0.1.3
   dev:
     '@types/node':
-      specifier: ^22.15.30
+      specifier: ^22.20.1
       version: 22.20.1
     netlify-plugin-cache:
       specifier: ^1.0.3
@@ -35,10 +35,10 @@ catalogs:
       specifier: ^2.1.3
       version: 2.1.3
     pnpm:
-      specifier: ^10.12.1
+      specifier: ^10.34.5
       version: 10.34.5
     typescript:
-      specifier: ^5.8.3
+      specifier: ^5.9.3
       version: 5.9.3
   framework:
     '@stacksjs/actions':
@@ -298,8 +298,8 @@ catalogs:
       specifier: ^0.1.0
       version: 0.1.0
     '@stacksjs/rpx':
-      specifier: ^0.11.27
-      version: 0.11.27
+      specifier: ^0.11.28
+      version: 0.11.28
     '@stacksjs/tlsx':
       specifier: ^0.13.9
       version: 0.13.9
@@ -316,8 +316,8 @@ catalogs:
       specifier: ^0.1.4
       version: 0.1.4
     '@stacksjs/ts-cloud':
-      specifier: ^0.7.17
-      version: 0.7.17
+      specifier: ^0.7.18
+      version: 0.7.18
     '@stacksjs/ts-css':
       specifier: ^0.1.0
       version: 0.1.0
@@ -337,7 +337,7 @@ catalogs:
       specifier: ^0.1.1
       version: 0.1.1
     '@stacksjs/ts-validation':
-      specifier: ^0.5.1
+      specifier: ^0.5.2
       version: 0.5.2
     '@stacksjs/ts-webp':
       specifier: ^0.1.1
@@ -349,11 +349,11 @@ catalogs:
       specifier: ^0.1.7
       version: 0.1.7
     '@ts-cloud/aws-types':
-      specifier: ^0.7.17
-      version: 0.7.17
+      specifier: ^0.7.18
+      version: 0.7.18
     '@ts-cloud/core':
-      specifier: ^0.7.17
-      version: 0.7.17
+      specifier: ^0.7.18
+      version: 0.7.18
     jpgx:
       specifier: ^0.2.0
       version: 0.2.0
@@ -735,7 +735,7 @@ importers:
         version: 0.70.80
       '@stacksjs/rpx':
         specifier: catalog:libraries
-        version: 0.11.27
+        version: 0.11.28
       '@stacksjs/sanitizer':
         specifier: catalog:stx
         version: 0.2.90
@@ -798,7 +798,7 @@ importers:
         version: 0.1.4
       '@stacksjs/ts-cloud':
         specifier: catalog:libraries
-        version: 0.7.17
+        version: 0.7.18
       '@stacksjs/ts-css':
         specifier: catalog:libraries
         version: 0.1.0
@@ -861,10 +861,10 @@ importers:
         version: 0.1.7
       '@ts-cloud/aws-types':
         specifier: catalog:libraries
-        version: 0.7.17
+        version: 0.7.18
       '@ts-cloud/core':
         specifier: catalog:libraries
-        version: 0.7.17
+        version: 0.7.18
       action-releaser:
         specifier: catalog:tools
         version: 1.2.9
@@ -1529,8 +1529,8 @@ packages:
     resolution: {integrity: sha512-UKaNvSUxe6SzQqxKPtUV2xXwszLtSnZ2EVP8R1v16ou6Yl/eGT9xzuCSsVa38urIWo69B5TfZob9UV2B6ThptQ==}
     hasBin: true
 
-  '@stacksjs/rpx@0.11.27':
-    resolution: {integrity: sha512-oqhYRRmwzFQubpqGvunYnUNJl3hou0EHTu5wlAU8RzGmcM+4jwivGVHknu9tIA7Ero0SAoXCVzMmRrpVFr2EqQ==}
+  '@stacksjs/rpx@0.11.28':
+    resolution: {integrity: sha512-ZruwNlsZ6uspV/d1RJrvbiv+W0XDCMdWkr/AqeRuWPJ/yvPCvk8EvRdcNzP1+GWXXLgOwWVfgx+j1uN8BdR/qg==}
     hasBin: true
 
   '@stacksjs/sanitizer@0.2.90':
@@ -1612,8 +1612,8 @@ packages:
     resolution: {integrity: sha512-81+ORovneY4muI4CoM4bTrq3LORqvzbwVVEo5ifRzNglhc5SQSZWA3/S/nDnMZt7VNhFy0mn8VkqrSyZ9Emwcg==}
     hasBin: true
 
-  '@stacksjs/ts-cloud@0.7.17':
-    resolution: {integrity: sha512-+GXgEH8eERbwGvg5CNTinh0oqRHM9A07+3avXStE7ZqWCkzLwkdQ0zHvnizPGEl4nA8f6oPo5rhdDRXrbBitiQ==}
+  '@stacksjs/ts-cloud@0.7.18':
+    resolution: {integrity: sha512-u5ngAS7W3nR0yo9bzeUbPGnRYpZXIPu+8jZkaTV3EBDDfdHWmKUR9wC+OdqCNH28qrFeL3s/i1sSqa/Rf8jpQA==}
     hasBin: true
 
   '@stacksjs/ts-css@0.1.0':
@@ -1691,8 +1691,8 @@ packages:
   '@stacksjs/x-ray@0.70.23':
     resolution: {integrity: sha512-WvhHBA69IByjYWQwHwHCy3bixSmRQJfQV1kofDRdRiICpgtFgvoNYnuI8h8j0EjOjMg6DmWFp8WQ1Cu5k7ySKg==}
 
-  '@stripe/stripe-js@9.9.0':
-    resolution: {integrity: sha512-Vwqe6Q5cU4i82tPyAv2BpaW/fQSNdOSO4/J8EeDLPp5/oIZiMmdB+Hgh863zFH+rtoxpuWGvD1L7QPh8k1Rdvw==}
+  '@stripe/stripe-js@9.10.0':
+    resolution: {integrity: sha512-rxkKgWLAWtjvJhqEynPJ5zPXoKx5cK4eIUunnMGxwUJDRHKv3MlpA1mCCXdeiXzui5YZNWJKUJBTpe7m30jhOA==}
     engines: {node: '>=12.16'}
 
   '@ts-analytics/tracking@0.1.7':
@@ -1740,14 +1740,14 @@ packages:
   '@ts-cloud/aws-types@0.2.27':
     resolution: {integrity: sha512-9SStgWrllUtIA9xedrMjq0AlzAXt5xjdcVl9Q4xX9UVTp3tFIvYbaoxpCq2WmoaNqYVXTQDdArsbQvkLdpJmiw==}
 
-  '@ts-cloud/aws-types@0.7.17':
-    resolution: {integrity: sha512-9hd1JqIZc+EQTC55qGrNyRGuhNyOOU4pheDo0YXcV5SEhxce4TQCMFssE2udsAoDcUrO8twtUT4gUDJVTyLqKw==}
+  '@ts-cloud/aws-types@0.7.18':
+    resolution: {integrity: sha512-npyiCQwWt+ltMKh/EPEwE4FPT7yshXsx+jxCFoYFAijmT2wYYQuocqdSi4OAPWay/IEhGoRJMn03FqcN3coMBg==}
 
   '@ts-cloud/core@0.2.27':
     resolution: {integrity: sha512-ePte26pVqgo/v5cAfinM9eEApENNr0x0uICnqjXeShDGCli1Fyh0MMxuMD60alIP7d/1qLyTESlUTrfhD9uKPQ==}
 
-  '@ts-cloud/core@0.7.17':
-    resolution: {integrity: sha512-yUwHtLFNTqEGxrKJMeypjQe3WTBi9WNWbst8NVBbhOz0BgR9C6oeSQ0dbvd5Hz1CsaTfXTRSSBuN7JfSX62wsQ==}
+  '@ts-cloud/core@0.7.18':
+    resolution: {integrity: sha512-vAf4kyMmDAoDbQf5QDcf6kFR/THpK3IjXG/xIYGq407ldTZ3M1GtBaeI43Hq5VPhGnqFqCbw2ZZJ9i+X2hYVdA==}
 
   '@tybys/wasm-util@0.10.3':
     resolution: {integrity: sha512-F3fo1MYrRJYL3zER0OUOmkutjr1Vp23m7OsSgp7nq4SP6OqX6C/56XFIPAl5bt3zaBRjmW7SGz3u/6LwFpYcOg==}
@@ -2207,8 +2207,9 @@ packages:
     resolution: {integrity: sha512-nI4U3TottKAcAD9LLud4Cb7b2QztQMUEfHbvhTH09bqXTxnSie8WnjPALV/WMCrJZ6UV/qHJ6L03OqO3LcdYZw==}
     engines: {node: '>=12'}
 
-  dynamodb-tooling@0.3.2:
-    resolution: {integrity: sha512-qjd0cOwoWJ2Ym+XrIOObHvADqxd72Og1HemfIs1Iw6dJ4rY7gcNpTfAOlRTlrUpYF52BB3mrIRAbl1VQrJPexw==}
+  dynamodb-tooling@0.3.4:
+    resolution: {integrity: sha512-mm4Ik21rmoW4WK7GP5IiBF9sW92iJVOaj6+j+P+ggxdQx9+wT341XqUC3c+D6GOLj8l78zo0l8i5vLu0ybNMZg==}
+    hasBin: true
 
   eastasianwidth@0.2.0:
     resolution: {integrity: sha512-I88TYZWc9XiYHRQ4/3c5rjjfgkjhLyW2luGIheGERbNQ6OY7yTybanSpDXZa8y7VUP9YmDcYa+eyq4ca7iLqWA==}
@@ -3057,8 +3058,8 @@ packages:
     resolution: {integrity: sha512-si7QWI6zUMq56bESFvagtmzMdGOtoxfR+Sez11Mobfc7tm+VkUckk9bW2UeffTGVUbOksxmSw0AA2gs8g71NCQ==}
     engines: {node: '>=12'}
 
-  ws@8.21.0:
-    resolution: {integrity: sha512-Vsp28b7DRcimFQvrqu2Wek3z1iYxDCWqHYB8Qsnk/S4RfaCQzPGPyBNuVjJV3cd6UiKtUtp6sNM77gWvzcCH+g==}
+  ws@8.21.1:
+    resolution: {integrity: sha512-+0NTnW77fFN/DjQi6k/Sq/Yvk4Sgajw7urW8V+asjXnRgDs9gyGkdb7EzgfhA4goXsRIZKE28fzIXBHEzhuiWw==}
     engines: {node: '>=10.0.0'}
     peerDependencies:
       bufferutil: ^4.0.1
@@ -3367,7 +3368,7 @@ snapshots:
       '@stacksjs/bumpx': 0.2.6
       '@stacksjs/bunpress': 0.1.12
       '@stacksjs/logsmith': 0.2.3
-      '@stacksjs/ts-cloud': 0.7.17
+      '@stacksjs/ts-cloud': 0.7.18
       '@stacksjs/ts-md': 0.1.1
     optionalDependencies:
       pickier: 0.1.38
@@ -3381,7 +3382,7 @@ snapshots:
 
   '@stacksjs/ai@0.70.80':
     dependencies:
-      '@stacksjs/ts-cloud': 0.7.17
+      '@stacksjs/ts-cloud': 0.7.18
 
   '@stacksjs/alias@0.70.22': {}
 
@@ -3405,7 +3406,7 @@ snapshots:
     dependencies:
       '@stacksjs/composables': 0.70.80
       '@stacksjs/stx': 0.2.90
-      '@stripe/stripe-js': 9.9.0
+      '@stripe/stripe-js': 9.10.0
       bun-query-builder: 0.1.47
       magic-regexp: 0.11.0
     transitivePeerDependencies:
@@ -3459,14 +3460,14 @@ snapshots:
       '@stacksjs/payments': 0.70.80
       '@stacksjs/realtime': 0.70.80
       '@stacksjs/router': 0.70.80
-      '@stacksjs/rpx': 0.11.27
+      '@stacksjs/rpx': 0.11.28
       '@stacksjs/search-engine': 0.70.80
       '@stacksjs/security': 0.70.80
       '@stacksjs/server': 0.70.80
       '@stacksjs/storage': 0.70.80
       '@stacksjs/strings': 0.70.80
       '@stacksjs/testing': 0.70.80
-      '@stacksjs/ts-cloud': 0.7.17
+      '@stacksjs/ts-cloud': 0.7.18
       '@stacksjs/tunnel': 0.70.80
       '@stacksjs/types': 0.70.80
       '@stacksjs/ui': 0.70.80
@@ -3517,7 +3518,7 @@ snapshots:
   '@stacksjs/bunpress@0.1.12':
     dependencies:
       '@stacksjs/stx': 0.2.90
-      '@stacksjs/ts-cloud': 0.7.17
+      '@stacksjs/ts-cloud': 0.7.18
       '@stacksjs/ts-md': 0.1.1
       bunfig: 0.15.14
     transitivePeerDependencies:
@@ -3552,7 +3553,7 @@ snapshots:
 
   '@stacksjs/cloud@0.70.80':
     dependencies:
-      '@stacksjs/ts-cloud': 0.7.17
+      '@stacksjs/ts-cloud': 0.7.18
       '@stacksjs/ts-xml': 0.1.0
 
   '@stacksjs/cms@0.70.80':
@@ -3627,7 +3628,7 @@ snapshots:
   '@stacksjs/dns@0.70.80':
     dependencies:
       '@stacksjs/dnsx': 0.2.3
-      '@stacksjs/ts-cloud': 0.7.17
+      '@stacksjs/ts-cloud': 0.7.18
 
   '@stacksjs/dnsx@0.2.3': {}
 
@@ -3652,7 +3653,7 @@ snapshots:
 
   '@stacksjs/email@0.70.80':
     dependencies:
-      '@stacksjs/ts-cloud': 0.7.17
+      '@stacksjs/ts-cloud': 0.7.18
 
   '@stacksjs/enums@0.70.80': {}
 
@@ -3754,7 +3755,7 @@ snapshots:
 
   '@stacksjs/rpx@0.10.0': {}
 
-  '@stacksjs/rpx@0.11.27':
+  '@stacksjs/rpx@0.11.28':
     dependencies:
       '@stacksjs/clapp': 0.2.10
       '@stacksjs/tlsx': 0.13.9
@@ -3790,7 +3791,7 @@ snapshots:
 
   '@stacksjs/storage@0.70.80':
     dependencies:
-      '@stacksjs/ts-cloud': 0.7.17
+      '@stacksjs/ts-cloud': 0.7.18
 
   '@stacksjs/strings@0.70.80': {}
 
@@ -3821,7 +3822,7 @@ snapshots:
 
   '@stacksjs/testing@0.70.80':
     dependencies:
-      '@stacksjs/ts-cloud': 0.7.17
+      '@stacksjs/ts-cloud': 0.7.18
 
   '@stacksjs/tinker@0.70.22': {}
 
@@ -3852,11 +3853,11 @@ snapshots:
       '@ts-cloud/aws-types': 0.2.27
       '@ts-cloud/core': 0.2.27
 
-  '@stacksjs/ts-cloud@0.7.17':
+  '@stacksjs/ts-cloud@0.7.18':
     dependencies:
       '@stacksjs/ts-xml': 0.1.0
-      '@ts-cloud/aws-types': 0.7.17
-      '@ts-cloud/core': 0.7.17
+      '@ts-cloud/aws-types': 0.7.18
+      '@ts-cloud/core': 0.7.18
 
   '@stacksjs/ts-css@0.1.0':
     dependencies:
@@ -3963,7 +3964,7 @@ snapshots:
 
   '@stacksjs/x-ray@0.70.23': {}
 
-  '@stripe/stripe-js@9.9.0': {}
+  '@stripe/stripe-js@9.10.0': {}
 
   '@ts-analytics/tracking@0.1.7':
     dependencies:
@@ -3973,7 +3974,7 @@ snapshots:
       '@stacksjs/stx': 0.2.90
       bun-plugin-stx: 0.2.90
       bun-query-builder: 0.1.47
-      dynamodb-tooling: 0.3.2
+      dynamodb-tooling: 0.3.4
       ts-countries: 0.1.3
     transitivePeerDependencies:
       - bare-abort-controller
@@ -4021,15 +4022,15 @@ snapshots:
 
   '@ts-cloud/aws-types@0.2.27': {}
 
-  '@ts-cloud/aws-types@0.7.17': {}
+  '@ts-cloud/aws-types@0.7.18': {}
 
   '@ts-cloud/core@0.2.27':
     dependencies:
       '@ts-cloud/aws-types': 0.2.27
 
-  '@ts-cloud/core@0.7.17':
+  '@ts-cloud/core@0.7.18':
     dependencies:
-      '@ts-cloud/aws-types': 0.7.17
+      '@ts-cloud/aws-types': 0.7.18
 
   '@tybys/wasm-util@0.10.3':
     dependencies:
@@ -4307,7 +4308,7 @@ snapshots:
       '@stacksjs/clapp': 0.2.10
       '@stacksjs/ts-faker': 0.1.8
       '@stacksjs/ts-validation': 0.5.2
-      dynamodb-tooling: 0.3.2
+      dynamodb-tooling: 0.3.4
 
   bun-types@1.3.14:
     dependencies:
@@ -4395,7 +4396,7 @@ snapshots:
   craft-native@0.0.37:
     dependencies:
       archiver: 7.0.1
-      ws: 8.21.0
+      ws: 8.21.1
     transitivePeerDependencies:
       - bare-abort-controller
       - bare-buffer
@@ -4453,7 +4454,7 @@ snapshots:
       nostics: 0.2.0
       pathe: 2.0.3
       valibot: 1.4.2(typescript@5.9.3)
-      ws: 8.21.0
+      ws: 8.21.1
     transitivePeerDependencies:
       - '@farmfe/core'
       - '@rspack/core'
@@ -4475,7 +4476,7 @@ snapshots:
 
   dotenv@17.4.2: {}
 
-  dynamodb-tooling@0.3.2: {}
+  dynamodb-tooling@0.3.4: {}
 
   eastasianwidth@0.2.0: {}
 
@@ -5303,7 +5304,7 @@ snapshots:
       string-width: 5.1.2
       strip-ansi: 7.2.0
 
-  ws@8.21.0: {}
+  ws@8.21.1: {}
 
   wsl-utils@0.3.1:
     dependencies:
