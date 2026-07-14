@@ -140,8 +140,6 @@
     "@stacksjs/ui": "catalog:framework",
     "@stacksjs/utils": "catalog:framework",
     "@stacksjs/validation": "catalog:framework",
-    "@stacksjs/vite-config": "catalog:vite",
-    "@stacksjs/vite-plugin": "catalog:vite",
     "@stacksjs/whois": "catalog:framework",
     "@stacksjs/x-ray": "catalog:framework",
     "@ts-analytics/tracking": "catalog:libraries",
@@ -188,9 +186,7 @@
     "ts-syntax-highlighter": "catalog:libraries",
     "ts-vat": "catalog:libraries",
     "ts-web-scraper": "catalog:libraries",
-    "very-happy-dom": "catalog:tools",
-    "vite-plugin-dotenvx": "catalog:vite",
-    "vite-plugin-local": "catalog:vite"
+    "very-happy-dom": "catalog:tools"
   },
   "devDependencies": {
     "@types/node": "catalog:dev",

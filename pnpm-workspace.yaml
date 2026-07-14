@@ -184,13 +184,6 @@ catalogs:
     create-stx: ^0.2.90
     stx-router: ^0.2.90
 
-  # ── Vite integration ──
-  vite:
-    '@stacksjs/vite-config': ^0.70.23
-    '@stacksjs/vite-plugin': ^0.70.23
-    vite-plugin-dotenvx: ^0.1.1
-    vite-plugin-local: ^0.5.0
-
   # ── This project's own build / deploy tooling ──
   dev:
     '@types/node': ^22.15.30

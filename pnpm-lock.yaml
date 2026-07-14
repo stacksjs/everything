@@ -506,19 +506,6 @@ catalogs:
     very-happy-dom:
       specifier: ^0.1.4
       version: 0.1.4
-  vite:
-    '@stacksjs/vite-config':
-      specifier: ^0.70.23
-      version: 0.70.23
-    '@stacksjs/vite-plugin':
-      specifier: ^0.70.23
-      version: 0.70.23
-    vite-plugin-dotenvx:
-      specifier: ^0.1.1
-      version: 0.1.1
-    vite-plugin-local:
-      specifier: ^0.5.0
-      version: 0.5.0
 
 importers:
 
@@ -863,12 +850,6 @@ importers:
       '@stacksjs/validation':
         specifier: catalog:framework
         version: 0.70.80
-      '@stacksjs/vite-config':
-        specifier: catalog:vite
-        version: 0.70.23
-      '@stacksjs/vite-plugin':
-        specifier: catalog:vite
-        version: 0.70.23
       '@stacksjs/whois':
         specifier: catalog:framework
         version: 0.70.80
@@ -1010,12 +991,6 @@ importers:
       very-happy-dom:
         specifier: catalog:tools
         version: 0.1.4
-      vite-plugin-dotenvx:
-        specifier: catalog:vite
-        version: 0.1.1
-      vite-plugin-local:
-        specifier: catalog:vite
-        version: 0.5.0
     devDependencies:
       '@types/node':
         specifier: catalog:dev
@@ -1709,12 +1684,6 @@ packages:
 
   '@stacksjs/validation@0.70.80':
     resolution: {integrity: sha512-1W+//wBRFGMQnczIxWf3b0J7pWvMb3WDKW7QIo6Jkzs7ZNsHQul27JHAx9PZ/3OaniQU31l4gtvnncpRT/43lQ==}
-
-  '@stacksjs/vite-config@0.70.23':
-    resolution: {integrity: sha512-KrbwitbODxCV/iqw7+/2P5W/BQoM/tYI8m9r8HAEzSVZY7NpfmNHF+9Gu86OUpg3XLlEeIi+4bHbVya/ZX9XbA==}
-
-  '@stacksjs/vite-plugin@0.70.23':
-    resolution: {integrity: sha512-92QLbu6erMdvIYzDbXItvN9pEhLNX3JzlCeSVQgDRdIeEkekSYN4TMm3CtJTvkAbOU+PPcpUwCvQuvU8OijJiA==}
 
   '@stacksjs/whois@0.70.80':
     resolution: {integrity: sha512-EyfuE/fq72XdaZcJcPBHwnBr6/MGnCu0wl7Ib3kvshn9tt4DrlUfmWE7pBM3uMgaD5h6yL65p0nOEt40qh/ZGQ==}
@@ -3067,12 +3036,6 @@ packages:
   very-happy-dom@0.1.4:
     resolution: {integrity: sha512-kYBZfDuEzrurOSIhFBEeMx2zCOdpyyv4j4mvvf7eGAhtma3aMh8ge4tEQhnw17bh9Xg4owmq/YJuQRnbLe57Xw==}
 
-  vite-plugin-dotenvx@0.1.1:
-    resolution: {integrity: sha512-RiKzHlsfxHm+jOIzTc9uYE37Naf+JDmj5yn9tYwZqv6S45QN/jqfCNGAU3y3GoZDeAE4kEN+0vj4p0hPYFNRBw==}
-
-  vite-plugin-local@0.5.0:
-    resolution: {integrity: sha512-fY33ZzFnAQT+2s+U885YokrW9yfME0gD9pePAofko5cVFNY8FVeowlSxpNZOeQrilCfTEF3wYLObPUgPZAzMpg==}
-
   webpack-virtual-modules@0.6.2:
     resolution: {integrity: sha512-66/V2i5hQanC51vBQKPH4aI8NMAcBW59FVBs+rC7eGHupMyfn34q7rZIE+ETlJ+XTevqfUhVVBgSUNSW2flEUQ==}
 
@@ -3995,10 +3958,6 @@ snapshots:
   '@stacksjs/validation@0.70.80':
     dependencies:
       '@stacksjs/ts-validation': 0.5.2
-
-  '@stacksjs/vite-config@0.70.23': {}
-
-  '@stacksjs/vite-plugin@0.70.23': {}
 
   '@stacksjs/whois@0.70.80': {}
 
@@ -5321,12 +5280,6 @@ snapshots:
   very-happy-dom@0.0.7: {}
 
   very-happy-dom@0.1.4: {}
-
-  vite-plugin-dotenvx@0.1.1:
-    dependencies:
-      '@dotenvx/dotenvx': 1.75.1
-
-  vite-plugin-local@0.5.0: {}
 
   webpack-virtual-modules@0.6.2: {}
 
