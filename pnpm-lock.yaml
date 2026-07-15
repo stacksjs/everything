@@ -1,7 +1,7 @@
 lockfileVersion: '9.0'
 
 settings:
-  autoInstallPeers: false
+  autoInstallPeers: true
   excludeLinksFromLockfile: false
 
 catalogs:
@@ -13,18 +13,18 @@ catalogs:
       specifier: ^0.4.1
       version: 0.4.1
     bun-plugin-bunpress:
-      specifier: ^0.1.12
-      version: 0.1.12
+      specifier: ^0.1.13
+      version: 0.1.13
     bun-plugin-dtsx:
-      specifier: ^0.10.6
-      version: 0.10.6
+      specifier: ^0.10.8
+      version: 0.10.8
     bun-plugin-unocss:
       specifier: ^0.1.3
       version: 0.1.3
   dev:
     '@types/node':
-      specifier: ^22.20.1
-      version: 22.20.1
+      specifier: ^26.1.1
+      version: 26.1.1
     netlify-plugin-cache:
       specifier: ^1.0.3
       version: 1.0.3
@@ -32,11 +32,11 @@ catalogs:
       specifier: ^2.1.3
       version: 2.1.3
     pnpm:
-      specifier: ^10.34.5
-      version: 10.34.5
+      specifier: ^11.13.0
+      version: 11.13.0
     typescript:
-      specifier: ^5.9.3
-      version: 5.9.3
+      specifier: ^7.0.2
+      version: 7.0.2
   framework:
     '@stacksjs/actions':
       specifier: ^0.70.87
@@ -259,8 +259,8 @@ catalogs:
       version: 0.70.23
   libraries:
     '@cwcss/crosswind':
-      specifier: ^0.2.9
-      version: 0.2.9
+      specifier: ^0.2.10
+      version: 0.2.10
     '@stacksjs/aax':
       specifier: ^0.4.1
       version: 0.4.1
@@ -268,26 +268,26 @@ catalogs:
       specifier: ^0.1.1
       version: 0.1.1
     '@stacksjs/bun-queue':
-      specifier: ^0.1.1
-      version: 0.1.1
+      specifier: ^0.1.2
+      version: 0.1.2
     '@stacksjs/bun-router':
-      specifier: ^0.0.17
-      version: 0.0.17
+      specifier: ^0.0.19
+      version: 0.0.19
     '@stacksjs/clarity':
       specifier: ^0.3.28
       version: 0.3.28
     '@stacksjs/desktop':
       specifier: ^0.2.90
-      version: 0.2.92
+      version: 0.2.95
     '@stacksjs/dnsx':
       specifier: ^0.2.3
       version: 0.2.3
     '@stacksjs/dtsx':
-      specifier: ^0.10.6
-      version: 0.10.6
+      specifier: ^0.10.8
+      version: 0.10.8
     '@stacksjs/httx':
-      specifier: ^0.1.10
-      version: 0.1.10
+      specifier: ^0.1.11
+      version: 0.1.11
     '@stacksjs/qrx':
       specifier: ^0.1.0
       version: 0.1.0
@@ -295,8 +295,8 @@ catalogs:
       specifier: ^0.11.28
       version: 0.11.28
     '@stacksjs/tlsx':
-      specifier: ^0.13.9
-      version: 0.13.9
+      specifier: ^0.13.11
+      version: 0.13.11
     '@stacksjs/ts-auth':
       specifier: ^0.4.3
       version: 0.4.3
@@ -340,8 +340,8 @@ catalogs:
       specifier: ^0.1.0
       version: 0.1.0
     '@ts-analytics/tracking':
-      specifier: ^0.1.9
-      version: 0.1.9
+      specifier: ^0.1.10
+      version: 0.1.11
     '@ts-cloud/aws-types':
       specifier: ^0.7.18
       version: 0.7.18
@@ -352,29 +352,29 @@ catalogs:
       specifier: ^0.2.7
       version: 0.2.7
     ts-broadcasting:
-      specifier: ^0.0.5
-      version: 0.0.5
+      specifier: ^0.0.8
+      version: 0.0.8
     ts-clone:
-      specifier: ^0.1.1
-      version: 0.1.1
+      specifier: ^0.1.3
+      version: 0.1.3
     ts-collect:
-      specifier: ^0.4.0
-      version: 0.4.0
+      specifier: ^0.4.2
+      version: 0.4.2
     ts-countries:
       specifier: ^0.1.3
       version: 0.1.3
     ts-error-handling:
-      specifier: ^0.1.1
-      version: 0.1.1
+      specifier: ^0.1.3
+      version: 0.1.3
     ts-gif:
       specifier: ^0.1.2
       version: 0.1.2
     ts-images:
-      specifier: ^0.1.9
-      version: 0.1.9
+      specifier: ^0.1.10
+      version: 0.1.10
     ts-inputs:
-      specifier: ^0.1.7
-      version: 0.1.7
+      specifier: ^0.1.10
+      version: 0.1.10
     ts-jpeg:
       specifier: ^0.3.3
       version: 0.3.3
@@ -382,70 +382,70 @@ catalogs:
       specifier: ^0.2.7
       version: 0.2.7
     ts-medium-editor:
-      specifier: ^0.1.2
-      version: 0.1.2
+      specifier: ^0.1.4
+      version: 0.1.4
     ts-ndarray:
       specifier: ^0.1.5
       version: 0.1.5
     ts-numbers:
-      specifier: ^0.1.0
-      version: 0.1.0
+      specifier: ^0.1.4
+      version: 0.1.4
     ts-printers:
-      specifier: ^0.1.0
-      version: 0.1.0
+      specifier: ^0.1.2
+      version: 0.1.2
     ts-rate-limiter:
-      specifier: ^0.4.2
-      version: 0.4.2
+      specifier: ^0.4.4
+      version: 0.4.4
     ts-security:
       specifier: ^0.0.2
       version: 0.0.2
     ts-slug:
-      specifier: ^0.1.0
-      version: 0.1.0
+      specifier: ^0.1.2
+      version: 0.1.2
     ts-spreadsheets:
       specifier: ^0.2.0
       version: 0.2.0
     ts-syntax-highlighter:
-      specifier: ^0.2.1
-      version: 0.2.1
+      specifier: ^0.2.4
+      version: 0.2.4
     ts-vat:
-      specifier: ^0.1.1
-      version: 0.1.1
+      specifier: ^0.1.6
+      version: 0.1.6
     ts-web-scraper:
-      specifier: ^0.1.1
-      version: 0.1.1
+      specifier: ^0.1.3
+      version: 0.1.3
   stx:
     '@stacksjs/components':
-      specifier: ^0.2.90
-      version: 0.2.92
+      specifier: ^0.2.94
+      version: 0.2.95
     '@stacksjs/iconify-core':
-      specifier: ^0.2.90
-      version: 0.2.92
+      specifier: ^0.2.94
+      version: 0.2.95
     '@stacksjs/iconify-generator':
-      specifier: ^0.2.90
-      version: 0.2.92
+      specifier: ^0.2.94
+      version: 0.2.95
     '@stacksjs/sanitizer':
-      specifier: ^0.2.90
-      version: 0.2.92
+      specifier: ^0.2.94
+      version: 0.2.95
     '@stacksjs/stx':
-      specifier: ^0.2.92
-      version: 0.2.92
+      specifier: ^0.2.94
+      version: 0.2.95
     bun-plugin-stx:
-      specifier: ^0.2.90
-      version: 0.2.92
+      specifier: ^0.2.94
+      version: 0.2.95
     create-stx:
-      specifier: ^0.2.90
-      version: 0.2.92
+      specifier: ^0.2.94
+      version: 0.2.95
     stx-router:
-      specifier: ^0.2.90
-      version: 0.2.92
+      specifier: ^0.2.94
+      version: 0.2.95
   tools:
     '@stacksjs/bumpx':
       specifier: ^0.2.6
       version: 0.2.6
     '@stacksjs/bunpress':
-      specifier: ^0.1.12
-      version: 0.1.12
+      specifier: ^0.1.13
+      version: 0.1.13
     '@stacksjs/clapp':
       specifier: ^0.2.10
       version: 0.2.10
@@ -471,20 +471,20 @@ catalogs:
       specifier: ^0.0.11
       version: 0.0.11
     better-dx:
-      specifier: ^0.2.17
-      version: 0.2.17
+      specifier: ^0.2.18
+      version: 0.2.18
     bun-query-builder:
-      specifier: ^0.1.47
-      version: 0.1.47
+      specifier: ^0.1.48
+      version: 0.1.48
     bunfig:
       specifier: ^0.15.14
       version: 0.15.14
     pickier:
-      specifier: ^0.1.38
-      version: 0.1.38
+      specifier: ^0.1.39
+      version: 0.1.39
     ts-pantry:
-      specifier: ^0.10.11
-      version: 0.10.11
+      specifier: ^0.10.12
+      version: 0.10.12
     very-happy-dom:
       specifier: ^0.1.4
       version: 0.1.4
@@ -495,13 +495,13 @@ importers:
     dependencies:
       '@cwcss/crosswind':
         specifier: catalog:libraries
-        version: 0.2.9
+        version: 0.2.10
       '@stacksjs/aax':
         specifier: catalog:libraries
         version: 0.4.1
       '@stacksjs/actions':
         specifier: catalog:framework
-        version: 0.70.87(pickier@0.1.38)
+        version: 0.70.87(pickier@0.1.39)
       '@stacksjs/ai':
         specifier: catalog:framework
         version: 0.70.87
@@ -531,7 +531,7 @@ importers:
         version: 0.70.87
       '@stacksjs/buddy':
         specifier: catalog:framework
-        version: 0.70.87(pickier@0.1.38)
+        version: 0.70.87(pickier@0.1.39)
       '@stacksjs/build':
         specifier: catalog:framework
         version: 0.70.87
@@ -540,13 +540,13 @@ importers:
         version: 0.2.6
       '@stacksjs/bun-queue':
         specifier: catalog:libraries
-        version: 0.1.1
+        version: 0.1.2
       '@stacksjs/bun-router':
         specifier: catalog:libraries
-        version: 0.0.17
+        version: 0.0.19
       '@stacksjs/bunpress':
         specifier: catalog:tools
-        version: 0.1.12
+        version: 0.1.13
       '@stacksjs/cache':
         specifier: catalog:framework
         version: 0.70.87
@@ -582,7 +582,7 @@ importers:
         version: 0.70.87
       '@stacksjs/components':
         specifier: catalog:stx
-        version: 0.2.92
+        version: 0.2.95
       '@stacksjs/composables':
         specifier: catalog:framework
         version: 0.70.87
@@ -603,7 +603,7 @@ importers:
         version: 0.70.87
       '@stacksjs/desktop':
         specifier: catalog:libraries
-        version: 0.2.92
+        version: 0.2.95
       '@stacksjs/dns':
         specifier: catalog:framework
         version: 0.70.87
@@ -615,7 +615,7 @@ importers:
         version: 0.70.87
       '@stacksjs/dtsx':
         specifier: catalog:libraries
-        version: 0.10.6
+        version: 0.10.8
       '@stacksjs/email':
         specifier: catalog:framework
         version: 0.70.87
@@ -654,13 +654,13 @@ importers:
         version: 0.70.87
       '@stacksjs/httx':
         specifier: catalog:libraries
-        version: 0.1.10
+        version: 0.1.11
       '@stacksjs/iconify-core':
         specifier: catalog:stx
-        version: 0.2.92
+        version: 0.2.95
       '@stacksjs/iconify-generator':
         specifier: catalog:stx
-        version: 0.2.92
+        version: 0.2.95
       '@stacksjs/lint':
         specifier: catalog:framework
         version: 0.70.87
@@ -717,7 +717,7 @@ importers:
         version: 0.11.28
       '@stacksjs/sanitizer':
         specifier: catalog:stx
-        version: 0.2.92
+        version: 0.2.95
       '@stacksjs/scheduler':
         specifier: catalog:framework
         version: 0.70.87
@@ -753,7 +753,7 @@ importers:
         version: 0.70.87
       '@stacksjs/stx':
         specifier: catalog:stx
-        version: 0.2.92
+        version: 0.2.95
       '@stacksjs/testing':
         specifier: catalog:framework
         version: 0.70.87
@@ -762,7 +762,7 @@ importers:
         version: 0.70.87
       '@stacksjs/tlsx':
         specifier: catalog:libraries
-        version: 0.13.9
+        version: 0.13.11
       '@stacksjs/ts-auth':
         specifier: catalog:libraries
         version: 0.4.3
@@ -801,7 +801,7 @@ importers:
         version: 0.1.0
       '@stacksjs/ts-spell-check-pickier':
         specifier: catalog:tools
-        version: 0.1.0(pickier@0.1.38)
+        version: 0.1.0(pickier@0.1.39)
       '@stacksjs/ts-svg':
         specifier: catalog:libraries
         version: 0.1.1
@@ -837,7 +837,7 @@ importers:
         version: 0.70.23
       '@ts-analytics/tracking':
         specifier: catalog:libraries
-        version: 0.1.9
+        version: 0.1.11
       '@ts-cloud/aws-types':
         specifier: catalog:libraries
         version: 0.7.18
@@ -849,7 +849,7 @@ importers:
         version: 0.0.11
       better-dx:
         specifier: catalog:tools
-        version: 0.2.17
+        version: 0.2.18
       bun-git-hooks:
         specifier: catalog:bun
         version: 0.3.2
@@ -858,58 +858,58 @@ importers:
         version: 0.4.1
       bun-plugin-bunpress:
         specifier: catalog:bun
-        version: 0.1.12
+        version: 0.1.13
       bun-plugin-dtsx:
         specifier: catalog:bun
-        version: 0.10.6
+        version: 0.10.8
       bun-plugin-stx:
         specifier: catalog:stx
-        version: 0.2.92
+        version: 0.2.95
       bun-plugin-unocss:
         specifier: catalog:bun
         version: 0.1.3
       bun-query-builder:
         specifier: catalog:tools
-        version: 0.1.47
+        version: 0.1.48
       bunfig:
         specifier: catalog:tools
         version: 0.15.14
       create-stx:
         specifier: catalog:stx
-        version: 0.2.92
+        version: 0.2.95
       localtunnels:
         specifier: catalog:libraries
         version: 0.2.7
       pickier:
         specifier: catalog:tools
-        version: 0.1.38
+        version: 0.1.39
       stx-router:
         specifier: catalog:stx
-        version: 0.2.92
+        version: 0.2.95
       ts-broadcasting:
         specifier: catalog:libraries
-        version: 0.0.5
+        version: 0.0.8
       ts-clone:
         specifier: catalog:libraries
-        version: 0.1.1
+        version: 0.1.3
       ts-collect:
         specifier: catalog:libraries
-        version: 0.4.0
+        version: 0.4.2
       ts-countries:
         specifier: catalog:libraries
         version: 0.1.3
       ts-error-handling:
         specifier: catalog:libraries
-        version: 0.1.1
+        version: 0.1.3
       ts-gif:
         specifier: catalog:libraries
         version: 0.1.2
       ts-images:
         specifier: catalog:libraries
-        version: 0.1.9
+        version: 0.1.10
       ts-inputs:
         specifier: catalog:libraries
-        version: 0.1.7
+        version: 0.1.10
       ts-jpeg:
         specifier: catalog:libraries
         version: 0.3.3
@@ -918,64 +918,64 @@ importers:
         version: 0.2.7
       ts-medium-editor:
         specifier: catalog:libraries
-        version: 0.1.2
+        version: 0.1.4
       ts-ndarray:
         specifier: catalog:libraries
         version: 0.1.5
       ts-numbers:
         specifier: catalog:libraries
-        version: 0.1.0
+        version: 0.1.4
       ts-pantry:
         specifier: catalog:tools
-        version: 0.10.11
+        version: 0.10.12
       ts-printers:
         specifier: catalog:libraries
-        version: 0.1.0
+        version: 0.1.2
       ts-rate-limiter:
         specifier: catalog:libraries
-        version: 0.4.2
+        version: 0.4.4
       ts-security:
         specifier: catalog:libraries
         version: 0.0.2
       ts-slug:
         specifier: catalog:libraries
-        version: 0.1.0
+        version: 0.1.2
       ts-spreadsheets:
         specifier: catalog:libraries
         version: 0.2.0
       ts-syntax-highlighter:
         specifier: catalog:libraries
-        version: 0.2.1
+        version: 0.2.4
       ts-vat:
         specifier: catalog:libraries
-        version: 0.1.1
+        version: 0.1.6
       ts-web-scraper:
         specifier: catalog:libraries
-        version: 0.1.1
+        version: 0.1.3
       very-happy-dom:
         specifier: catalog:tools
         version: 0.1.4
     devDependencies:
       '@types/node':
         specifier: catalog:dev
-        version: 22.20.1
+        version: 26.1.1
       netlify-plugin-cache:
         specifier: catalog:dev
         version: 1.0.3
       node-modules-inspector:
         specifier: catalog:dev
-        version: 2.1.3(typescript@5.9.3)
+        version: 2.1.3(typescript@7.0.2)
       pnpm:
         specifier: catalog:dev
-        version: 10.34.5
+        version: 11.13.0
       typescript:
         specifier: catalog:dev
-        version: 5.9.3
+        version: 7.0.2
 
 packages:
 
-  '@cwcss/crosswind@0.2.9':
-    resolution: {integrity: sha512-xJ6jaTL7iUbgpGV/Q+bklk8KoU57U6NI0Uphp9gDeT+UueFaDGipaYtfzT4qUxCZOjT0XZNaJ+3hcymCghnQXw==}
+  '@cwcss/crosswind@0.2.10':
+    resolution: {integrity: sha512-yG0kjhmhZxSQtmDu3STgIrYc6zUuH+g6gwzaYq5LqKStY1HM65WZWMI86ZqET6yGRRWUdQQMCF2176o2nK8YRA==}
     hasBin: true
 
   '@emnapi/core@1.10.0':
@@ -1056,48 +1056,56 @@ packages:
     engines: {node: ^20.19.0 || >=22.12.0}
     cpu: [arm64]
     os: [linux]
+    libc: [glibc]
 
   '@oxc-parser/binding-linux-arm64-musl@0.132.0':
     resolution: {integrity: sha512-WozHg3Kc//8Sk756HXXgMbEAvqtG+Lzb9JOojwQzIGDtN78Az2dLttkb71akWYUF/8IgYfDSlfKh4Uot8is5Vw==}
     engines: {node: ^20.19.0 || >=22.12.0}
     cpu: [arm64]
     os: [linux]
+    libc: [musl]
 
   '@oxc-parser/binding-linux-ppc64-gnu@0.132.0':
     resolution: {integrity: sha512-CmX/ulNBOEwWTyVRmcpYKAcAizW6+OjtLJgo7fXoL9OqQvjF4VER8tPomv44vwzfSCy1BHbsB0ZlZYzYJNj4cA==}
     engines: {node: ^20.19.0 || >=22.12.0}
     cpu: [ppc64]
     os: [linux]
+    libc: [glibc]
 
   '@oxc-parser/binding-linux-riscv64-gnu@0.132.0':
     resolution: {integrity: sha512-j9oQS+hM90SdhviNGWbPgT4+Rlq+ac++q/zjgwPD1mVHgxHzATvoRGtDx0sXGmFOQ9J9YkwAhYGb5MAHL6TAsA==}
     engines: {node: ^20.19.0 || >=22.12.0}
     cpu: [riscv64]
     os: [linux]
+    libc: [glibc]
 
   '@oxc-parser/binding-linux-riscv64-musl@0.132.0':
     resolution: {integrity: sha512-bLz+Xi+Agnfmd7kWPEsSVwCn2k4EyIalZkNBcQ0OGIv9rqn8VgCPLNd03tM9mKX/5TdlvDXalz0q71BIrOPNqg==}
     engines: {node: ^20.19.0 || >=22.12.0}
     cpu: [riscv64]
     os: [linux]
+    libc: [musl]
 
   '@oxc-parser/binding-linux-s390x-gnu@0.132.0':
     resolution: {integrity: sha512-U6t2qbJU0ypTfyj9QV3W1Y6mITDTL8ai/OR6NUn85vyHthOvobKWgXzU4tu0EskSzlpuVFz1g0jFGulDIUKHxQ==}
     engines: {node: ^20.19.0 || >=22.12.0}
     cpu: [s390x]
     os: [linux]
+    libc: [glibc]
 
   '@oxc-parser/binding-linux-x64-gnu@0.132.0':
     resolution: {integrity: sha512-WcEaSNHFk8yz5YFlQQAlhq6jOFmZBB/RKE7uzhyCIf+pF1Lmv9gUH4221mle2Gd9iHyWT3ySNph8yZgb1xYdWg==}
     engines: {node: ^20.19.0 || >=22.12.0}
     cpu: [x64]
     os: [linux]
+    libc: [glibc]
 
   '@oxc-parser/binding-linux-x64-musl@0.132.0':
     resolution: {integrity: sha512-iQrV4iJzQgRwK3BWRmQl1C3C6g3wYpXN2WLdQdyR+efoUnncdShZAVp9OgcojtlD3MDRbuOMGG3SjxF4fL4nlQ==}
     engines: {node: ^20.19.0 || >=22.12.0}
     cpu: [x64]
     os: [linux]
+    libc: [musl]
 
   '@oxc-parser/binding-openharmony-arm64@0.132.0':
     resolution: {integrity: sha512-FWzmUGrZ6GUby4U7WIwcCtab6tdmlTO3xTRRKyb5kjIJVEiaUAT8animUG/nK8ZCA8gkRkPOTId4rl6uTqUmJQ==}
@@ -1199,15 +1207,19 @@ packages:
     resolution: {integrity: sha512-y4Jz8WKTJtes6/o1vsIbOeuIoqKItfnbeel94qrJKNKsY2CBzU3FT3YwKjs8K52JFfyACCdQa1tGx+lQWtpyTA==}
     hasBin: true
 
-  '@stacksjs/bun-queue@0.1.1':
-    resolution: {integrity: sha512-91zBU96Db8LYWBc6ME+vldSjCOMWHWvIPWWeewNOgg8uPM6yUZNSMm+lte3+77poB4OFzlwVflo6gGNLsF8eeQ==}
+  '@stacksjs/bun-queue@0.1.2':
+    resolution: {integrity: sha512-Ath38XiORz7PNwQ2uBGwJqrltsUAicIOVyuid4Fs+rrRWvbboyVvzANNgDlLhGmU1OLYXe+/wdMSlR+OE7vjlg==}
 
   '@stacksjs/bun-router@0.0.17':
     resolution: {integrity: sha512-0A5HhcbNJ7x0LSCIPjhoyCjl80letxjWh0vzUO2cuFG9HzHv4jQ9NoPIId1L+SLv+UcR+J8n0vYQ6pCs5px7ZA==}
     hasBin: true
 
-  '@stacksjs/bunpress@0.1.12':
-    resolution: {integrity: sha512-tJfcqPpoCNnzZo024rxFIg33BsZnVRlN/rnfxrizizS6HdQa+IwTphVGAwT08dlnnjz8dN0vR586qE7eC4UeEQ==}
+  '@stacksjs/bun-router@0.0.19':
+    resolution: {integrity: sha512-+ZGJSQymC23thW25n1iOoaYSpp40P9K0PR4RG/yxKiqVVuUrYOInSGEA+r9xQ442yoVLxhRH0JdUmUTrJpmlXw==}
+    hasBin: true
+
+  '@stacksjs/bunpress@0.1.13':
+    resolution: {integrity: sha512-zkD6uKiENQL0yk7rWK5+VuUD0J4rRBXUvmuyIQlq65PCzvCjdZfnD8k+L4a01Vy5Dbml+jwS/3a4hviOgxcBaQ==}
     hasBin: true
 
   '@stacksjs/cache@0.70.87':
@@ -1244,8 +1256,8 @@ packages:
   '@stacksjs/commerce@0.70.87':
     resolution: {integrity: sha512-zz8piSR1hwv/hgHu81JHmYcNkE1tWo7pY5AgPVVUglvcYb+YcYOc/rpMSjrerywJDvDHpXCBkj2uPeTvHIIrtg==}
 
-  '@stacksjs/components@0.2.92':
-    resolution: {integrity: sha512-GH1wHBFY95bwZ0Qzg9QWOHRWyNnXwjrses0ubsaYKMKD46uA+/5uPpuvnfTkk1N7cX1YMSH/yUs75gawwoPuSg==}
+  '@stacksjs/components@0.2.95':
+    resolution: {integrity: sha512-EbPVx0Fn9DaUu8lLtDe9gbA5UolV5l4a2pNDb290VRA4fW1eya/VnbRfD7QNRq3IHUcdZh1LbpVFGQptDsNhTA==}
 
   '@stacksjs/composables@0.70.87':
     resolution: {integrity: sha512-8V/tlYCqwmJT0Q9RBEoA9uq5/ChM8EHw4q38kADEheROLs/1JRj6J88B02QPRN4KD6sqYcIqdMzbP/jw168q9Q==}
@@ -1265,8 +1277,8 @@ packages:
   '@stacksjs/defaults@0.70.87':
     resolution: {integrity: sha512-s1YA0MjVLHop0wSOls3zNs1k+DPUelgGmAKFcnNcpeksvW+IghzR2QydvrxR7Ts/tDxTF4xhw6CeBbzCad0nGQ==}
 
-  '@stacksjs/desktop@0.2.92':
-    resolution: {integrity: sha512-GA/y/+O6Fpggy7mPSDXSlGg6L8U4ziXZLFLxhdjO7rTH7gigTzDzfd4e8mV4tl5LNnbY6TAHteUYqa4QeF8qNg==}
+  '@stacksjs/desktop@0.2.95':
+    resolution: {integrity: sha512-auMehBj73/ZvQR/wRPlZKB/LORNztSj9nj7HoUWT94aib2Y8YEs984cWWmQvQa6ZjJV8ylZENTeGSaVX8NVesg==}
     peerDependencies:
       craft: '*'
     peerDependenciesMeta:
@@ -1283,8 +1295,8 @@ packages:
   '@stacksjs/docs@0.70.87':
     resolution: {integrity: sha512-9fjCPQ8vfYcqCaYuhByZdPGN/UTWcoJS4uqdo+rjTdvCLc2RhAAOaVp1fM3apjwKl1NzuH8sHsRr7p+DFSklXg==}
 
-  '@stacksjs/dtsx@0.10.6':
-    resolution: {integrity: sha512-hIMiapS12eij5IJQchKit1+RQaFCRdTlzT10/xUUPW3uLSg3bFLh8BDI8SzOZLlQRkdGDz7iC0ZunDFUndsa6g==}
+  '@stacksjs/dtsx@0.10.8':
+    resolution: {integrity: sha512-5sNpuD7KspcK5OfQLnGVGU5XyaxxuCZM57OXiyy3PJjBB54U7pHErDzv44fXo0LX0HvAUO4uuI4jzRr4kye0XA==}
     hasBin: true
 
   '@stacksjs/email@0.70.87':
@@ -1325,15 +1337,15 @@ packages:
   '@stacksjs/http@0.70.87':
     resolution: {integrity: sha512-M3t3yo8uW9S4j8hg1AQlmWRZgDlcMgF58llVw8jqYcJX3GJWrTWsuzmt6VpQJ0CYQDi1imkTnMpzwQQ2ob8ktA==}
 
-  '@stacksjs/httx@0.1.10':
-    resolution: {integrity: sha512-dxXU7mDyY15s/uXF/HIo1v1//Y/qbS/Dvc7TMIXB6J/KRMJVnY0tQxsGSt0m3Dg0Fm1Hc1C/JUQOCWRB2TAfTw==}
+  '@stacksjs/httx@0.1.11':
+    resolution: {integrity: sha512-7Ml5D1NpTl4qadeNNFh0CFXjNnv4rb1+9d2MC159FElVo3SbAGWGpobSnwrjg/SZK10rc9mpeOU3l2LPqvJ9uQ==}
     hasBin: true
 
-  '@stacksjs/iconify-core@0.2.92':
-    resolution: {integrity: sha512-hAAG30rkO3c+5QAm29TCfHqobXiJlqN1i9o2MEd0JQ0s+XcxGtyMv5bBrixfDBMrZqkUiyre0tU0t18+ebG3OQ==}
+  '@stacksjs/iconify-core@0.2.95':
+    resolution: {integrity: sha512-+Ge5BANo1VjC1EqTir6b8kl9hSPgko+2jhlJygsyusV2JuC3oPObygMQ/Rmn8PqO+8loZ1AP2hU3QbPv6BuAcA==}
 
-  '@stacksjs/iconify-generator@0.2.92':
-    resolution: {integrity: sha512-6bp6rFTDp7xN1xg9OG4I4e/pFLN4Z3QEvl0TlrBGEqOxBGrqGTe5mF0o2Jl73szMdvaoDTTHu5PjALDqPLQKIw==}
+  '@stacksjs/iconify-generator@0.2.95':
+    resolution: {integrity: sha512-rS34upWVCklujFiVUT4F7BCGNovC3sc4EBcrkGgW7NskLatJf2yxzA7tGRahGBu5AoPY7BAD22jUsut6jkAvNQ==}
     hasBin: true
 
   '@stacksjs/lint@0.70.87':
@@ -1401,8 +1413,8 @@ packages:
     resolution: {integrity: sha512-ZruwNlsZ6uspV/d1RJrvbiv+W0XDCMdWkr/AqeRuWPJ/yvPCvk8EvRdcNzP1+GWXXLgOwWVfgx+j1uN8BdR/qg==}
     hasBin: true
 
-  '@stacksjs/sanitizer@0.2.92':
-    resolution: {integrity: sha512-liilEdPcSQCxVvwiORoxYJlK+khJDoo/iDtxn4NgkUKbTb+ydc/ekomRkqhQeufhuhWuqOXTeXjNHmQnLioBAg==}
+  '@stacksjs/sanitizer@0.2.95':
+    resolution: {integrity: sha512-etxMkOcadJZygYJ0cw50JctfUFVfAjxOFHNSxZaB0IYbMEb16wKoJ8fX50kF/K4ILpNvAcLX4A4RNwamNrKAIQ==}
 
   '@stacksjs/scheduler@0.70.87':
     resolution: {integrity: sha512-FVFVgW5jk4G0NRy+2ZS/EEcVGg8hhzzMR2LTN7idIv3GOrTQS29yZrVJj7oN34C/WNCzxetxxspTnwRY8dSSbQ==}
@@ -1447,8 +1459,8 @@ packages:
   '@stacksjs/strings@0.70.87':
     resolution: {integrity: sha512-BoRQXtDGNg7FbAhClZvguF720UzURIH7dl7tMBs3NAnV/rS+ubnKgXmXuWcbAgBh6ZSu90VBHQN25mPszZbvMg==}
 
-  '@stacksjs/stx@0.2.92':
-    resolution: {integrity: sha512-KIVln7RiDZ1co2BXIpxWdw+6a9Bo4SwypEMoz5wiL53SClt+n4gJL6VQAay32ICLZCRD63Z15BxphtXjoP+tWQ==}
+  '@stacksjs/stx@0.2.95':
+    resolution: {integrity: sha512-jWFVGSkr6+hee4naFeodnWD2SOPJalYx2sg61/aAheulipPu7QPWBe+Y8lQ+sRYXUz8doXqU194Uj/RspY7nAQ==}
     hasBin: true
 
   '@stacksjs/testing@0.70.87':
@@ -1457,8 +1469,8 @@ packages:
   '@stacksjs/tinker@0.70.87':
     resolution: {integrity: sha512-s3LEltH2rCvqQTilsx7jW6wXEL0xg3xXiU/4TTMJAW484ydCq8bv6LqW/W5UPlQQbAkqfVmxZSjiJOdYZoi76w==}
 
-  '@stacksjs/tlsx@0.13.9':
-    resolution: {integrity: sha512-uBBqOjlJFUyFLg6jfD77Roodnvip1xoXbNZduDKCZEceoYFOYgTOuNoxaG0ZZU2XrteIiz/iHH24hl6NNd7O2A==}
+  '@stacksjs/tlsx@0.13.11':
+    resolution: {integrity: sha512-5/ikJDYKEVStsi89ctrWibExW/gsMFT1Hww9E3p3Uze4YtSpipf/uKJJ2GtBs53B19dWlS83YnfmWp8HQKUf4Q==}
     hasBin: true
 
   '@stacksjs/ts-auth@0.4.3':
@@ -1553,8 +1565,8 @@ packages:
   '@stacksjs/x-ray@0.70.23':
     resolution: {integrity: sha512-WvhHBA69IByjYWQwHwHCy3bixSmRQJfQV1kofDRdRiICpgtFgvoNYnuI8h8j0EjOjMg6DmWFp8WQ1Cu5k7ySKg==}
 
-  '@ts-analytics/tracking@0.1.9':
-    resolution: {integrity: sha512-QN5dBMJCEViEkWFREb3gDvGeEDS2mVJ0E0mesnuznezXx/TvGNti5fYhSttOUSN3JXNVRIQvHvE54MxHBKd2uA==}
+  '@ts-analytics/tracking@0.1.11':
+    resolution: {integrity: sha512-8nwD5OMnUrtau24TsgmpIoJyHGgvNbfa+kDehmYK5WdXYo8UOULy0YJXqvxP6SO3PMngwEedIaUW7WIuoH49mw==}
     hasBin: true
     peerDependencies:
       '@nuxt/kit': ^3.0.0
@@ -1565,35 +1577,35 @@ packages:
       '@nuxt/schema':
         optional: true
 
-  '@ts-charts/array@0.2.0':
-    resolution: {integrity: sha512-rcYZWzYx8pjqpcJOLyNWcxeCwEGFte1HANtMxTiiXswQ990VkWYK1iVY13W4EwUwJU0TGXdg1e3DGjVXtrwc5w==}
+  '@ts-charts/array@0.2.2':
+    resolution: {integrity: sha512-N5sisuAJ/y9tasGSHkPTVbgBt0ys/XFIvB5gwnvNbX0xFdkE2+TCJ25oaebAZcYRe5KXyjQVDbubakIZ3+Sg0w==}
 
-  '@ts-charts/color@0.2.0':
-    resolution: {integrity: sha512-Oe/gbCmTUhlkqQk1xFg+MSObDm5qEAlvBxmGiCDRsPZaPNrTlGlAiuiynPUfb9nl5ByZ39y3aPJFQjmq/RG+WA==}
+  '@ts-charts/color@0.2.2':
+    resolution: {integrity: sha512-/0Qx4rFEADd9AoTb8s7pkQpo+fH+WwDGWdU2jg9HH2ezxZ4Z4p/KjN7vDH3Sr1Dz97unoxp2jS6lTnYf3mJAuQ==}
 
-  '@ts-charts/format@0.2.0':
-    resolution: {integrity: sha512-sHCLKTsjUEai3v+MZEr9t/Gb/tbmGfPENji+mqxElJ4/ji80drIcqFvhvIGMgh68l7weFsJ3uBcNtO9/tGwRzQ==}
+  '@ts-charts/format@0.2.2':
+    resolution: {integrity: sha512-GI+cdSo7eR+gOW68Rr6EuO7IYJqvawaRKs8oP52m7mk08kSVDm3qOoCmtfYq9zH+9eZfO/1vWHW5Lt/mruXX4w==}
 
-  '@ts-charts/internmap@0.2.0':
-    resolution: {integrity: sha512-l+rFqiTOpojgSiyOvgl16RZAhHBzVy5U9deFjKSjwf0VSbAHzBN8GyX8TwTi746odG8ODgnhIqUm2LOuWYyCNw==}
+  '@ts-charts/internmap@0.2.2':
+    resolution: {integrity: sha512-pmqDE1LXcpilCS2qGUPv22zt1Mb4ddEUB4D9m82ieYfPp59xR9XmAK8Y3nxdB/vnnIGpKx8R/MygsIOEJeNx0A==}
 
-  '@ts-charts/interpolate@0.2.0':
-    resolution: {integrity: sha512-FdH2lfqk9UZNsaZNgbGnt9hjEa7NceBnFIMDfDbYFtotYeLoufzYHKqwSM5bTvmqBO9JuH0/Pk6jXEuSmscAgQ==}
+  '@ts-charts/interpolate@0.2.2':
+    resolution: {integrity: sha512-q9T2/wWjf2WQ8gc4syr1vcEfnxjvucbwbts57zqmp6zfHtjWUcFzTLG6dxHcNQmReuXVWHS+8JdtiqnCqCtAoA==}
 
-  '@ts-charts/path@0.2.0':
-    resolution: {integrity: sha512-bFBcOBf6OdPmG+elhtMWNVAqLbQSCiAWMRB1Oe7qprX/tawM3IwqHcg20EhCxeAURIyauAESRCok5QITNbeozA==}
+  '@ts-charts/path@0.2.2':
+    resolution: {integrity: sha512-496+fVb9PTJRfSa2trZOHKcSE+RaqmpeRGGH7GkBUJ40FjBKNoeGhDt2TV2KPNwD+8aGVBJnU0JzVUbbikpg8w==}
 
-  '@ts-charts/scale@0.2.0':
-    resolution: {integrity: sha512-94uWO10Iu/vUjocCA+IRR5J7Xsg9iep1YqKRk4F7unDHnr+F0BBTI5fRKJSBThDuk5UdmDCn9S9g1jLx4K9P1w==}
+  '@ts-charts/scale@0.2.2':
+    resolution: {integrity: sha512-EzMSXJ0rMNCDlQUtmW84XiYn2xgQN6dDKmpPz+ezBQcktmRL/2jAJUpiJtGdEzzZ1xggsIix4myROUTzd/FC/Q==}
 
-  '@ts-charts/shape@0.2.0':
-    resolution: {integrity: sha512-ezGVBRJLnq3D+uEhm7XzJxTvSKYGj/ZKuz9Vzo7TGxf8QtpPS1rtq6Jgu5piENEyeM1tms+PWG7o0IdcPd0mdA==}
+  '@ts-charts/shape@0.2.2':
+    resolution: {integrity: sha512-5S0Iz3LSCDqMCQMM5ctO813F3FJQfBau21DGmVJW0+iT5zQjgyX5tTR6SDq8VOhfM0ridd6b03wPfiCrAIVFjQ==}
 
-  '@ts-charts/time-format@0.2.0':
-    resolution: {integrity: sha512-oRFQvr0++AnvWMsyyOfVd1J1Ibv2YOz29n23SzeJNxayyW6zMzsuZ+svnab7h5ijR0nB15YD6mSKXrcZZWMi+g==}
+  '@ts-charts/time-format@0.2.2':
+    resolution: {integrity: sha512-BmEEgtr0An2BDRWLpFh7n75xmBsPWszniM6f99JoZ9DjSKn4D4tOIQZdd94QYKLjOrpZwv0igvh9akCiCTwsrA==}
 
-  '@ts-charts/time@0.2.0':
-    resolution: {integrity: sha512-eu9VwgDQr3d3FaF3g+nXNDBo9TfU18b0SlFXmGynkwotoBVTfKW/yR3gA0mm2eeMsRDzgI+31rm1lEVi/Us5WA==}
+  '@ts-charts/time@0.2.2':
+    resolution: {integrity: sha512-UooMz55Ad8v15C9x6WUvBcWDcm142CqSRXUxV2NRWflfyay9ZsnwZemclbTdUfgwJqz0uOFA3uMSCuLZ0I8oDw==}
 
   '@ts-cloud/aws-types@0.7.18':
     resolution: {integrity: sha512-npyiCQwWt+ltMKh/EPEwE4FPT7yshXsx+jxCFoYFAijmT2wYYQuocqdSi4OAPWay/IEhGoRJMn03FqcN3coMBg==}
@@ -1607,8 +1619,8 @@ packages:
   '@types/bun@1.3.14':
     resolution: {integrity: sha512-h1hFqFVcvAvD9j9K7ZW7vd82aSA+rTdznZa+5bwvCwqSB1jmmfLcbIWhOLx1/+boy/xmjgCs/OMUL8hRJSmnPw==}
 
-  '@types/node@22.20.1':
-    resolution: {integrity: sha512-EANqOCF9QFyra+4pfxUcX9STKJpCLjMbObVzljIJomAWSnuSIEAvyzEU53GaajbXJEgdh0iEcPL+DGvpUd4k1Q==}
+  '@types/node@26.1.1':
+    resolution: {integrity: sha512-nxAkRSVkN1Y0JC1W8ky/fTfkGsMmcrRsbx+3XoZE+rMOX71kLYTV7fLXpqud1GpbpP5TuffXFqfX7fH2GgZREw==}
 
   '@typescript/typescript-aix-ppc64@7.0.2':
     resolution: {integrity: sha512-MTKKkWB7p/0E9xi1d1tHtZ5PiLkGEMIq88pK2CubZjOsLtYTLqhgIgi6zepFa+9GHZ6h05NMCkQxGKiPXMxXtQ==}
@@ -1755,14 +1767,14 @@ packages:
     resolution: {integrity: sha512-hZkHeJEQHYarepG0wkcj3Yn+qn/s77k2WsLSD1onKOaCffsW1+Lt1IplzksWDQ3T4cyFT8PFFwUe05jWnUBLoA==}
     hasBin: true
 
-  better-dx@0.2.17:
-    resolution: {integrity: sha512-mhLZRD15OndddCGQDhgARVIfDlCBlKIn8vXWG2YMxII79+gd8jns2cbvahDM9fuxkixIloJREP8uY3Np4HzxXA==}
+  better-dx@0.2.18:
+    resolution: {integrity: sha512-lpEGVVmGnLgPT0/uB1dw1Z8n1tM75JLKU8kLepaqVVdqvw9ttnGwARARPsJ+J6XsFUFz/c0Rv1BQw0QgmGFAAA==}
 
   birpc@4.0.0:
     resolution: {integrity: sha512-LShSxJP0KTmd101b6DRyGBj57LZxSDYWKitQNW/mi8GRMvZb078Uf9+pveax1DrVL89vm7mWe+TovdI/UDOuPw==}
 
-  buddy-bot@0.9.21:
-    resolution: {integrity: sha512-KapcYIbSOzkxLNST2GIOdEX43tQTGMRNa6bXIgDqFrBi5uHRmymBX4kY4hRu+hI4uGuebjWHJIRtVT2Oz6T5Jg==}
+  buddy-bot@0.9.22:
+    resolution: {integrity: sha512-3KBNW+3HGlNH1Yd3Th/QH2UA/KCv7YU7lsdnO4xtphMwrf0LvmWiyF3Dpbgiku3HqrSoohKKlPZtJNG1LwIpaw==}
     hasBin: true
 
   bun-git-hooks@0.3.2:
@@ -1772,21 +1784,21 @@ packages:
   bun-plugin-auto-imports@0.4.1:
     resolution: {integrity: sha512-S/+M76UtZc+1SBpqLKOmFXuEVBDnEBqjwnD3dsbHQao8vV+C46uN0JMQNJUZLdhR35KChZh1mHVJuiNqBrOSXQ==}
 
-  bun-plugin-bunpress@0.1.12:
-    resolution: {integrity: sha512-6PtR9TQs88jcCjym53n+BZ2PHDq52nBFhiRutv6DuR7cq5CBbGJaQ9wEZ8dIrM3P9rsvFpGmCaTYQQrcs2biZQ==}
+  bun-plugin-bunpress@0.1.13:
+    resolution: {integrity: sha512-Gou84+en4xCd7cj4+AxUJnR8AdG8Zqrn4+cS2JOasc7Qp6DqsXiqZqX8KRLwczgnPdGYBRF2OvUekIpbv1mQFw==}
 
-  bun-plugin-dtsx@0.10.6:
-    resolution: {integrity: sha512-ThJ18msWoKAU6uTmUKWU7c2DIWdpPq71CvWntokcLN3IzSknq7Gkb62dcwFyE1e/sFfrSPjdrcYniQn4n+VUTA==}
+  bun-plugin-dtsx@0.10.8:
+    resolution: {integrity: sha512-bC+KYlYFHU0iV354e2GiEIBoNqt9B0UJTVN+b/iB9yMtoHWzSWlIkR2bEAlsKyJdpnF+biIEWoIFgQNMO7CLmw==}
 
-  bun-plugin-stx@0.2.92:
-    resolution: {integrity: sha512-n088kiX4JSSuqhhyDOuZuJMYVr/wlO3vdECNZ5H/OWhujVYG8KhDWFNmc8xjH4ArwzsiaxKMgGA9idMUSte0+A==}
+  bun-plugin-stx@0.2.95:
+    resolution: {integrity: sha512-8tJ45RI/tG8JV3MfSPLx2HdsIfv9TjRehmGRkptNQ9n1WwvZzX0USKMsMDXmRbJgLtF+gC6bCZZFSQ9qHlSYuA==}
     hasBin: true
 
   bun-plugin-unocss@0.1.3:
     resolution: {integrity: sha512-alior9JEeeK/0SniQfjfeOKw4r7dwXg9D+C4yKyg2csvaC6FO66lUI7ps9RBECQbgXgm15AUtnIIpUNYMrEAkQ==}
 
-  bun-query-builder@0.1.47:
-    resolution: {integrity: sha512-YK9MUzc68Z3rdnBQPTUgEGy48xpvo4P7+p7MJslQf94S4TwbRkP1NCwVN3jG3qp5Yc2LCvfBvVfHBXuoh4iw0w==}
+  bun-query-builder@0.1.48:
+    resolution: {integrity: sha512-5uNohkF83aa4ybe88+uBPPfZKZyEEAtu607LLtBTanl+myf9aOHJrjhMr1psPltGZqY/Jmx1c36PWEx9Oi9GZw==}
     hasBin: true
 
   bun-types@1.3.14:
@@ -1821,8 +1833,8 @@ packages:
   cookie-es@1.2.3:
     resolution: {integrity: sha512-lXVyvUvrNXblMqzIRrxHb57UUVmqsSWlxqt3XIjCkUP0wDAf6uicO6KMbEgYrMNtEvWgWHwe42CKxPu9MYAnWw==}
 
-  create-stx@0.2.92:
-    resolution: {integrity: sha512-ErksqC99ZbS3aIlX2GHFw4c6MB0QDBgSMkRFQVYW1uFJKRA8oXBPl1gbs9uiWuiVJOtOfGpq5dFSk29fh14YqA==}
+  create-stx@0.2.95:
+    resolution: {integrity: sha512-Clnsnxk4zGY7xcbWtB1gZ6/uqj3RxUq6sh6u6MdtM4UvifGRZzwhTuuk60ToGnYROua0q+KdFAUVCVyLFREOTg==}
     hasBin: true
 
   crossws@0.3.5:
@@ -1858,8 +1870,8 @@ packages:
       '@modelcontextprotocol/sdk':
         optional: true
 
-  dynamodb-tooling@0.3.4:
-    resolution: {integrity: sha512-mm4Ik21rmoW4WK7GP5IiBF9sW92iJVOaj6+j+P+ggxdQx9+wT341XqUC3c+D6GOLj8l78zo0l8i5vLu0ybNMZg==}
+  dynamodb-tooling@0.3.5:
+    resolution: {integrity: sha512-iYbwz4Kns4Lm3+JB8shdM+x20dAEkPm7i9Z/7t6V2LpHnE7vsxElIYdoCbXJWCBvRVNq8qGHVEOG7AsoRmpNHg==}
     hasBin: true
 
   exsolve@1.1.0:
@@ -2002,8 +2014,8 @@ packages:
   pathe@2.0.3:
     resolution: {integrity: sha512-WUjGcAqP1gQacoQe+OBJsFA7Ld4DyXuUIjZ5cc75cLHvJ7dtNsTugphxIADwspS+AraAUePCKrSVtPLFj/F88w==}
 
-  pickier@0.1.38:
-    resolution: {integrity: sha512-7MlPtuAtG2u6j61K4jvaPgl/UUDUlOcSwq7tEpFLf/8dx3RjUGYQ70Y3vJo0Wi9c1r4gOCoL8i8b0g0TgOYe2A==}
+  pickier@0.1.39:
+    resolution: {integrity: sha512-1+X6ZsQDJTV7BSCGuNzwOhCmWRst3w185jjQZKylaX4WS7V3HzNazsN7vgP2JNU0Ax0oqvvGD90//Uft91w4ZA==}
     hasBin: true
 
   picocolors@1.1.1:
@@ -2023,9 +2035,9 @@ packages:
   pkg-types@2.3.1:
     resolution: {integrity: sha512-y+ichcgc2LrADuhLNAx8DFjVfgz91pRxfZdI3UDhxHvcVEZsenLO+7XaU5vOp0u/7V/wZ+plyuQxtrDlZJ+yeg==}
 
-  pnpm@10.34.5:
-    resolution: {integrity: sha512-pO4F8vc2WCVb1qiYWcBlpFwopX2u+uLIk6Fo7itzFow3uR6D5X6mdlStA/AwMXRkMOi84442LgQmBfuKvIAZLg==}
-    engines: {node: '>=18.12'}
+  pnpm@11.13.0:
+    resolution: {integrity: sha512-iNlHJNjy5sGGdEpVhMblnsrIaex7oV6ctM1ijo3HBmggskgdjuO1HqjaMjpzeAaKpYxVajcg0yt8IKBR0Ig2Og==}
+    engines: {node: '>=22.13'}
     hasBin: true
 
   powershell-utils@0.1.0:
@@ -2086,8 +2098,8 @@ packages:
   structured-clone-es@2.0.0:
     resolution: {integrity: sha512-5UuAHmBLXYPCl22xWJrFuGmIhBKQzxISPVz6E7nmTmTcAOpUzlbjKJsRrCE4vADmMQ0dzeCnlWn9XufnAGf76Q==}
 
-  stx-router@0.2.92:
-    resolution: {integrity: sha512-qLnyFf9M9O1sbB6iGSvVRh+btFzFJ0225a8NcXNzUuce2lUGCdi+k+54luBm4AfoVCpUdf8ueEUG2mqlsz08ZA==}
+  stx-router@0.2.95:
+    resolution: {integrity: sha512-QamU0ee+5QbnAVdviFBV7/VmpFSS+xfEp1uo8/mP2FyYY4qBAYT1zxjAqDBB58+T+A7Drn1Y7gIN4RQ0+eL0SQ==}
 
   tinyexec@1.2.4:
     resolution: {integrity: sha512-SHf/r48b7vOrjve9PxJo3MN5v5yuyjHvdUcrQffT3WXMUfnGmHDVbC4k3sHJaJTgZCwpUplIaAo5ANtMyp3YHg==}
@@ -2101,27 +2113,31 @@ packages:
     resolution: {integrity: sha512-TTvLeBkgIOMi3fTsGHGkRKBTumx2Bts8ZDxNQ5tdKXj2qOg0J9SU8xrpaJCu/51qS1k0tTxYiR+YouLvwDy1yw==}
     hasBin: true
 
-  ts-clone@0.1.1:
-    resolution: {integrity: sha512-fTIh+miU5lmJ2fYHeQKu/7227JWy1LGYDCsGLsU2I2RXqKtK+Ah+nFbMUpmp35CdcCSsJJhBU10sDD+gaE92wg==}
+  ts-broadcasting@0.0.8:
+    resolution: {integrity: sha512-0qeFeTeWCRTkVQBLIhtvPCEhJ72EwF+G0TDF2V03ldxDKbFWlCRM5nJuP8aXyZDxeeGZ6zWwYtAIMRHrmwEDAA==}
+    hasBin: true
 
-  ts-collect@0.4.0:
-    resolution: {integrity: sha512-OXh8fiTrzKogmVfdwi4nGpROw/ovFOTXrYX2pgHoNH6qbjtNvq1CBd7DwpqUW7lAweYlshqBRrFbEj68gBUgkw==}
+  ts-clone@0.1.3:
+    resolution: {integrity: sha512-PhQ6uCDKGno9C+7xFtg7gD5MWkH/lasJBvGTarkPLWgIpldWGLl4CtQmNYIYrM2w/I/fo6vX05uLxi3/zxKqYQ==}
+
+  ts-collect@0.4.2:
+    resolution: {integrity: sha512-4nSkbFqhRMqDagdjmu+lPvlT42866FrUUrXbg8H6R1X4a8unP+YKq3qQK77umHILA2huuCoG/I2umHwnigfGgg==}
 
   ts-countries@0.1.3:
     resolution: {integrity: sha512-aFVbvLv3BGkoiUoqgvQEoEjd5UbdRsTEJbnjr2Hqg3OxVzrDm8SSQvOaMwYpPgIQQ9a6sw6MwsRB5vHVsQOYuQ==}
 
-  ts-error-handling@0.1.1:
-    resolution: {integrity: sha512-d4VqdX0bJ+jvOYNsY58isJgrEr806Q9cjef5+1UO/kIn1M/+YYSwpR6fqdRhn9XXVASJLSzNmcnBSdl0fRCjDg==}
+  ts-error-handling@0.1.3:
+    resolution: {integrity: sha512-Agm8wbQL1YVvnffVDSUKMgImZBoR4UVFjzPaIwPxa0z7YwsowKV8R57pCDIjLP/dTHRBetg7ZfdTeuNVb21OfA==}
 
   ts-gif@0.1.2:
     resolution: {integrity: sha512-jbraplO1qqJtrtkFeepNPUGPad7w8FQHWIQFsn1OJbHeWKUbdqdkrX18XzNXI5Fw7+s6A3nbNTdj+Ukn4d3f8g==}
 
-  ts-images@0.1.9:
-    resolution: {integrity: sha512-ol5rjFk8USfIkqg/Rfz13Ujp/k3Gz0R+qmohEZwj4J6ntDb7KSlehwTn28ggoLR35c1Yk7wFSfcDgq7j9LY3ZQ==}
+  ts-images@0.1.10:
+    resolution: {integrity: sha512-gYeyHoCXpLSfJ2PT/JQ9MRjSaIh/mdbWHfTOh/e78KuXrqulIggKE+A2l7RAluzdOdAoQeQkGOUDGIeWyXUX3Q==}
     hasBin: true
 
-  ts-inputs@0.1.7:
-    resolution: {integrity: sha512-fXIBoMJVCLmTtdUyJPaxqyDQKot84LKuAv1X3EQH+yb1P0/C7ZwiGYV9UQpJwVeMoQkGNuBghz1OfSQsQQZfyQ==}
+  ts-inputs@0.1.10:
+    resolution: {integrity: sha512-uM52EtYIXbBx6S8mgVVI5elo7Z7zema1nw/55xCQTIeNtyA7j1MqQlgZh6diN5q+DNJvPVp6WKilKjwppgHhSg==}
 
   ts-jpeg@0.3.3:
     resolution: {integrity: sha512-ljEieWg5ZqvqfKk4dyW4By+ii4Nd4j8IC6b87flOruQfP8oPbI5+3C3q3IUeT0aLiVRipRPWAZexg92zcIy9yQ==}
@@ -2129,25 +2145,25 @@ packages:
   ts-maps@0.2.7:
     resolution: {integrity: sha512-Acfyp2TfHqrycAS+fy09t/XjPdcnY3cIjdSxRCaeI41HBANGrIQZ0I0/cL+nVRtgLg0cK3Hw0pkRoZIT6hW6sw==}
 
-  ts-medium-editor@0.1.2:
-    resolution: {integrity: sha512-q4jUFtgjP+gj2fjVsT2v/A5VUIMTANDmjAWJDdhWPbLnY6qop/BvpFoqwF0NS8aZWDCxeT+8SDQvBO4t7pd1jg==}
+  ts-medium-editor@0.1.4:
+    resolution: {integrity: sha512-iOJWcTDvO03aNRblEejb2qBL41T2TmCt6HNGoKWFKwc5+tpJYKtIjR/i3OWrVrdvYrtJ5661FDnicz0e0fGWcg==}
 
   ts-ndarray@0.1.5:
     resolution: {integrity: sha512-mIcOrZ7FfYwn7PUDU6Sfd+EIeKC6UNNrtALVHQw3mm8QkfNds2scJvmGZeOvm49Wf6OCM+TS8tiSHTbzWQSbrg==}
 
-  ts-numbers@0.1.0:
-    resolution: {integrity: sha512-lJw/zvH+bbU63DxhljKbxanPSIDbLRLXeUgiEMtB0N43+6gXMF9nS9YYi1YtdHixokdhpx76bKDyaEg69xXCHg==}
+  ts-numbers@0.1.4:
+    resolution: {integrity: sha512-8VEmJYynqy95aNkHnzNs1h/j4WL9jNJNfcbpUlZSMUUDkHh3CyzVOR6whroSEUwzmjuhrKgcnr3/PXk9hYrDbQ==}
 
-  ts-pantry@0.10.11:
-    resolution: {integrity: sha512-/u68YIpps2gq14r9fFXuoyU3KKcjGkIPVATns4zxmROr4dI7cDj41lIMH7xqrHjDASOQm4aaBDcatGu256nSgw==}
+  ts-pantry@0.10.12:
+    resolution: {integrity: sha512-18YCcK8BHNrrCf+roKcp2tgbYw3vZWnRBzgkqegiIW1Tf2QR/QQRH2wjJboh7rsVmoK9bFh1vxw0Pf+HRtnYiQ==}
     hasBin: true
 
-  ts-printers@0.1.0:
-    resolution: {integrity: sha512-JwG4p65r1ox2a3NnzlakuIuILFKCXJ379Q7xSb4zl8nqCT+eIN/bSOIw+BD1LjcgVA1FawahdNynQaF5FELZ6Q==}
+  ts-printers@0.1.2:
+    resolution: {integrity: sha512-CT24yWnR5ojnWu8990e1CC5uaEZU2kk+yMoalbv0ZlB7iaHejnPSPzojKQDSYjIlZ29zNxuVNAKpkAFuA4/CSw==}
     hasBin: true
 
-  ts-rate-limiter@0.4.2:
-    resolution: {integrity: sha512-vdTCBaiMotKGpWID+nLOWMH84ZuwKSUthvaToIzvG3muUaOhhIh8AJd2DF+jw22KfT6ZqOq3SCkPkPsHtWvrNQ==}
+  ts-rate-limiter@0.4.4:
+    resolution: {integrity: sha512-951NW5AZKRqfEjleVb1nmCfRO0seMWKaEa606xYt9Z5V4bboGguxKusWsEIGAPndttyYTgqG2IC48j1B03JaNg==}
     hasBin: true
 
   ts-security-crypto@0.0.2:
@@ -2159,22 +2175,22 @@ packages:
   ts-security@0.0.2:
     resolution: {integrity: sha512-VdpXxRo4/X50XhTF21rWd19/KAxYL9n65I/k+Rzu0cS17Cm5XJf0xlzLsvsBBFPnFbQi8ziwfswBsjbkMtS5Fg==}
 
-  ts-slug@0.1.0:
-    resolution: {integrity: sha512-Z6BTOIBPanhcPc5oczj1m6LRQlW42s/5kyEmRpshNNx/1YUCyjWKllN+ZleQDxKLxw/APbG+W8BjTatrTE8sMA==}
+  ts-slug@0.1.2:
+    resolution: {integrity: sha512-/0uzIGb8OkLQzv38kjB1LgAXgFSCxqjLl+YlaJzNlYnZyfH3/r/YLiRoyIME/YPXrt/iks/nGBABC6QDClGJkA==}
 
   ts-spreadsheets@0.2.0:
     resolution: {integrity: sha512-/4GiXSoF/lilocpenawz8X+MuPi6+aEfjI68fTXAqmpuzI4S2StQj19A85bvrFSga1DPf0qVQUHI1kzBlnjhyA==}
     hasBin: true
 
-  ts-syntax-highlighter@0.2.1:
-    resolution: {integrity: sha512-HEfxaVKifwvnX0NaOE8nfs4VFdZo6WdREj1KRehelfYsO1N+m9vOIj5exhlOqFpxOPWd4BlalU8y0WWS7yPWjw==}
+  ts-syntax-highlighter@0.2.4:
+    resolution: {integrity: sha512-W4+mLa3xOUEpP2sUYD1tBUxZ3zzk7KxOsxKH8wL7einTYNZ8MDExbh9mgHWSKeShI5zIuvDHQv9Shd+qsp+swQ==}
     hasBin: true
 
-  ts-vat@0.1.1:
-    resolution: {integrity: sha512-GMQb5AzAvnts1j5AQa3lIZ20LmyjQYqeJqRPdxzQUztTk4fZCH9HIS+ho+8tGwpy2dUSm8kN+3gNZ8hx0n5ppw==}
+  ts-vat@0.1.6:
+    resolution: {integrity: sha512-WjIXj5hj6JUpGLlMGDul0VhGCuiST6XytAIXpNuV/zXfdaH40XshvjI1bMIeu++WB/fewk+dh/3vQVoFenxVkg==}
 
-  ts-web-scraper@0.1.1:
-    resolution: {integrity: sha512-js+gSRe95yDD9U3+GmjvIKBYLAN9WoZKV84x7HcSI7dqdWEIoZSeSGR/Jbr8f5hCeV9FD70KdTPIS2LQwviQXQ==}
+  ts-web-scraper@0.1.3:
+    resolution: {integrity: sha512-BO6yYUthLvb1g6KkiuIO3St9sjFXNDBnkUUPQlWk4xziv1uJWJjAA8OYwzsa1g5QsMVqrETFqy84osCSK0jsow==}
     hasBin: true
 
   tslib@2.8.1:
@@ -2182,11 +2198,6 @@ packages:
 
   type-level-regexp@0.1.17:
     resolution: {integrity: sha512-wTk4DH3cxwk196uGLK/E9pE45aLfeKJacKmcEgEOA/q5dnPGNxXt0cfYdFxb57L+sEpf1oJH4Dnx/pnRcku9jg==}
-
-  typescript@5.9.3:
-    resolution: {integrity: sha512-jl1vZzPDinLr9eUt3J/t7V6FgNEw9QjvBPdysz9KfQDD41fQrC2Y4vKQdiaUpFT4bXlb1RHhLpp8wtm6M5TgSw==}
-    engines: {node: '>=14.17'}
-    hasBin: true
 
   typescript@7.0.2:
     resolution: {integrity: sha512-8FYau96o3NKOhbjKi/qNvG/W5jhzxkbdm5sj9AbZ/5T5sWqn3hJgLfGx27sRKZWTvyzCP8dLRBTf5tBTSRVUNA==}
@@ -2205,8 +2216,8 @@ packages:
   uncrypto@0.1.3:
     resolution: {integrity: sha512-Ql87qFHB3s/De2ClA9e0gsnS6zXG27SkTiSJwjCc9MebbfapQfuPzumMIUMi38ezPZVNFcHI9sUIepeQfw8J8Q==}
 
-  undici-types@6.21.0:
-    resolution: {integrity: sha512-iwDZqg0QAGrg9Rav5H4n0M64c3mkR59cJ6wQp+7C4nI0gsmExaedaYLNO44eT4AtBBwjbTiGPMlt2Md0T9H9JQ==}
+  undici-types@8.3.0:
+    resolution: {integrity: sha512-j375ScV60dom+YkPFIfTLcOiPxkN/buHz5GobjLhixFuANaNs3C9l4GmrWqejgXWJ7BbJcFYpTEUkS1Ge8bpZQ==}
 
   unplugin@3.3.0:
     resolution: {integrity: sha512-qa66K+crbfyE6JK10GjvbJeRrOsuC/JpbnHctfyp/i4oBTxWOzJfRZyDiOk1PtErMFRu8JhsU/wPvOdBNWe5Rg==}
@@ -2339,7 +2350,7 @@ packages:
 
 snapshots:
 
-  '@cwcss/crosswind@0.2.9':
+  '@cwcss/crosswind@0.2.10':
     dependencies:
       '@stacksjs/clapp': 0.2.10
       bunfig: 0.15.14
@@ -2464,15 +2475,15 @@ snapshots:
     dependencies:
       '@stacksjs/clarity': 0.3.28
 
-  '@stacksjs/actions@0.70.87(pickier@0.1.38)':
+  '@stacksjs/actions@0.70.87(pickier@0.1.39)':
     dependencies:
       '@stacksjs/bumpx': 0.2.6
-      '@stacksjs/bunpress': 0.1.12
+      '@stacksjs/bunpress': 0.1.13
       '@stacksjs/logsmith': 0.2.3
       '@stacksjs/ts-cloud': 0.7.18
       '@stacksjs/ts-md': 0.1.1
     optionalDependencies:
-      pickier: 0.1.38
+      pickier: 0.1.39
     transitivePeerDependencies:
       - craft
 
@@ -2499,8 +2510,8 @@ snapshots:
   '@stacksjs/browser@0.70.87':
     dependencies:
       '@stacksjs/composables': 0.70.87
-      '@stacksjs/stx': 0.2.92
-      bun-query-builder: 0.1.47
+      '@stacksjs/stx': 0.2.95
+      bun-query-builder: 0.1.48
       magic-regexp: 0.11.0
     transitivePeerDependencies:
       - '@farmfe/core'
@@ -2514,9 +2525,9 @@ snapshots:
       - vite
       - webpack
 
-  '@stacksjs/buddy@0.70.87(pickier@0.1.38)':
+  '@stacksjs/buddy@0.70.87(pickier@0.1.39)':
     dependencies:
-      '@stacksjs/actions': 0.70.87(pickier@0.1.38)
+      '@stacksjs/actions': 0.70.87(pickier@0.1.39)
       '@stacksjs/ai': 0.70.87
       '@stacksjs/alias': 0.70.87
       '@stacksjs/arrays': 0.70.87
@@ -2528,7 +2539,7 @@ snapshots:
       '@stacksjs/collections': 0.70.87
       '@stacksjs/config': 0.70.87
       '@stacksjs/database': 0.70.87
-      '@stacksjs/desktop': 0.2.92
+      '@stacksjs/desktop': 0.2.95
       '@stacksjs/dns': 0.70.87
       '@stacksjs/dnsx': 0.2.3
       '@stacksjs/email': 0.70.87
@@ -2538,7 +2549,7 @@ snapshots:
       '@stacksjs/git': 0.70.87
       '@stacksjs/gitit': 0.2.5
       '@stacksjs/health': 0.70.87
-      '@stacksjs/httx': 0.1.10
+      '@stacksjs/httx': 0.1.11
       '@stacksjs/lint': 0.70.87
       '@stacksjs/logging': 0.70.87
       '@stacksjs/notifications': 0.70.87
@@ -2587,16 +2598,21 @@ snapshots:
       '@stacksjs/logsmith': 0.2.3
       bunfig: 0.15.14
 
-  '@stacksjs/bun-queue@0.1.1': {}
+  '@stacksjs/bun-queue@0.1.2': {}
 
   '@stacksjs/bun-router@0.0.17':
     dependencies:
       '@stacksjs/clapp': 0.2.10
-      ts-rate-limiter: 0.4.2
+      ts-rate-limiter: 0.4.4
 
-  '@stacksjs/bunpress@0.1.12':
+  '@stacksjs/bun-router@0.0.19':
     dependencies:
-      '@stacksjs/stx': 0.2.92
+      '@stacksjs/clapp': 0.2.10
+      ts-rate-limiter: 0.4.4
+
+  '@stacksjs/bunpress@0.1.13':
+    dependencies:
+      '@stacksjs/stx': 0.2.95
       '@stacksjs/ts-cloud': 0.7.18
       '@stacksjs/ts-md': 0.1.1
       bunfig: 0.15.14
@@ -2609,9 +2625,9 @@ snapshots:
 
   '@stacksjs/charts@0.70.87':
     dependencies:
-      '@ts-charts/format': 0.2.0
-      '@ts-charts/scale': 0.2.0
-      '@ts-charts/shape': 0.2.0
+      '@ts-charts/format': 0.2.2
+      '@ts-charts/scale': 0.2.2
+      '@ts-charts/shape': 0.2.2
 
   '@stacksjs/chat@0.70.87': {}
 
@@ -2632,48 +2648,48 @@ snapshots:
 
   '@stacksjs/cms@0.70.87':
     dependencies:
-      ts-slug: 0.1.0
+      ts-slug: 0.1.2
       ts-spreadsheets: 0.2.0
 
   '@stacksjs/collections@0.70.87':
     dependencies:
-      ts-collect: 0.4.0
+      ts-collect: 0.4.2
 
   '@stacksjs/commerce@0.70.87':
     dependencies:
       ts-spreadsheets: 0.2.0
 
-  '@stacksjs/components@0.2.92':
+  '@stacksjs/components@0.2.95':
     dependencies:
-      '@cwcss/crosswind': 0.2.9
-      '@stacksjs/stx': 0.2.92
-      bun-plugin-stx: 0.2.92
-      ts-syntax-highlighter: 0.2.1
+      '@cwcss/crosswind': 0.2.10
+      '@stacksjs/stx': 0.2.95
+      bun-plugin-stx: 0.2.95
+      ts-syntax-highlighter: 0.2.4
     transitivePeerDependencies:
       - craft
 
   '@stacksjs/composables@0.70.87':
     dependencies:
       '@stacksjs/datetime': 0.70.87
-      '@stacksjs/stx': 0.2.92
+      '@stacksjs/stx': 0.2.95
     transitivePeerDependencies:
       - craft
 
   '@stacksjs/config@0.70.87':
     dependencies:
-      ts-pantry: 0.10.11
+      ts-pantry: 0.10.12
 
   '@stacksjs/cron@0.70.87': {}
 
   '@stacksjs/database@0.70.87':
     dependencies:
-      bun-query-builder: 0.1.47
+      bun-query-builder: 0.1.48
 
   '@stacksjs/datetime@0.70.87': {}
 
   '@stacksjs/defaults@0.70.87': {}
 
-  '@stacksjs/desktop@0.2.92': {}
+  '@stacksjs/desktop@0.2.95': {}
 
   '@stacksjs/dns@0.70.87':
     dependencies:
@@ -2684,11 +2700,11 @@ snapshots:
 
   '@stacksjs/docs@0.70.87':
     dependencies:
-      '@stacksjs/bunpress': 0.1.12
+      '@stacksjs/bunpress': 0.1.13
     transitivePeerDependencies:
       - craft
 
-  '@stacksjs/dtsx@0.10.6':
+  '@stacksjs/dtsx@0.10.8':
     dependencies:
       '@stacksjs/clapp': 0.2.10
 
@@ -2702,9 +2718,9 @@ snapshots:
 
   '@stacksjs/error-handling@0.70.87':
     dependencies:
-      '@stacksjs/stx': 0.2.92
-      ts-error-handling: 0.1.1
-      ts-syntax-highlighter: 0.2.1
+      '@stacksjs/stx': 0.2.95
+      ts-error-handling: 0.1.3
+      ts-syntax-highlighter: 0.2.4
     transitivePeerDependencies:
       - craft
 
@@ -2724,17 +2740,17 @@ snapshots:
 
   '@stacksjs/http@0.70.87':
     dependencies:
-      '@stacksjs/httx': 0.1.10
+      '@stacksjs/httx': 0.1.11
 
-  '@stacksjs/httx@0.1.10':
+  '@stacksjs/httx@0.1.11':
     dependencies:
-      ts-error-handling: 0.1.1
+      ts-error-handling: 0.1.3
 
-  '@stacksjs/iconify-core@0.2.92': {}
+  '@stacksjs/iconify-core@0.2.95': {}
 
-  '@stacksjs/iconify-generator@0.2.92':
+  '@stacksjs/iconify-generator@0.2.95':
     dependencies:
-      '@stacksjs/iconify-core': 0.2.92
+      '@stacksjs/iconify-core': 0.2.95
 
   '@stacksjs/lint@0.70.87': {}
 
@@ -2744,7 +2760,7 @@ snapshots:
     dependencies:
       '@stacksjs/clapp': 0.2.10
       bunfig: 0.15.14
-      pickier: 0.1.38
+      pickier: 0.1.39
 
   '@stacksjs/newsletter@0.70.87': {}
 
@@ -2755,7 +2771,7 @@ snapshots:
   '@stacksjs/orm@0.70.87':
     dependencies:
       '@stacksjs/ts-validation': 0.5.2
-      bun-query-builder: 0.1.47
+      bun-query-builder: 0.1.48
 
   '@stacksjs/path@0.70.87': {}
 
@@ -2767,11 +2783,11 @@ snapshots:
 
   '@stacksjs/query-builder@0.70.87':
     dependencies:
-      bun-query-builder: 0.1.47
+      bun-query-builder: 0.1.48
 
   '@stacksjs/queue@0.70.87':
     dependencies:
-      '@stacksjs/bun-queue': 0.1.1
+      '@stacksjs/bun-queue': 0.1.2
 
   '@stacksjs/realtime@0.70.87':
     dependencies:
@@ -2788,9 +2804,9 @@ snapshots:
   '@stacksjs/rpx@0.11.28':
     dependencies:
       '@stacksjs/clapp': 0.2.10
-      '@stacksjs/tlsx': 0.13.9
+      '@stacksjs/tlsx': 0.13.11
 
-  '@stacksjs/sanitizer@0.2.92': {}
+  '@stacksjs/sanitizer@0.2.95': {}
 
   '@stacksjs/scheduler@0.70.87': {}
 
@@ -2823,20 +2839,20 @@ snapshots:
 
   '@stacksjs/strings@0.70.87': {}
 
-  '@stacksjs/stx@0.2.92':
+  '@stacksjs/stx@0.2.95':
     dependencies:
-      '@cwcss/crosswind': 0.2.9
+      '@cwcss/crosswind': 0.2.10
       '@stacksjs/clapp': 0.2.10
-      '@stacksjs/sanitizer': 0.2.92
+      '@stacksjs/sanitizer': 0.2.95
       '@stacksjs/ts-i18n': 0.1.11
-      bun-plugin-stx: 0.2.92
+      bun-plugin-stx: 0.2.95
       bunfig: 0.15.14
-      stx-router: 0.2.92
-      ts-broadcasting: 0.0.5
-      ts-images: 0.1.9
-      ts-syntax-highlighter: 0.2.1
+      stx-router: 0.2.95
+      ts-broadcasting: 0.0.8
+      ts-images: 0.1.10
+      ts-syntax-highlighter: 0.2.4
     optionalDependencies:
-      '@stacksjs/desktop': 0.2.92
+      '@stacksjs/desktop': 0.2.95
     transitivePeerDependencies:
       - craft
 
@@ -2846,14 +2862,14 @@ snapshots:
 
   '@stacksjs/tinker@0.70.87': {}
 
-  '@stacksjs/tlsx@0.13.9':
+  '@stacksjs/tlsx@0.13.11':
     dependencies:
       '@stacksjs/clapp': 0.2.10
 
   '@stacksjs/ts-auth@0.4.3':
     dependencies:
       bunfig: 0.15.14
-      ts-rate-limiter: 0.4.2
+      ts-rate-limiter: 0.4.4
 
   '@stacksjs/ts-avif@0.1.2': {}
 
@@ -2895,10 +2911,10 @@ snapshots:
       '@stacksjs/clapp': 0.2.10
       '@stacksjs/ts-spell-check': 0.1.0
 
-  '@stacksjs/ts-spell-check-pickier@0.1.0(pickier@0.1.38)':
+  '@stacksjs/ts-spell-check-pickier@0.1.0(pickier@0.1.39)':
     dependencies:
       '@stacksjs/ts-spell-check': 0.1.0
-      pickier: 0.1.38
+      pickier: 0.1.39
 
   '@stacksjs/ts-spell-check@0.1.0': {}
 
@@ -2919,17 +2935,17 @@ snapshots:
 
   '@stacksjs/types@0.70.87':
     dependencies:
-      '@stacksjs/bunpress': 0.1.12
+      '@stacksjs/bunpress': 0.1.13
       '@stacksjs/clapp': 0.2.10
       '@stacksjs/ts-validation': 0.5.2
-      bun-query-builder: 0.1.47
+      bun-query-builder: 0.1.48
     transitivePeerDependencies:
       - craft
 
   '@stacksjs/ui@0.70.87':
     dependencies:
-      '@cwcss/crosswind': 0.2.9
-      '@stacksjs/components': 0.2.92
+      '@cwcss/crosswind': 0.2.10
+      '@stacksjs/components': 0.2.95
     transitivePeerDependencies:
       - craft
 
@@ -2957,54 +2973,54 @@ snapshots:
 
   '@stacksjs/x-ray@0.70.23': {}
 
-  '@ts-analytics/tracking@0.1.9':
+  '@ts-analytics/tracking@0.1.11':
     dependencies:
-      '@cwcss/crosswind': 0.2.9
-      '@stacksjs/bun-router': 0.0.17
-      '@stacksjs/components': 0.2.92
-      '@stacksjs/stx': 0.2.92
-      bun-plugin-stx: 0.2.92
-      bun-query-builder: 0.1.47
-      dynamodb-tooling: 0.3.4
+      '@cwcss/crosswind': 0.2.10
+      '@stacksjs/bun-router': 0.0.19
+      '@stacksjs/components': 0.2.95
+      '@stacksjs/stx': 0.2.95
+      bun-plugin-stx: 0.2.95
+      bun-query-builder: 0.1.48
+      dynamodb-tooling: 0.3.5
       ts-countries: 0.1.3
     transitivePeerDependencies:
       - craft
 
-  '@ts-charts/array@0.2.0':
+  '@ts-charts/array@0.2.2':
     dependencies:
-      '@ts-charts/internmap': 0.2.0
+      '@ts-charts/internmap': 0.2.2
 
-  '@ts-charts/color@0.2.0': {}
+  '@ts-charts/color@0.2.2': {}
 
-  '@ts-charts/format@0.2.0': {}
+  '@ts-charts/format@0.2.2': {}
 
-  '@ts-charts/internmap@0.2.0': {}
+  '@ts-charts/internmap@0.2.2': {}
 
-  '@ts-charts/interpolate@0.2.0':
+  '@ts-charts/interpolate@0.2.2':
     dependencies:
-      '@ts-charts/color': 0.2.0
+      '@ts-charts/color': 0.2.2
 
-  '@ts-charts/path@0.2.0': {}
+  '@ts-charts/path@0.2.2': {}
 
-  '@ts-charts/scale@0.2.0':
+  '@ts-charts/scale@0.2.2':
     dependencies:
-      '@ts-charts/array': 0.2.0
-      '@ts-charts/format': 0.2.0
-      '@ts-charts/interpolate': 0.2.0
-      '@ts-charts/time': 0.2.0
-      '@ts-charts/time-format': 0.2.0
+      '@ts-charts/array': 0.2.2
+      '@ts-charts/format': 0.2.2
+      '@ts-charts/interpolate': 0.2.2
+      '@ts-charts/time': 0.2.2
+      '@ts-charts/time-format': 0.2.2
 
-  '@ts-charts/shape@0.2.0':
+  '@ts-charts/shape@0.2.2':
     dependencies:
-      '@ts-charts/path': 0.2.0
+      '@ts-charts/path': 0.2.2
 
-  '@ts-charts/time-format@0.2.0':
+  '@ts-charts/time-format@0.2.2':
     dependencies:
-      '@ts-charts/time': 0.2.0
+      '@ts-charts/time': 0.2.2
 
-  '@ts-charts/time@0.2.0':
+  '@ts-charts/time@0.2.2':
     dependencies:
-      '@ts-charts/array': 0.2.0
+      '@ts-charts/array': 0.2.2
 
   '@ts-cloud/aws-types@0.7.18': {}
 
@@ -3021,9 +3037,9 @@ snapshots:
     dependencies:
       bun-types: 1.3.14
 
-  '@types/node@22.20.1':
+  '@types/node@26.1.1':
     dependencies:
-      undici-types: 6.21.0
+      undici-types: 8.3.0
 
   '@typescript/typescript-aix-ppc64@7.0.2':
     optional: true
@@ -3085,9 +3101,9 @@ snapshots:
   '@typescript/typescript-win32-x64@7.0.2':
     optional: true
 
-  '@valibot/to-json-schema@1.7.1(valibot@1.4.2(typescript@5.9.3))':
+  '@valibot/to-json-schema@1.7.1(valibot@1.4.2(typescript@7.0.2))':
     dependencies:
-      valibot: 1.4.2(typescript@5.9.3)
+      valibot: 1.4.2(typescript@7.0.2)
 
   acorn@8.17.0: {}
 
@@ -3104,61 +3120,61 @@ snapshots:
     dependencies:
       very-happy-dom: 0.1.4
 
-  better-dx@0.2.17:
+  better-dx@0.2.18:
     dependencies:
       '@stacksjs/bumpx': 0.2.6
-      '@stacksjs/bunpress': 0.1.12
+      '@stacksjs/bunpress': 0.1.13
       '@stacksjs/clapp': 0.2.10
       '@stacksjs/clarity': 0.3.28
       '@stacksjs/gitlint': 0.1.6
       '@stacksjs/logsmith': 0.2.3
       '@types/bun': 1.3.14
-      buddy-bot: 0.9.21
+      buddy-bot: 0.9.22
       bun-git-hooks: 0.3.2
-      bun-plugin-dtsx: 0.10.6
+      bun-plugin-dtsx: 0.10.8
       bunfig: 0.15.14
-      pickier: 0.1.38
-      ts-error-handling: 0.1.1
+      pickier: 0.1.39
+      ts-error-handling: 0.1.3
       typescript: 7.0.2
     transitivePeerDependencies:
       - craft
 
   birpc@4.0.0: {}
 
-  buddy-bot@0.9.21:
+  buddy-bot@0.9.22:
     dependencies:
       prompts: 2.4.2
-      ts-pantry: 0.10.11
+      ts-pantry: 0.10.12
 
   bun-git-hooks@0.3.2: {}
 
   bun-plugin-auto-imports@0.4.1: {}
 
-  bun-plugin-bunpress@0.1.12: {}
+  bun-plugin-bunpress@0.1.13: {}
 
-  bun-plugin-dtsx@0.10.6:
+  bun-plugin-dtsx@0.10.8:
     dependencies:
-      '@stacksjs/dtsx': 0.10.6
+      '@stacksjs/dtsx': 0.10.8
 
-  bun-plugin-stx@0.2.92:
+  bun-plugin-stx@0.2.95:
     dependencies:
-      '@stacksjs/stx': 0.2.92
-      stx-router: 0.2.92
+      '@stacksjs/stx': 0.2.95
+      stx-router: 0.2.95
     transitivePeerDependencies:
       - craft
 
   bun-plugin-unocss@0.1.3: {}
 
-  bun-query-builder@0.1.47:
+  bun-query-builder@0.1.48:
     dependencies:
       '@stacksjs/clapp': 0.2.10
       '@stacksjs/ts-faker': 0.1.8
       '@stacksjs/ts-validation': 0.5.2
-      dynamodb-tooling: 0.3.4
+      dynamodb-tooling: 0.3.5
 
   bun-types@1.3.14:
     dependencies:
-      '@types/node': 22.20.1
+      '@types/node': 26.1.1
 
   bundle-name@4.1.0:
     dependencies:
@@ -3183,7 +3199,7 @@ snapshots:
 
   cookie-es@1.2.3: {}
 
-  create-stx@0.2.92: {}
+  create-stx@0.2.95: {}
 
   crossws@0.3.5:
     dependencies:
@@ -3204,16 +3220,16 @@ snapshots:
 
   destr@2.0.5: {}
 
-  devframe@0.5.4(typescript@5.9.3):
+  devframe@0.5.4(typescript@7.0.2):
     dependencies:
-      '@valibot/to-json-schema': 1.7.1(valibot@1.4.2(typescript@5.9.3))
+      '@valibot/to-json-schema': 1.7.1(valibot@1.4.2(typescript@7.0.2))
       birpc: 4.0.0
       cac: 7.0.0
       h3: 2.0.1-rc.22
       mrmime: 2.0.1
       nostics: 0.2.0
       pathe: 2.0.3
-      valibot: 1.4.2(typescript@5.9.3)
+      valibot: 1.4.2(typescript@7.0.2)
       ws: 8.21.1
     transitivePeerDependencies:
       - '@farmfe/core'
@@ -3230,7 +3246,7 @@ snapshots:
       - vite
       - webpack
 
-  dynamodb-tooling@0.3.4: {}
+  dynamodb-tooling@0.3.5: {}
 
   exsolve@1.1.0: {}
 
@@ -3330,11 +3346,11 @@ snapshots:
 
   node-mock-http@1.0.4: {}
 
-  node-modules-inspector@2.1.3(typescript@5.9.3):
+  node-modules-inspector@2.1.3(typescript@7.0.2):
     dependencies:
       ansis: 4.3.1
       cac: 7.0.0
-      devframe: 0.5.4(typescript@5.9.3)
+      devframe: 0.5.4(typescript@7.0.2)
       fast-npm-meta: 1.5.1
       get-port-please: 3.2.0
       h3: 1.15.11
@@ -3464,7 +3480,7 @@ snapshots:
 
   pathe@2.0.3: {}
 
-  pickier@0.1.38:
+  pickier@0.1.39:
     dependencies:
       '@stacksjs/clapp': 0.2.10
       '@stacksjs/clarity': 0.3.28
@@ -3489,7 +3505,7 @@ snapshots:
       exsolve: 1.1.0
       pathe: 2.0.3
 
-  pnpm@10.34.5: {}
+  pnpm@11.13.0: {}
 
   powershell-utils@0.1.0: {}
 
@@ -3531,7 +3547,7 @@ snapshots:
 
   structured-clone-es@2.0.0: {}
 
-  stx-router@0.2.92: {}
+  stx-router@0.2.95: {}
 
   tinyexec@1.2.4: {}
 
@@ -3542,19 +3558,21 @@ snapshots:
 
   ts-broadcasting@0.0.5: {}
 
-  ts-clone@0.1.1: {}
+  ts-broadcasting@0.0.8: {}
 
-  ts-collect@0.4.0: {}
+  ts-clone@0.1.3: {}
+
+  ts-collect@0.4.2: {}
 
   ts-countries@0.1.3: {}
 
-  ts-error-handling@0.1.1: {}
+  ts-error-handling@0.1.3: {}
 
   ts-gif@0.1.2:
     dependencies:
       data-uri-to-buffer: 6.0.2
 
-  ts-images@0.1.9:
+  ts-images@0.1.10:
     dependencies:
       '@stacksjs/ts-avif': 0.1.2
       '@stacksjs/ts-bmp': 0.1.0
@@ -3564,13 +3582,13 @@ snapshots:
       ts-gif: 0.1.2
       ts-jpeg: 0.3.3
 
-  ts-inputs@0.1.7: {}
+  ts-inputs@0.1.10: {}
 
   ts-jpeg@0.3.3: {}
 
   ts-maps@0.2.7: {}
 
-  ts-medium-editor@0.1.2: {}
+  ts-medium-editor@0.1.4: {}
 
   ts-ndarray@0.1.5:
     dependencies:
@@ -3578,17 +3596,17 @@ snapshots:
       ts-gif: 0.1.2
       ts-jpeg: 0.3.3
 
-  ts-numbers@0.1.0: {}
+  ts-numbers@0.1.4: {}
 
-  ts-pantry@0.10.11:
+  ts-pantry@0.10.12:
     dependencies:
       '@stacksjs/ts-cloud': 0.7.18
       bunfig: 0.15.14
-      ts-web-scraper: 0.1.1
+      ts-web-scraper: 0.1.3
 
-  ts-printers@0.1.0: {}
+  ts-printers@0.1.2: {}
 
-  ts-rate-limiter@0.4.2: {}
+  ts-rate-limiter@0.4.4: {}
 
   ts-security-crypto@0.0.2: {}
 
@@ -3598,22 +3616,22 @@ snapshots:
     dependencies:
       ts-security-utils: 0.0.2
 
-  ts-slug@0.1.0: {}
+  ts-slug@0.1.2: {}
 
   ts-spreadsheets@0.2.0: {}
 
-  ts-syntax-highlighter@0.2.1: {}
+  ts-syntax-highlighter@0.2.4: {}
 
-  ts-vat@0.1.1: {}
+  ts-vat@0.1.6: {}
 
-  ts-web-scraper@0.1.1: {}
+  ts-web-scraper@0.1.3:
+    dependencies:
+      bunfig: 0.15.14
 
   tslib@2.8.1:
     optional: true
 
   type-level-regexp@0.1.17: {}
-
-  typescript@5.9.3: {}
 
   typescript@7.0.2:
     optionalDependencies:
@@ -3655,7 +3673,7 @@ snapshots:
 
   uncrypto@0.1.3: {}
 
-  undici-types@6.21.0: {}
+  undici-types@8.3.0: {}
 
   unplugin@3.3.0:
     dependencies:
@@ -3674,9 +3692,9 @@ snapshots:
       ofetch: 1.5.1
       ufo: 1.6.4
 
-  valibot@1.4.2(typescript@5.9.3):
+  valibot@1.4.2(typescript@7.0.2):
     optionalDependencies:
-      typescript: 5.9.3
+      typescript: 7.0.2
 
   very-happy-dom@0.1.4: {}
 

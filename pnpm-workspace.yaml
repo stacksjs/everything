@@ -1,5 +1,9 @@
 packages: []
 
+# This app exists to showcase our newest packages, so the 24h supply-chain
+# quarantine pnpm 11 applies by default would pin us to stale versions.
+minimumReleaseAge: 0
+
 catalogs:
   framework:
     '@stacksjs/actions': ^0.70.87
@@ -81,11 +85,11 @@ catalogs:
     '@stacksjs/clarity': ^0.3.28
     '@stacksjs/desktop': ^0.2.90
     '@stacksjs/dnsx': ^0.2.3
-    '@stacksjs/dtsx': ^0.10.6
-    '@stacksjs/httx': ^0.1.10
+    '@stacksjs/dtsx': ^0.10.8
+    '@stacksjs/httx': ^0.1.11
     '@stacksjs/qrx': ^0.1.0
     '@stacksjs/rpx': ^0.11.28
-    '@stacksjs/tlsx': ^0.13.9
+    '@stacksjs/tlsx': ^0.13.11
     '@stacksjs/ts-auth': ^0.4.3
     '@stacksjs/ts-avif': ^0.1.2
     '@stacksjs/ts-bmp': ^0.1.0
@@ -100,38 +104,38 @@ catalogs:
     '@stacksjs/ts-validation': ^0.5.2
     '@stacksjs/ts-webp': ^0.1.1
     '@stacksjs/ts-xml': ^0.1.0
-    '@stacksjs/bun-router': ^0.0.17
-    '@stacksjs/bun-queue': ^0.1.1
+    '@stacksjs/bun-router': ^0.0.19
+    '@stacksjs/bun-queue': ^0.1.2
     '@ts-cloud/core': ^0.7.18
     '@ts-cloud/aws-types': ^0.7.18
-    '@ts-analytics/tracking': ^0.1.9
-    '@cwcss/crosswind': ^0.2.9
+    '@ts-analytics/tracking': ^0.1.10
+    '@cwcss/crosswind': ^0.2.10
     localtunnels: ^0.2.7
-    ts-collect: ^0.4.0
+    ts-collect: ^0.4.2
     ts-gif: ^0.1.2
     ts-ndarray: ^0.1.5
     ts-spreadsheets: ^0.2.0
-    ts-clone: ^0.1.1
+    ts-clone: ^0.1.3
     ts-countries: ^0.1.3
-    ts-error-handling: ^0.1.1
-    ts-images: ^0.1.9
-    ts-inputs: ^0.1.7
+    ts-error-handling: ^0.1.3
+    ts-images: ^0.1.10
+    ts-inputs: ^0.1.10
     ts-jpeg: ^0.3.3
     ts-maps: ^0.2.7
-    ts-medium-editor: ^0.1.2
-    ts-numbers: ^0.1.0
-    ts-printers: ^0.1.0
-    ts-rate-limiter: ^0.4.2
+    ts-medium-editor: ^0.1.4
+    ts-numbers: ^0.1.4
+    ts-printers: ^0.1.2
+    ts-rate-limiter: ^0.4.4
     ts-security: ^0.0.2
-    ts-slug: ^0.1.0
-    ts-syntax-highlighter: ^0.2.1
-    ts-vat: ^0.1.1
-    ts-web-scraper: ^0.1.1
-    ts-broadcasting: ^0.0.5
+    ts-slug: ^0.1.2
+    ts-syntax-highlighter: ^0.2.4
+    ts-vat: ^0.1.6
+    ts-web-scraper: ^0.1.3
+    ts-broadcasting: ^0.0.8
   tools:
-    ts-pantry: ^0.10.11
+    ts-pantry: ^0.10.12
     '@stacksjs/bumpx': ^0.2.6
-    '@stacksjs/bunpress': ^0.1.12
+    '@stacksjs/bunpress': ^0.1.13
     '@stacksjs/clapp': ^0.2.10
     '@stacksjs/gitit': ^0.2.5
     '@stacksjs/gitlint': ^0.1.6
@@ -140,32 +144,32 @@ catalogs:
     '@stacksjs/ts-spell-check-cli': ^0.1.0
     '@stacksjs/ts-spell-check-pickier': ^0.1.0
     besting: ^0.0.11
-    better-dx: ^0.2.17
-    bun-query-builder: ^0.1.47
+    better-dx: ^0.2.18
+    bun-query-builder: ^0.1.48
     bunfig: ^0.15.14
-    pickier: ^0.1.38
+    pickier: ^0.1.39
     very-happy-dom: ^0.1.4
   bun:
     bun-git-hooks: ^0.3.2
     bun-plugin-auto-imports: ^0.4.1
-    bun-plugin-bunpress: ^0.1.12
-    bun-plugin-dtsx: ^0.10.6
+    bun-plugin-bunpress: ^0.1.13
+    bun-plugin-dtsx: ^0.10.8
     bun-plugin-unocss: ^0.1.3
   stx:
-    '@stacksjs/stx': ^0.2.92
-    '@stacksjs/sanitizer': ^0.2.90
-    '@stacksjs/components': ^0.2.90
-    '@stacksjs/iconify-core': ^0.2.90
-    '@stacksjs/iconify-generator': ^0.2.90
-    bun-plugin-stx: ^0.2.90
-    create-stx: ^0.2.90
-    stx-router: ^0.2.90
+    '@stacksjs/stx': ^0.2.94
+    '@stacksjs/sanitizer': ^0.2.94
+    '@stacksjs/components': ^0.2.94
+    '@stacksjs/iconify-core': ^0.2.94
+    '@stacksjs/iconify-generator': ^0.2.94
+    bun-plugin-stx: ^0.2.94
+    create-stx: ^0.2.94
+    stx-router: ^0.2.94
   dev:
-    '@types/node': ^22.20.1
+    '@types/node': ^26.1.1
     netlify-plugin-cache: ^1.0.3
     node-modules-inspector: ^2.1.3
-    pnpm: ^10.34.5
-    typescript: ^5.9.3
+    pnpm: ^11.13.0
+    typescript: ^7.0.2
 
 onlyBuiltDependencies:
   - '@parcel/watcher'
