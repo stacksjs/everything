@@ -22,6 +22,10 @@ jobs:
           node-version: lts/*
           cache: pnpm
 
+      # This project is Bun-based (postinstall runs `bunx git-hooks`, lint
+      # runs `bunx pickier`), so CI needs Bun as well as node/pnpm.
+      - uses: oven-sh/setup-bun@v2
+
       # Call pnpm directly instead of installing @antfu/ni globally: the
       # global bin dir that pnpm/action-setup configures is not on PATH, so
       # `pnpm i -g` errors out — this failed CI on every push.
