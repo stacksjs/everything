@@ -141,10 +141,8 @@ catalogs:
     '@stacksjs/ts-spell-check': ^0.1.0
     '@stacksjs/ts-spell-check-cli': ^0.1.0
     '@stacksjs/ts-spell-check-pickier': ^0.1.0
-    action-releaser: ^1.2.9
     besting: ^0.0.11
     better-dx: ^0.2.17
-    buddy-bot: ^0.9.20
     bun-query-builder: ^0.1.47
     bunfig: ^0.15.14
     pickier: ^0.1.38
@@ -153,7 +151,6 @@ catalogs:
     bun-git-hooks: ^0.3.2
     bun-plugin-auto-imports: ^0.4.1
     bun-plugin-bunpress: ^0.1.12
-    bun-plugin-dotenvx: ^0.6.4
     bun-plugin-dtsx: ^0.10.6
     bun-plugin-unocss: ^0.1.3
   stx:
