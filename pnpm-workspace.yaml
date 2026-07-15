@@ -106,8 +106,6 @@ catalogs:
     '@ts-cloud/aws-types': ^0.7.18
     '@ts-analytics/tracking': ^0.1.9
     '@cwcss/crosswind': ^0.2.9
-    jpgx: ^0.2.0
-    pngx: ^0.1.1
     localtunnels: ^0.2.7
     ts-collect: ^0.4.0
     ts-gif: ^0.1.2

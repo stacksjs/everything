@@ -348,15 +348,9 @@ catalogs:
     '@ts-cloud/core':
       specifier: ^0.7.18
       version: 0.7.18
-    jpgx:
-      specifier: ^0.2.0
-      version: 0.2.0
     localtunnels:
       specifier: ^0.2.7
       version: 0.2.7
-    pngx:
-      specifier: ^0.1.1
-      version: 0.1.1
     ts-broadcasting:
       specifier: ^0.0.5
       version: 0.0.5
@@ -883,18 +877,12 @@ importers:
       create-stx:
         specifier: catalog:stx
         version: 0.2.92
-      jpgx:
-        specifier: catalog:libraries
-        version: 0.2.0
       localtunnels:
         specifier: catalog:libraries
         version: 0.2.7
       pickier:
         specifier: catalog:tools
         version: 0.1.38
-      pngx:
-        specifier: catalog:libraries
-        version: 0.1.1
       stx-router:
         specifier: catalog:stx
         version: 0.2.92
@@ -2037,9 +2025,6 @@ packages:
 
   pkg-types@2.3.1:
     resolution: {integrity: sha512-y+ichcgc2LrADuhLNAx8DFjVfgz91pRxfZdI3UDhxHvcVEZsenLO+7XaU5vOp0u/7V/wZ+plyuQxtrDlZJ+yeg==}
-
-  pngx@0.1.1:
-    resolution: {integrity: sha512-4cl6uf/MQ+aTv38SirI6/X8QJfKjQPlL/jO3cGlO2lc2pbf+RXV7ti/JGFYTSO0xtgLWfW6K0P7JVJUmRpwihA==}
 
   pnpm@10.34.5:
     resolution: {integrity: sha512-pO4F8vc2WCVb1qiYWcBlpFwopX2u+uLIk6Fo7itzFow3uR6D5X6mdlStA/AwMXRkMOi84442LgQmBfuKvIAZLg==}
@@ -3508,8 +3493,6 @@ snapshots:
       confbox: 0.2.4
       exsolve: 1.1.0
       pathe: 2.0.3
-
-  pngx@0.1.1: {}
 
   pnpm@10.34.5: {}
 
