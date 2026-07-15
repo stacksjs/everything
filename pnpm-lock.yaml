@@ -325,8 +325,8 @@ catalogs:
       specifier: ^0.1.1
       version: 0.1.1
     '@stacksjs/ts-png':
-      specifier: ^0.1.2
-      version: 0.1.2
+      specifier: ^0.1.7
+      version: 0.1.7
     '@stacksjs/ts-svg':
       specifier: ^0.1.1
       version: 0.1.1
@@ -376,8 +376,8 @@ catalogs:
       specifier: ^0.1.7
       version: 0.1.7
     ts-jpeg:
-      specifier: ^0.3.1
-      version: 0.3.1
+      specifier: ^0.3.3
+      version: 0.3.3
     ts-maps:
       specifier: ^0.2.7
       version: 0.2.7
@@ -385,8 +385,8 @@ catalogs:
       specifier: ^0.1.2
       version: 0.1.2
     ts-ndarray:
-      specifier: ^0.1.0
-      version: 0.1.0
+      specifier: ^0.1.5
+      version: 0.1.5
     ts-numbers:
       specifier: ^0.1.0
       version: 0.1.0
@@ -792,7 +792,7 @@ importers:
         version: 0.1.1
       '@stacksjs/ts-png':
         specifier: catalog:libraries
-        version: 0.1.2
+        version: 0.1.7
       '@stacksjs/ts-spell-check':
         specifier: catalog:tools
         version: 0.1.0
@@ -912,7 +912,7 @@ importers:
         version: 0.1.7
       ts-jpeg:
         specifier: catalog:libraries
-        version: 0.3.1
+        version: 0.3.3
       ts-maps:
         specifier: catalog:libraries
         version: 0.2.7
@@ -921,7 +921,7 @@ importers:
         version: 0.1.2
       ts-ndarray:
         specifier: catalog:libraries
-        version: 0.1.0
+        version: 0.1.5
       ts-numbers:
         specifier: catalog:libraries
         version: 0.1.0
@@ -1498,8 +1498,8 @@ packages:
     resolution: {integrity: sha512-kvsSg7S3vHq65fnHIRggTLudN4n1sjkos86xLB62V6PVRa8iosYAmFKVDTGaJk+0MdsIoRwQbJ2vLWVcNQsgGw==}
     hasBin: true
 
-  '@stacksjs/ts-png@0.1.2':
-    resolution: {integrity: sha512-NT9AVCAlZiOMzcBH+OlAAUAbfTzakm/6Ibp5S31JInrpTDd+Qe3arEfatPLuMasFR9tyO+NMAFsF84MT6TK1vA==}
+  '@stacksjs/ts-png@0.1.7':
+    resolution: {integrity: sha512-ZMYPpbt6kL1HlhazwoRMUer9e24sPA6KgK6wZEAHp/+XgPbOdtTSXJn4n0JPW/pI3AChqx1+85zyZujj4Yh4tg==}
 
   '@stacksjs/ts-spell-check-cli@0.1.0':
     resolution: {integrity: sha512-BnupVeabJlF/F94zo/IbZrlYUOCPXIPlpJeZYuvTTZT+Y1p0f4d8OlnF0P+lz1+T3A9tBUkqqBeNaOfo8NggBw==}
@@ -1919,9 +1919,6 @@ packages:
     resolution: {integrity: sha512-AC/7JofJvZGrrneWNaEnJeOLUx+JlGt7tNa0wZiRPT4MY1wmfKjt2+6O2p2uz2+skll8OZZmJMNqeke7kKbNgQ==}
     hasBin: true
 
-  jpgx@0.2.0:
-    resolution: {integrity: sha512-OuRQwEAPOU8q7icWRmPyBP29W8NLGDwRcad+9H3ALVdjFOGi2AErsafzAhpqC3TjUZe7dK8aZ20lkCxrksqwCw==}
-
   js-yaml@4.3.0:
     resolution: {integrity: sha512-1td788aAnnZ5qs7V2QIRl1owjtYpbKt749Y3xauqQgwIIGF/xXWz1wMTEBx5O3LK3lXLVuqXPdPxj2BoFHaW9Q==}
     hasBin: true
@@ -2126,8 +2123,8 @@ packages:
   ts-inputs@0.1.7:
     resolution: {integrity: sha512-fXIBoMJVCLmTtdUyJPaxqyDQKot84LKuAv1X3EQH+yb1P0/C7ZwiGYV9UQpJwVeMoQkGNuBghz1OfSQsQQZfyQ==}
 
-  ts-jpeg@0.3.1:
-    resolution: {integrity: sha512-KIGTJj4UIlkGoCFEofx8jHHQEkJfSLFJY0MHz60Mu4Scjrcj7K/0UJGCbL9QvfIaFGAOGdf0xNFpYSuzUpimwA==}
+  ts-jpeg@0.3.3:
+    resolution: {integrity: sha512-ljEieWg5ZqvqfKk4dyW4By+ii4Nd4j8IC6b87flOruQfP8oPbI5+3C3q3IUeT0aLiVRipRPWAZexg92zcIy9yQ==}
 
   ts-maps@0.2.7:
     resolution: {integrity: sha512-Acfyp2TfHqrycAS+fy09t/XjPdcnY3cIjdSxRCaeI41HBANGrIQZ0I0/cL+nVRtgLg0cK3Hw0pkRoZIT6hW6sw==}
@@ -2135,8 +2132,8 @@ packages:
   ts-medium-editor@0.1.2:
     resolution: {integrity: sha512-q4jUFtgjP+gj2fjVsT2v/A5VUIMTANDmjAWJDdhWPbLnY6qop/BvpFoqwF0NS8aZWDCxeT+8SDQvBO4t7pd1jg==}
 
-  ts-ndarray@0.1.0:
-    resolution: {integrity: sha512-bDkGRKDz666AQeE+GwOOVOoBXNV+Q9ka8J6SlXfpX3JYkBK6/zaOPZUeCIFSRyzCL4oAbZLBEZi1W99qaF9ZfA==}
+  ts-ndarray@0.1.5:
+    resolution: {integrity: sha512-mIcOrZ7FfYwn7PUDU6Sfd+EIeKC6UNNrtALVHQw3mm8QkfNds2scJvmGZeOvm49Wf6OCM+TS8tiSHTbzWQSbrg==}
 
   ts-numbers@0.1.0:
     resolution: {integrity: sha512-lJw/zvH+bbU63DxhljKbxanPSIDbLRLXeUgiEMtB0N43+6gXMF9nS9YYi1YtdHixokdhpx76bKDyaEg69xXCHg==}
@@ -2891,7 +2888,7 @@ snapshots:
 
   '@stacksjs/ts-md@0.1.1': {}
 
-  '@stacksjs/ts-png@0.1.2': {}
+  '@stacksjs/ts-png@0.1.7': {}
 
   '@stacksjs/ts-spell-check-cli@0.1.0':
     dependencies:
@@ -2908,7 +2905,7 @@ snapshots:
   '@stacksjs/ts-svg@0.1.1':
     dependencies:
       '@stacksjs/ts-css': 0.1.0
-      '@stacksjs/ts-png': 0.1.2
+      '@stacksjs/ts-png': 0.1.7
 
   '@stacksjs/ts-validation@0.5.2': {}
 
@@ -3278,8 +3275,6 @@ snapshots:
 
   jiti@2.7.0: {}
 
-  jpgx@0.2.0: {}
-
   js-yaml@4.3.0:
     dependencies:
       argparse: 2.0.1
@@ -3563,25 +3558,25 @@ snapshots:
     dependencies:
       '@stacksjs/ts-avif': 0.1.2
       '@stacksjs/ts-bmp': 0.1.0
-      '@stacksjs/ts-png': 0.1.2
+      '@stacksjs/ts-png': 0.1.7
       '@stacksjs/ts-svg': 0.1.1
       '@stacksjs/ts-webp': 0.1.1
       ts-gif: 0.1.2
-      ts-jpeg: 0.3.1
+      ts-jpeg: 0.3.3
 
   ts-inputs@0.1.7: {}
 
-  ts-jpeg@0.3.1: {}
+  ts-jpeg@0.3.3: {}
 
   ts-maps@0.2.7: {}
 
   ts-medium-editor@0.1.2: {}
 
-  ts-ndarray@0.1.0:
+  ts-ndarray@0.1.5:
     dependencies:
       data-uri-to-buffer: 6.0.2
-      jpgx: 0.2.0
       ts-gif: 0.1.2
+      ts-jpeg: 0.3.3
 
   ts-numbers@0.1.0: {}
 
