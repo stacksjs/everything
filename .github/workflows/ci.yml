@@ -22,6 +22,8 @@ jobs:
           node-version: lts/*
           cache: pnpm
 
-      - run: pnpm i -g @antfu/ni
-      - run: nci
-      - run: nr lint
+      # Call pnpm directly instead of installing @antfu/ni globally: the
+      # global bin dir that pnpm/action-setup configures is not on PATH, so
+      # `pnpm i -g` errors out — this failed CI on every push.
+      - run: pnpm install --frozen-lockfile
+      - run: pnpm run lint

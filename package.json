@@ -2,6 +2,7 @@
   "name": "@stacksjs/everything",
   "type": "module",
   "version": "0.0.0",
+  "private": true,
   "packageManager": "pnpm@11.13.0",
   "description": "Every package created & maintained by the Stacks Team.",
   "author": "Chris Breuer <chris@stacksjs.org>",
@@ -23,8 +24,9 @@
     "lint:fix": "bunx --bun pickier . --fix",
     "format": "bunx --bun pickier . --format",
     "format:fix": "bunx --bun pickier . --format --write",
-    "release": "bumpp && pnpm publish",
-    "postinstall": "bunx git-hooks"
+    "release": "bunx --bun bumpx prompt",
+    "postinstall": "bunx git-hooks",
+    "release:patch": "bunx --bun bumpx patch --commit --tag --push --yes"
   },
   "dependencies": {
     "@cwcss/crosswind": "catalog:libraries",
