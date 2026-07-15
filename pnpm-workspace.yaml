@@ -171,36 +171,3 @@ catalogs:
     pnpm: ^11.13.0
     typescript: ^7.0.2
 
-onlyBuiltDependencies:
-  - '@parcel/watcher'
-  - esbuild
-  - sharp
-  - simple-git-hooks
-  - bun-git-hooks
-  - '@stacksjs/clarity'
-  - '@stacksjs/dnsx'
-  - '@stacksjs/gitit'
-  - '@stacksjs/gitlint'
-  - '@stacksjs/ts-auth'
-  - '@stacksjs/ts-avif'
-  - '@stacksjs/ts-bmp'
-  - '@stacksjs/ts-css'
-  - '@stacksjs/ts-md'
-  - '@stacksjs/ts-png'
-  - '@stacksjs/ts-svg'
-  - '@stacksjs/ts-webp'
-  - '@stacksjs/ts-xml'
-  - bun-plugin-auto-imports
-  - dynamodb-tooling
-  - ts-clone
-  - ts-collect
-  - ts-countries
-  - ts-jpeg
-  - ts-medium-editor
-  - ts-ndarray
-  - ts-numbers
-  - ts-printers
-  - ts-rate-limiter
-  - ts-slug
-  - ts-vat
-  - very-happy-dom

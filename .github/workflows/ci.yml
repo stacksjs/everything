@@ -29,5 +29,11 @@ jobs:
       # Call pnpm directly instead of installing @antfu/ni globally: the
       # global bin dir that pnpm/action-setup configures is not on PATH, so
       # `pnpm i -g` errors out — this failed CI on every push.
-      - run: pnpm install --frozen-lockfile
+      #
+      # --ignore-scripts: this app only reads node_modules to render the
+      # dependency graph, so no dependency build script is needed. pnpm
+      # otherwise fails with ERR_PNPM_IGNORED_BUILDS, and approving them is
+      # worse — several of our packages ship a dev-only `postinstall: bunx
+      # git-hooks` that errors on a consumer install.
+      - run: pnpm install --frozen-lockfile --ignore-scripts
       - run: pnpm run lint
