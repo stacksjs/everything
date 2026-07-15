@@ -22,9 +22,12 @@ jobs:
           node-version: lts/*
           cache: pnpm
 
-      # This project is Bun-based (postinstall runs `bunx git-hooks`, lint
-      # runs `bunx pickier`), so CI needs Bun as well as node/pnpm.
-      - uses: oven-sh/setup-bun@v2
+      # This project is Bun-based (lint runs `bunx pickier`), and bun is
+      # declared in deps.yaml. Setup Pantry reads that and puts bun + bunx
+      # on PATH, so the toolchain comes from one place rather than a
+      # separate setup-bun action.
+      - name: Setup Pantry
+        uses: home-lang/pantry/packages/action@main
 
       # Call pnpm directly instead of installing @antfu/ni globally: the
       # global bin dir that pnpm/action-setup configures is not on PATH, so
