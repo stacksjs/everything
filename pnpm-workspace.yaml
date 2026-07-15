@@ -165,7 +165,7 @@ catalogs:
     netlify-plugin-cache: ^1.0.3
     node-modules-inspector: ^2.1.3
     pnpm: ^10.34.5
-    typescript: ^5.9.3
+    typescript: ^7.0.2
 
 onlyBuiltDependencies:
   - '@parcel/watcher'
