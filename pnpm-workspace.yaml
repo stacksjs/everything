@@ -154,7 +154,7 @@ catalogs:
     bun-plugin-dtsx: ^0.10.6
     bun-plugin-unocss: ^0.1.3
   stx:
-    '@stacksjs/stx': ^0.2.91
+    '@stacksjs/stx': ^0.2.92
     '@stacksjs/sanitizer': ^0.2.90
     '@stacksjs/components': ^0.2.90
     '@stacksjs/iconify-core': ^0.2.90
