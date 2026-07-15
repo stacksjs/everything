@@ -166,7 +166,7 @@ catalogs:
     create-stx: ^0.2.90
     stx-router: ^0.2.90
   dev:
-    '@types/node': ^22.20.1
+    '@types/node': ^24.13.3
     netlify-plugin-cache: ^1.0.3
     node-modules-inspector: ^2.1.3
     pnpm: ^10.34.5
