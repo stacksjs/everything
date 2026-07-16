@@ -88,8 +88,9 @@ const config: CloudConfig = {
       // and every package-manager shim in .bin execs `node`. Without a real
       // node on PATH that call fails, resolveRoot silently falls back, and the
       // build emits an EMPTY graph (7KB payload, blank site) while still
-      // reporting success — so keep pantry's node ahead of everything.
-      build: 'PATH="$PWD/pantry/.bin:$HOME/.local/share/pantry/global/packages/nodejs.org/v26/bin:$PATH" bun run build',
+      // reporting success. pantry/.bin comes from deps.yaml (bun + node), so
+      // the toolchain is declared rather than assumed from the host.
+      build: 'PATH="$PWD/pantry/.bin:$PATH" bun run build',
       // node-modules-inspector is a client-rendered Nuxt SPA — fall back to
       // index.html for deep links.
       spa: true,

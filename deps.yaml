@@ -1,2 +1,7 @@
 dependencies:
   bun: ^1.3.14
+  # Pinned, not ^26: pkgx's node 26.5.0 dynamically links openssl 1.1, which
+  # they no longer distribute (their CDN only serves 3.6+), so it installs but
+  # dies with "Library not loaded: libcrypto.dylib". 26.4.0 links openssl
+  # statically and works standalone.
+  nodejs.org: ~26.4.0
