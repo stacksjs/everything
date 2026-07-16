@@ -83,7 +83,13 @@ const config: CloudConfig = {
       domain: 'everything.stacksjs.com',
       // Rebuilds the inspector before packaging. `bun run` puts node_modules/.bin
       // on PATH, so node-modules-inspector resolves without a global install.
-      build: 'bun run build',
+      //
+      // node-modules-tools shells out to `<pm> root` to locate node_modules,
+      // and every package-manager shim in .bin execs `node`. Without a real
+      // node on PATH that call fails, resolveRoot silently falls back, and the
+      // build emits an EMPTY graph (7KB payload, blank site) while still
+      // reporting success — so keep pantry's node ahead of everything.
+      build: 'PATH="$PWD/pantry/.bin:$HOME/.local/share/pantry/global/packages/nodejs.org/v26/bin:$PATH" bun run build',
       // node-modules-inspector is a client-rendered Nuxt SPA — fall back to
       // index.html for deep links.
       spa: true,

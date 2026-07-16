@@ -168,6 +168,6 @@ catalogs:
     '@types/node': ^26.1.1
     netlify-plugin-cache: ^1.0.3
     node-modules-inspector: ^2.1.3
-    pnpm: ^11.13.0
+    pnpm: ^10.34.5
     typescript: ^7.0.2
 
