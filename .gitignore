@@ -17,3 +17,8 @@ temp
 !.env.example
 /pantry
 /.ts-cloud
+
+# Machine-local ts-cloud deploy state (pinned server id, dashboard auth).
+# Never commit it: a stale serverId in git points every clone at whatever
+# Hetzner server has since taken that id.
+/storage/cloud/

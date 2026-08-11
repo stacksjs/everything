@@ -94,7 +94,7 @@ catalogs:
     '@stacksjs/ts-avif': ^0.1.2
     '@stacksjs/ts-bmp': ^0.1.0
     '@stacksjs/ts-cache': ^0.1.4
-    '@stacksjs/ts-cloud': ^0.7.18
+    '@stacksjs/ts-cloud': ^0.7.111
     '@stacksjs/ts-css': ^0.1.0
     '@stacksjs/ts-datetime': ^0.1.2
     '@stacksjs/ts-faker': ^0.1.8
@@ -106,8 +106,8 @@ catalogs:
     '@stacksjs/ts-xml': ^0.1.0
     '@stacksjs/bun-router': ^0.0.19
     '@stacksjs/bun-queue': ^0.1.2
-    '@ts-cloud/core': ^0.7.18
-    '@ts-cloud/aws-types': ^0.7.18
+    '@ts-cloud/core': ^0.7.111
+    '@ts-cloud/aws-types': ^0.7.111
     '@ts-analytics/tracking': ^0.1.10
     '@cwcss/crosswind': ^0.2.10
     localtunnels: ^0.2.7

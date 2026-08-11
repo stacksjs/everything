@@ -310,8 +310,8 @@ catalogs:
       specifier: ^0.1.4
       version: 0.1.4
     '@stacksjs/ts-cloud':
-      specifier: ^0.7.18
-      version: 0.7.18
+      specifier: ^0.7.111
+      version: 0.7.111
     '@stacksjs/ts-css':
       specifier: ^0.1.0
       version: 0.1.0
@@ -343,11 +343,11 @@ catalogs:
       specifier: ^0.1.10
       version: 0.1.11
     '@ts-cloud/aws-types':
-      specifier: ^0.7.18
-      version: 0.7.18
+      specifier: ^0.7.111
+      version: 0.7.111
     '@ts-cloud/core':
-      specifier: ^0.7.18
-      version: 0.7.18
+      specifier: ^0.7.111
+      version: 0.7.111
     localtunnels:
       specifier: ^0.2.7
       version: 0.2.7
@@ -777,7 +777,7 @@ importers:
         version: 0.1.4
       '@stacksjs/ts-cloud':
         specifier: catalog:libraries
-        version: 0.7.18
+        version: 0.7.111
       '@stacksjs/ts-css':
         specifier: catalog:libraries
         version: 0.1.0
@@ -840,10 +840,10 @@ importers:
         version: 0.1.11
       '@ts-cloud/aws-types':
         specifier: catalog:libraries
-        version: 0.7.18
+        version: 0.7.111
       '@ts-cloud/core':
         specifier: catalog:libraries
-        version: 0.7.18
+        version: 0.7.111
       besting:
         specifier: catalog:tools
         version: 0.0.11
@@ -1479,8 +1479,8 @@ packages:
     resolution: {integrity: sha512-ABSWu0Re/vzIW9yXmUPJGpkkw7tV0dObjIfyjl3s0yrWBhnq3jBda6h0X8NEQPXhVk+vwkkbg+Uy0mN8AG/z2w==}
     hasBin: true
 
-  '@stacksjs/ts-cloud@0.7.18':
-    resolution: {integrity: sha512-u5ngAS7W3nR0yo9bzeUbPGnRYpZXIPu+8jZkaTV3EBDDfdHWmKUR9wC+OdqCNH28qrFeL3s/i1sSqa/Rf8jpQA==}
+  '@stacksjs/ts-cloud@0.7.111':
+    resolution: {integrity: sha512-6MxlxHnz/EFB7u/zLXf9JaGdMib8ySdECTUbIEhecX+8iQq4cz+TJxJcchR3TbIgxcKBlQS7JBtVWUfWnRwozA==}
     hasBin: true
 
   '@stacksjs/ts-css@0.1.0':
@@ -1599,11 +1599,11 @@ packages:
   '@ts-charts/time@0.2.2':
     resolution: {integrity: sha512-UooMz55Ad8v15C9x6WUvBcWDcm142CqSRXUxV2NRWflfyay9ZsnwZemclbTdUfgwJqz0uOFA3uMSCuLZ0I8oDw==}
 
-  '@ts-cloud/aws-types@0.7.18':
-    resolution: {integrity: sha512-npyiCQwWt+ltMKh/EPEwE4FPT7yshXsx+jxCFoYFAijmT2wYYQuocqdSi4OAPWay/IEhGoRJMn03FqcN3coMBg==}
+  '@ts-cloud/aws-types@0.7.111':
+    resolution: {integrity: sha512-CEd5883kiTLA1qFdBNOEx83ZEMy8PJSYA6sW1i5l4IjVeuMYityvxCP/vC2crlUZsP3+12nEuCArP8dF4v01Pw==}
 
-  '@ts-cloud/core@0.7.18':
-    resolution: {integrity: sha512-vAf4kyMmDAoDbQf5QDcf6kFR/THpK3IjXG/xIYGq407ldTZ3M1GtBaeI43Hq5VPhGnqFqCbw2ZZJ9i+X2hYVdA==}
+  '@ts-cloud/core@0.7.111':
+    resolution: {integrity: sha512-dv2FKpQ5VlBn9MktB680QLh0D/8sRD6G79Pdsc/JZtTQ2jZBzzItWORmrhoUat3ZQmOGt7YtaleQrvnH/MhVnw==}
 
   '@tybys/wasm-util@0.10.3':
     resolution: {integrity: sha512-F3fo1MYrRJYL3zER0OUOmkutjr1Vp23m7OsSgp7nq4SP6OqX6C/56XFIPAl5bt3zaBRjmW7SGz3u/6LwFpYcOg==}
@@ -2472,7 +2472,7 @@ snapshots:
       '@stacksjs/bumpx': 0.2.6
       '@stacksjs/bunpress': 0.1.13
       '@stacksjs/logsmith': 0.2.3
-      '@stacksjs/ts-cloud': 0.7.18
+      '@stacksjs/ts-cloud': 0.7.111
       '@stacksjs/ts-md': 0.1.1
     optionalDependencies:
       pickier: 0.1.39
@@ -2481,7 +2481,7 @@ snapshots:
 
   '@stacksjs/ai@0.70.87':
     dependencies:
-      '@stacksjs/ts-cloud': 0.7.18
+      '@stacksjs/ts-cloud': 0.7.111
 
   '@stacksjs/alias@0.70.87': {}
 
@@ -2558,7 +2558,7 @@ snapshots:
       '@stacksjs/storage': 0.70.87
       '@stacksjs/strings': 0.70.87
       '@stacksjs/testing': 0.70.87
-      '@stacksjs/ts-cloud': 0.7.18
+      '@stacksjs/ts-cloud': 0.7.111
       '@stacksjs/tunnel': 0.70.87
       '@stacksjs/types': 0.70.87
       '@stacksjs/ui': 0.70.87
@@ -2605,7 +2605,7 @@ snapshots:
   '@stacksjs/bunpress@0.1.13':
     dependencies:
       '@stacksjs/stx': 0.2.95
-      '@stacksjs/ts-cloud': 0.7.18
+      '@stacksjs/ts-cloud': 0.7.111
       '@stacksjs/ts-md': 0.1.1
       bunfig: 0.15.14
     transitivePeerDependencies:
@@ -2635,7 +2635,7 @@ snapshots:
 
   '@stacksjs/cloud@0.70.87':
     dependencies:
-      '@stacksjs/ts-cloud': 0.7.18
+      '@stacksjs/ts-cloud': 0.7.111
       '@stacksjs/ts-xml': 0.1.0
 
   '@stacksjs/cms@0.70.87':
@@ -2686,7 +2686,7 @@ snapshots:
   '@stacksjs/dns@0.70.87':
     dependencies:
       '@stacksjs/dnsx': 0.2.3
-      '@stacksjs/ts-cloud': 0.7.18
+      '@stacksjs/ts-cloud': 0.7.111
 
   '@stacksjs/dnsx@0.2.3': {}
 
@@ -2702,7 +2702,7 @@ snapshots:
 
   '@stacksjs/email@0.70.87':
     dependencies:
-      '@stacksjs/ts-cloud': 0.7.18
+      '@stacksjs/ts-cloud': 0.7.111
 
   '@stacksjs/enums@0.70.87': {}
 
@@ -2827,7 +2827,7 @@ snapshots:
 
   '@stacksjs/storage@0.70.87':
     dependencies:
-      '@stacksjs/ts-cloud': 0.7.18
+      '@stacksjs/ts-cloud': 0.7.111
 
   '@stacksjs/strings@0.70.87': {}
 
@@ -2850,7 +2850,7 @@ snapshots:
 
   '@stacksjs/testing@0.70.87':
     dependencies:
-      '@stacksjs/ts-cloud': 0.7.18
+      '@stacksjs/ts-cloud': 0.7.111
 
   '@stacksjs/tinker@0.70.87': {}
 
@@ -2873,11 +2873,11 @@ snapshots:
       bunfig: 0.15.14
       clone: 2.1.2
 
-  '@stacksjs/ts-cloud@0.7.18':
+  '@stacksjs/ts-cloud@0.7.111':
     dependencies:
       '@stacksjs/ts-xml': 0.1.0
-      '@ts-cloud/aws-types': 0.7.18
-      '@ts-cloud/core': 0.7.18
+      '@ts-cloud/aws-types': 0.7.111
+      '@ts-cloud/core': 0.7.111
 
   '@stacksjs/ts-css@0.1.0':
     dependencies:
@@ -3014,11 +3014,11 @@ snapshots:
     dependencies:
       '@ts-charts/array': 0.2.2
 
-  '@ts-cloud/aws-types@0.7.18': {}
+  '@ts-cloud/aws-types@0.7.111': {}
 
-  '@ts-cloud/core@0.7.18':
+  '@ts-cloud/core@0.7.111':
     dependencies:
-      '@ts-cloud/aws-types': 0.7.18
+      '@ts-cloud/aws-types': 0.7.111
 
   '@tybys/wasm-util@0.10.3':
     dependencies:
@@ -3592,7 +3592,7 @@ snapshots:
 
   ts-pantry@0.10.12:
     dependencies:
-      '@stacksjs/ts-cloud': 0.7.18
+      '@stacksjs/ts-cloud': 0.7.111
       bunfig: 0.15.14
       ts-web-scraper: 0.1.3
 
