@@ -16,15 +16,17 @@
   "bugs": "https://github.com/stacksjs/everything/issues",
   "files": [],
   "scripts": {
-    "dev": "node-modules-inspector",
-    "build": "node-modules-inspector build",
+    "dev": "bun \"${PANTRY_PATH:-$HOME/Code/pantry}/packages/inspector/serve.ts\"",
+    "build": "bun \"${PANTRY_PATH:-$HOME/Code/pantry}/packages/inspector/build.ts\" --project \"$PWD\" --out \"$PWD/dist/inspector\"",
     "deploy": "bunx --bun @stacksjs/ts-cloud deploy --env production --yes",
     "deploy:diff": "bunx --bun @stacksjs/ts-cloud deploy --env production --dry-run",
     "lint": "bunx --bun pickier .",
     "lint:fix": "bunx --bun pickier . --fix",
     "format": "bunx --bun pickier . --format",
     "format:fix": "bunx --bun pickier . --format --write",
-    "postinstall": "bunx git-hooks"
+    "postinstall": "bunx git-hooks",
+    "build:nmi": "node-modules-inspector build",
+    "dev:nmi": "node-modules-inspector"
   },
   "dependencies": {
     "@cwcss/crosswind": "catalog:libraries",

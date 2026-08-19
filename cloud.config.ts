@@ -79,21 +79,19 @@ const config: CloudConfig = {
     // served by the shared rpx gateway's file_server. No `start`/`port`.
     main: {
       deploy: 'server',
-      root: 'dist/__node-modules-inspector',
+      root: 'dist/inspector',
       domain: 'everything.stacksjs.com',
-      // Rebuilds the inspector before packaging. `bun run` puts node_modules/.bin
-      // on PATH, so node-modules-inspector resolves without a global install.
+      // Rendered by pantry's own inspector (packages/inspector), which reads
+      // this project's node_modules directly — every package the Stacks team
+      // publishes, with what each one costs the install it lands in.
       //
-      // node-modules-tools shells out to `<pm> root` to locate node_modules,
-      // and every package-manager shim in .bin execs `node`. Without a real
-      // node on PATH that call fails, resolveRoot silently falls back, and the
-      // build emits an EMPTY graph (7KB payload, blank site) while still
-      // reporting success. pantry/.bin comes from deps.yaml (bun + node), so
-      // the toolchain is declared rather than assumed from the host.
+      // The analyzer needs a pantry checkout, since the inspector is part of
+      // that repo rather than a published package. PANTRY_PATH overrides the
+      // default for anyone whose checkout is somewhere else.
       build: 'PATH="$PWD/pantry/.bin:$PATH" bun run build',
-      // node-modules-inspector is a client-rendered Nuxt SPA — fall back to
-      // index.html for deep links.
-      spa: true,
+      // Static HTML, one directory per route — the gateway serves each
+      // route's index.html, so no SPA fallback.
+      spa: false,
     },
   },
 }
