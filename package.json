@@ -24,7 +24,7 @@
     "lint:fix": "bunx --bun pickier . --fix",
     "format": "bunx --bun pickier . --format",
     "format:fix": "bunx --bun pickier . --format --write",
-    "postinstall": "bunx git-hooks",
+    "postinstall": "bunx bun-git-hooks",
     "build:nmi": "node-modules-inspector build",
     "dev:nmi": "node-modules-inspector"
   },
